@@ -4,7 +4,7 @@ permalink: /courses/ml1_c1/
 cycle: c1
 kind: workshop
 excerpt: Machine learning for real world problems Series - Regression
-sequence: 5
+sequence: 3
 header:
   overlay_image: /assets/images/realworldregression.jpeg
   teaser: assets/images/realworldregression.jpeg

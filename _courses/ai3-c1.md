@@ -4,7 +4,7 @@ permalink: /courses/ai3_c1/
 cycle: c1
 kind: course
 excerpt: Processing your data to make it useful for machine learning models
-sequence: 3
+sequence: 5
 header:
   overlay_image: /assets/images/featureprocessing.jpeg
   teaser: assets/images/featureprocessing.jpeg

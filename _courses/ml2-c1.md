@@ -4,7 +4,7 @@ permalink: /courses/ml2_c1/
 cycle: c1
 kind: workshop
 excerpt: Machine learning for real world problems Series - Classification
-sequence: 6
+sequence: 4
 header:
   overlay_image: /assets/images/realworldclassification.jpeg
   teaser: assets/images/realworldclassification.jpeg

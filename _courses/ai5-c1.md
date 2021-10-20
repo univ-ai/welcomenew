@@ -4,7 +4,7 @@ permalink: /courses/ai5_c1/
 cycle: c1
 kind: course
 excerpt: A workshop on good visualization, presentation and storytelling techniques to communicate insigh from your data and your models.
-sequence: 7
+sequence: 8
 header:
   overlay_image: /assets/images/presenting.jpeg
   teaser: assets/images/presenting.jpeg

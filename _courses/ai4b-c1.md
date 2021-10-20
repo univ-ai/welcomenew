@@ -4,7 +4,7 @@ permalink: /courses/ai4_c1/
 cycle: c1
 kind: course
 excerpt: A flipped community course on the basic concepts of machine learning
-sequence: 4
+sequence: 7
 header:
   overlay_image: /assets/images/conceptsofml.jpeg
   teaser: assets/images/conceptsofml.jpeg
