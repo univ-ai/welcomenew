@@ -6,7 +6,7 @@ kind: course
 excerpt: A workshop on starting your data science journey with Pandas
 sequence: 1
 header:
-  overlay_image: /assets/images/pandas.jpeg
+  overlay_image: assets/images/pandas.jpeg
   teaser: assets/images/pandas.jpeg
   actions:
     - label: "Register"
@@ -58,7 +58,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 ### Dr. Ignacio Becker
 
-![](/assets/ai1-c2.assets/igancio.jpeg)
+![](assets/ai1-c2.assets/igancio.jpeg)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
@@ -68,7 +68,7 @@ The teaching assistants for the duration of this course are:
 
 ### Arya Mohan
 
-![](/assets/ai1-c2.assets/arya.jpeg)
+![](assets/ai1-c2.assets/arya.jpeg)
 
 - Arya is working as a research and teaching fellow with Univ.AI.
 - Previously, she was a data analyst at Schneider Electric.
@@ -76,7 +76,7 @@ The teaching assistants for the duration of this course are:
 
 ### Anshika Gupta
 
-<img src="/assets/ai1-c2.assets/AnshikaGupta.png" style="zoom:40%;" />
+<img src="assets/ai1-c2.assets/AnshikaGupta.png" style="zoom:40%;" />
 
 - Anshika is a  deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur. 
 - Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
@@ -84,21 +84,21 @@ The teaching assistants for the duration of this course are:
 
 ### Harsh Vardhan
 
-<img src="/assets/ai1-c2.assets/HarshGoyal.jpeg" style="zoom:55%;" />
+<img src="assets/ai1-c2.assets/HarshGoyal.jpeg" style="zoom:55%;" />
 
 - Harsh is currently studying productionizing AI with Univ.AI. 
 - He is passionate about intersection of sustainable technology and AI.
 
 ### Vishnu M
 
-<img src="/assets/ai1-c2.assets/VishnuM.png" style="zoom:40%;" />
+<img src="assets/ai1-c2.assets/VishnuM.png" style="zoom:40%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
 ### Yashraj Wani
 
-<img src="/assets/ai1-c2.assets/YashrajWani.png" style="zoom:40%;" />
+<img src="assets/ai1-c2.assets/YashrajWani.png" style="zoom:40%;" />
 
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
@@ -116,7 +116,7 @@ Each week shall include:
 
 ### Session - What to expect
 
-![](/assets/ai1-c2.assets/Session.png)
+![](assets/ai1-c2.assets/Session.png)
 
 The course includes two 1.5 hour sessions per week. Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
@@ -133,7 +133,7 @@ After the session, students are expected to complete a short post-class quiz bas
 ### Lab - What to expect
 
 
-<img src="/assets/ai1-c2.assets/Lab.png" style="zoom:80%;" />
+<img src="assets/ai1-c2.assets/Lab.png" style="zoom:80%;" />
 
 A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
 
@@ -145,7 +145,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-<img src="/assets/ai1-c2.assets/Content.png" style="zoom:150%;" />
+<img src="assets/ai1-c2.assets/Content.png" style="zoom:150%;" />
 
 ## The Class
 
@@ -158,7 +158,7 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-<img src="/assets/ai1-c2.assets/Schedule.png" style="zoom:300%;" />
+<img src="assets/ai1-c2.assets/Schedule.png" style="zoom:300%;" />
 
 **Lecture Sessions**: 
 
@@ -241,4 +241,4 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 
 We wish you best of luck for your data science journey.
 
-![](/assets/ai1-c2.assets/end.jpeg)
+![](assets/ai1-c2.assets/end.jpeg)
