@@ -196,7 +196,7 @@ This will help you assess your preparedness for the course, and will also help y
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
 
-Please find a more detailed summary of the pre-requisites for this program [here](/courseprep.md).
+Please find a more detailed summary of the pre-requisites for this program [here](/ai1/courseprep.md).
 
 
 ## Diversity & Inclusion
@@ -222,13 +222,13 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 ### Education software we use
 
-- Our lectures and labs are carried out via [Zoom](zoom.md) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](edstem.md).
+- Our lectures and labs are carried out via [Zoom](/support/zoom/) (install instructions).
+- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
 - Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/ai1/policy.md). Our expectations of you are also laid out in that document.
 
 
 ## Parting note

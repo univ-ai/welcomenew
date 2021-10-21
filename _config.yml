@@ -120,6 +120,17 @@ defaults:
       header:
         overlay_color: "#000"
         overlay_filter: "0.5"
+  # _support
+  - scope:
+      path: ""
+      type: support
+    values:
+      layout: splash
+      share: false
+      related: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.5"
 
 
 

@@ -1,5 +1,7 @@
 main:
   - title: "Courses"
     url: /courses/
+  - title: "Support"
+    url: /support/
   - title: "Main Site"
     url: https://univ.ai/
