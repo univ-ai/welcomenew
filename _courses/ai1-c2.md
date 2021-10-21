@@ -1,19 +1,17 @@
 ---
-title: "Ai1" 
+title: "AI-1" 
 permalink: /courses/ai1_c2/
 cycle: c2
 kind: course
-excerpt: A workshop on starting your data science journey with Pandas
+excerpt: ML/AI Basics
 sequence: 1
 header:
   overlay_image: assets/images/pandas.jpeg
   teaser: assets/images/pandas.jpeg
   actions:
     - label: "Register"
-      url: "https://my.univ.ai/meetups/pandas-for-data-science-c1"
+      url: "https://application.univ.ai/applications"
 ---
-
-## AI-1 : ML/AI Basics
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist,a master of all four elements*
 
