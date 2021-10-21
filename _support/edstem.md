@@ -4,8 +4,6 @@ permalink: /support/edstem/
 kind: support
 excerpt: A primer on the system we use for our lectures
 sequence: 1
-header:
-  overlay_image: assets/images/pandas.jpeg
 ---
 
 In one of the emails we sent you, you will have found an invite link for the joining the edStem platform. Please click on that link and sign up for edStem. The following is the front page of ed once you have successfully signed up. You will then have to login to access your ed account.![](/assets/edstem.assets/frontpage.png)

@@ -4,8 +4,6 @@ permalink: /support/zoom/
 kind: support
 excerpt: How we use zoom for our lectures
 sequence: 2
-header:
-  overlay_image: assets/images/pandas.jpeg
 ---
 
 ## Create your Zoom account
