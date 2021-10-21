@@ -21,8 +21,8 @@ twitter_username: rahuldave
 github_username: rahuldave
 minimal_mistakes_skin: default
 search: false
-url: https://univ-ai.github.io/welcomenew
-baseurl: ""
+url: https://univ-ai.github.io
+baseurl: /welcomenew
 repository: "univ-ai/welcomenew"
 
 # Build settings
