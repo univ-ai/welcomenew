@@ -1,8 +1,8 @@
 ---
-title: "How to use Zoom" 
+title: "Zoom" 
 permalink: /support/zoom/
 kind: support
-excerpt: How we use for our lectures
+excerpt: How we use zoom for our lectures
 sequence: 2
 header:
   overlay_image: assets/images/pandas.jpeg
