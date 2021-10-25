@@ -10,20 +10,20 @@ coursesnav:
   - title: COURSES
     children:
       - title: "PyDS (C2)"
-        url: /courses/pyds-c2/
+        url: /courses/pyds_c2/
       - title: "Ai-1 (C2)"
-        url: /courses/ai1-c2/
+        url: /courses/ai1_c2/
       - title: "Ai-2 (C1)"
-        url: /courses/ai2-c1/
+        url: /courses/ai2_c1/
       - title: "ML-1 (C1)"
-        url: /courses/ml1-c1/
+        url: /courses/ml1_c1/
       - title: "ML-2 (C1)"
-        url: /courses/ml1-c2/
+        url: /courses/ml1_c2/
       - title: "Ai-3 (C1)"
-        url: /courses/ai3-c1/
+        url: /courses/ai3_c1/
       - title: "Ai-4a (C1)"
-        url: /courses/ai4a-c1/
+        url: /courses/ai4a_c1/
       - title: "Ai-4b (C1)"
-        url: /courses/ai4b-c1/
+        url: /courses/ai4b_c1/
       - title: "Ai-5 (C1)"
-        url: /courses/ai5-c1/
+        url: /courses/ai5_c1/
