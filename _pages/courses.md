@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Courses and Workshops"
+title: "Courses"
 collection: courses
 permalink: /courses/
 author_profile: false

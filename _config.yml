@@ -90,10 +90,7 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
-  events:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  support:
     output: true
     permalink: /:collection/:path/
 
