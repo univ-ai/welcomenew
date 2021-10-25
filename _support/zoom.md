@@ -3,7 +3,6 @@ title: "Zoom"
 permalink: /support/zoom/
 kind: support
 excerpt: How we use zoom for our lectures
-sequence: 2
 ---
 
 ## Create your Zoom account
