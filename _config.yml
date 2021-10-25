@@ -113,7 +113,8 @@ defaults:
     values:
       sidebar:
         nav: "coursesnav"
-      layout: splash
+      layout: single
+      classes: wide
       share: false
       related: false
       header:
@@ -125,6 +126,7 @@ defaults:
       type: support
     values:
       layout: splash
+      classes: wide
       share: false
       related: false
       header:
