@@ -111,6 +111,8 @@ defaults:
       path: ""
       type: courses
     values:
+      sidebar:
+        nav: "coursesnav"
       layout: splash
       share: false
       related: false
