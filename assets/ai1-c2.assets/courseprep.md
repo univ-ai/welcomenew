@@ -7,7 +7,6 @@ title: Course Pre-requisites
 
 This course dives right into core Machine Learning topics. For this students are expected to be fluent in Python programming. You can familiarize yourself with Python by completing online tutorials. Additionally, we have a free Basics Python course offered by Univ.AI that covers all necessary python topics. Also, you are expected to be able to manipulate data using `pandas` DataFrames, perform basic operations with numpy arrays, and make use of basic plotting functions (e.g. line chart, histogram, scatter plot, bar chart) from `matplotlib`.
 
-
 - [**Python basics**](https://www.learnpython.org) -  Throughout this  course, we will be using Python as our primary programming language for both exercises, labs and homework. Thus, it is crucial for you to have basic Python programming knowledge. The following are the topics you need to cross off your checklist before the course begins:
 
      - Variables, Datatypes, strings, file operations, Data structures such as lists, dictionaries, tuples and classes.
@@ -26,7 +25,7 @@ Finally, we assume that students have a strong foundation in calculus, linear al
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
-## INTRODUCTION TO ONLINE TEACHING
+## Introduction to Online Teaching
 
 To make the most of this course we highly recommend you follow the given guidelines:
 

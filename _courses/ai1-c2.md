@@ -8,14 +8,11 @@ sequence: 1
 header:
   overlay_image: assets/images/pandas.jpeg
   teaser: assets/images/pandas.jpeg
-  actions:
-    - label: "Register"
-      url: "https://application.univ.ai/applications"
 ---
 
->*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist,a master of all four elements*
+>*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
 
-Welcome to AI1. 
+Welcome to AI-1. 
 The objective of this module is to provide fundamental understandings of machine learning models 
 and get you working with the basic concepts of ML and AI. 
 
@@ -28,15 +25,11 @@ At the end of this module, you will be able to run basic machine learning models
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-
-
 ## Interested in joining?
 
-> If you would like to apply to this course, please go [here](https://application.univ.ai/ ). 
+> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
 
 > We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
-
 
 ## The Team
 
@@ -152,8 +145,6 @@ directed towards giving a brief overview of the homework problem. We will discus
 There will be a **Welcome Session** scheduled on ```19 September 2021``` at ``` 9:00 PM IST``` for all registered students. 
 Please check your mail for more information.
 
-
-
 ### High level course schedule 
 
 <img src="/assets/ai1-c2.assets/Schedule.png" style="zoom:300%;" />
@@ -194,7 +185,7 @@ This will help you assess your preparedness for the course, and will also help y
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
 
-Please find a more detailed summary of the pre-requisites for this program [here](/ai1/courseprep/).
+Please find a more detailed summary of the pre-requisites for this program [here](assets/ai1-c2.assets/courseprep/).
 
 
 ## Diversity & Inclusion
@@ -226,7 +217,7 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](/ai1/policy/). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](assets/ai1-c2.assets/courseprep/). Our expectations of you are also laid out in that document.
 
 
 ## Parting note
