@@ -100,12 +100,14 @@ defaults:
       path: ""
       type: pages
     values:
+      sidebar:
+        nav: "coursesnav"
       layout: splash
       share: false
       related: false
       header:
         overlay_color: "#000"
-        overlay_filter: "0.5"
+        overlay_filter: "0.3"
   # _courses
   - scope:
       path: ""
@@ -119,7 +121,7 @@ defaults:
       related: false
       header:
         overlay_color: "#000"
-        overlay_filter: "0.5"
+        overlay_filter: "0.3"
   # _support
   - scope:
       path: ""
@@ -131,7 +133,7 @@ defaults:
       related: false
       header:
         overlay_color: "#000"
-        overlay_filter: "0.5"
+        overlay_filter: "0.3"
 
 
 
