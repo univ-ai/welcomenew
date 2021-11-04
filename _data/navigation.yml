@@ -10,7 +10,7 @@ coursesnav:
   - title: COURSES
     children:
       - title: "PyDS"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/pyds_c1/
           - title: "Cohort 2"
