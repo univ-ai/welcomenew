@@ -17,46 +17,46 @@ coursesnav:
             url: /courses/pyds_c2/
 
       - title: "AI-1"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ai1_c1/
           - title: "Cohort 2"
             url: /courses/ai1_c2/
 
       - title: "AI-2"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ai2_c1/
           - title: "Cohort 2"
             url: /courses/ai2_c2/
 
       - title: "ML-1"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ml1_c1/
 
       - title: "ML-2"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ml2_c1/
 
 
       - title: "AI-3"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ai3_c1/
 
       - title: "AI-4A"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ai4a_c1/
 
       - title: "AI-4B"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ai4b_c1/
 
       - title: "AI-5"
-        children:
+        subnav:
           - title: "Cohort 1"
             url: /courses/ai5_c1/   
