@@ -1,5 +1,5 @@
 ---
-title: "pyDS" 
+title: "PyDS" 
 permalink: /catalog/cohort2/pyds/
 cycle: c2
 kind: course
@@ -86,7 +86,6 @@ We will hold two weekend sessions per week for a total of five weeks.
 
 ### What to expect
 
-![](/assets/images/end.jpeg)
 
 ![](/assets/pyds-c2.assets/session.jpeg)
 
@@ -106,7 +105,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Welcome Session
 
-There will be a **Welcome Session** scheduled on `13 November 2021` at `18:30` **IST** [`8:00` **EST**].
+There will be a **Welcome Session** scheduled on `20 November 2021` at `18:30` **IST** [`8:00` **EST**].
 
 Please check your email for more information.
 
@@ -134,7 +133,6 @@ We believes in the idea of active learning and our course is designed with the e
 Please find a demo of our course style and pedagogy.
 
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/JDwm7wmWGBE?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"></iframe>
-
 <br>
 
 ## Course Topics 
