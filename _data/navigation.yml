@@ -10,42 +10,42 @@ coursesnav:
     - title: "PyDS"
       children:
         - title: "Cohort 1"
-          url: /courses/pyds_c1/
+          url: /catalog/cohort1/pyds/
         - title: "Cohort 2"
-          url: /courses/pyds_c2/
+          url: /catalog/cohort2/pyds/
     - title: "AI-1"
       children:
         - title: "Cohort 1"
-          url: /courses/ai1_c1/
+          url: /catalog/cohort1/ai1/
         - title: "Cohort 2"
-          url: /courses/ai1_c2/
+          url: /catalog/cohort2/ai1/
     - title: "AI-2"
       children:
         - title: "Cohort 1"
-          url: /courses/ai2_c1/
+          url: /catalog/cohort1/ai2/
         - title: "Cohort 2"
-          url: /courses/ai2_c2/
+          url: /catalog/cohort2/ai2/
     - title: "ML-1"
       children:
         - title: "Cohort 1"
-          url: /courses/ml1_c1/
+          url: /catalog/cohort1/ml1/
     - title: "ML-2"
       children:
         - title: "Cohort 1"
-          url: /courses/ml2_c1/
+          url: /catalog/cohort1/ml2/
     - title: "AI-3"
       children:
         - title: "Cohort 1"
-          url: /courses/ai3_c1/
+          url: /catalog/cohort1/ai3/
     - title: "AI-4A"
       children:
         - title: "Cohort 1"
-          url: /courses/ai4a_c1/
+          url: /catalog/cohort1/ai4a/
     - title: "AI-4B"
       children:
         - title: "Cohort 1"
-          url: /courses/ai4b_c1/
+          url: /catalog/cohort1/ai4b/
     - title: "AI-5"
       children:
         - title: "Cohort 1"
-          url: /courses/ai5_c1/   
+          url: /catalog/cohort1/ai5/  
