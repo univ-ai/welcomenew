@@ -101,6 +101,7 @@ defaults:
       type: pages
     values:
       sidebar:
+        title: "Courses"
         nav: "coursesnav"
       layout: splash
       share: false
@@ -114,6 +115,7 @@ defaults:
       type: courses
     values:
       sidebar:
+        title: "Courses"
         nav: "coursesnav"
       layout: single
       classes: wide
