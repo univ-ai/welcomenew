@@ -18,8 +18,7 @@ and get you working with the basic concepts of ML and AI.
 
 You will start with the regression models (KNN, Linear, Multi, Poly) and then move on to classification models (kNN, Logistic).
 
-Finally, the course will provide a basic understanding of modern neural networks. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, 
-preventing overfitting, regularization, and model evaluation. 
+Finally, the course will provide a basic understanding of modern neural networks. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
 
 At the end of this module, you will be able to run basic machine learning models, and tell how well they are performing. 
 
@@ -40,10 +39,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - Scientific Director of the Institute for
 Applied Computational Science (IACS).
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in
-astrostatistics and he is excited about
-the new telescopes coming online in
-the next few years. 
+- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
@@ -96,7 +92,6 @@ The teaching assistants for the duration of this course are:
 
 ## The Coursework
 
-
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
 Each week shall include:
@@ -107,7 +102,7 @@ Each week shall include:
 
 ### Session - What to expect
 
-![](/assets/ai1-c2.assets/Session.png)
+![](/assets/images/Session.png)
 
 The course includes two 1.5 hour sessions per week. Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
@@ -123,8 +118,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-
-<img src="/assets/ai1-c2.assets/Lab.png" style="zoom:80%;" />
+![](/assets/images/Lab.png)
 
 A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
 
@@ -230,4 +224,4 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 
 We wish you best of luck for your data science journey.
 
-![](/assets/ai1-c2.assets/end.jpeg)
+![](/assets/images/end.jpeg)
