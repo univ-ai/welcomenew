@@ -43,9 +43,7 @@ Applied Computational Science (IACS).
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-You can [read more about him here](https://www.univ.ai/teams/pavlos-protopapas-2).
-
-The teaching assistants for the duration of this course are
+The teaching assistants for the duration of this course are:
 
 ### Varshini Reddy 
 

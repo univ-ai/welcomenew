@@ -93,6 +93,9 @@ collections:
   support:
     output: true
     permalink: /:collection/:path/
+  catalog:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
