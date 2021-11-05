@@ -50,7 +50,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 <!-- <img src="index.assets/panda.jpeg" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
 
-<img src="index.assets/newpanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
+<img src="/assets/pyds-c2.assets/newpanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
 
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="800" height="400"> -->
 
@@ -86,8 +86,9 @@ We will hold two weekend sessions per week for a total of five weeks.
 
 ### What to expect
 
+![](/assets/images/end.jpeg)
 
-![](index.assets/session.jpeg)
+![](/assets/pyds-c2.assets/session.jpeg)
 
 **Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
@@ -99,7 +100,7 @@ During the session, we will have live instruction interspaced with collaborative
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 ### Course syllabus
-![](index.assets/session.png)
+![](/assets/pyds-c2.assets/session.png)
 
 ## The Class
 
@@ -111,7 +112,7 @@ Please check your email for more information.
 
 ### Course schedule 
 
-![](index.assets/schedule.png)
+![](/assets/pyds-c2.assets/schedule.png)
 
 
 ### Sessions: 
@@ -248,7 +249,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/hargun.jpeg" alt="Hargun" style=height:220px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/hargun.jpeg" alt="Hargun" style=height:220px;margin-right:15px; align="left">
 - Hargun Oberoi is a Product Manager at Univ.Ai. <br>
 - He has a Masters degree in Mathematics from BITS Pilani University.<br> 
 - He is currently working as a research fellow at the StellarDNN lab. </p> 
@@ -273,7 +274,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/pavlosimage.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/pavlosimage.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
 - Scientific Director of the Institute for Applied Computational Science (IACS). <br>
 - Teaches Introduction to Data Science (CS109a) and Advanced Topics in Data Science (CS109b).<br> 
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years.</p> 
@@ -298,7 +299,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/Sindhu.png" alt="Pavlos" style=height:300px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/Sindhu.png" alt="Pavlos" style=height:300px;margin-right:15px; align="left">
 <!-- - Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. <br>
 - Previously, she was a Research Associate at the Indian Institute of Science..<br> 
 - She is an incoming graduate student at IACS and she is passionate about working at the interface of AI and social impact.</p>  -->
@@ -328,7 +329,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/Chaitanya.png" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/Chaitanya.png" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
 - Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.
 <br>
 - He is excited about AI and it's applications in Agriculture and Healthcare.
@@ -361,7 +362,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/Anshika.png" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/Anshika.png" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
 - Final year Computer Science Engineering undergraduate in Jaipur.
 <br>
 - Currently a TA at Univ.AI, she has previously worked as a ML researcher at a healthcare startup (Neos HealthTech, incubated at IIT-M)
@@ -389,7 +390,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/Kuldeep.png" alt="Pavlos" style=height:350px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/Kuldeep.png" alt="Pavlos" style=height:350px;margin-right:15px; align="left">
 <!-- - Electrical Engineer, currently pursuing a MSc. in Electrical Engineering at the Computational Intelligence Lab of the University of Chile.
 <br>
 - Research Fellow at StellarDNN.
@@ -424,7 +425,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/sree.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/sree.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
 - A Machine Learning Lead in a leading German-based wholesale company.  
 - Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference.
 <br>
@@ -451,7 +452,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/Shibani.png" alt="Pavlos" style=height:350px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2/Shibani.png" alt="Pavlos" style=height:350px;margin-right:15px; align="left">
 - A Psychologist and amateur  musician exploring the world of Data Science. 
 <br>
 -Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
@@ -479,7 +480,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="index.assets/joy.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/pyds-c2.assets/joy.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
 - AI researcher who has collaborated with teams from Mass Gen, MIT, Harvard and NTU Singapore.
 - Incoming masters student at Columbia University's Computer Science program.
 <br>
