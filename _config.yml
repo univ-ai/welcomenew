@@ -115,7 +115,7 @@ defaults:
     values:
       sidebar:
         nav: "coursesnav"
-      layout: splash
+      layout: single
       classes: wide
       share: false
       related: false
