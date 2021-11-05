@@ -1,7 +1,7 @@
 ---
 title: "AI-2"
-permalink: /courses/ai2_c1/
-cycle: c1
+permalink: /courses/ai2_c2/
+cycle: c2
 kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 2
@@ -15,7 +15,7 @@ header:
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
-Welcome to the **First Edition** of AI2, a follow-up to our introductory course [AI1](/courses/ai1_c2/).
+Welcome to the **First Edition** of AI2, a follow-up to our introductory course [AI-1](/catalog/cohort2/ai1/).
 
 In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
 
@@ -45,37 +45,23 @@ the next few years.
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
+
+### Dr. Ignacio Becker
+
+![](/assets/ai2-c2.assets/igancio.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+
 The teaching assistants for the duration of this course are:
 
-### Varshini Reddy 
+### Vishnu M
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
+<img src="/assets/ai2-c2.assets/VishnuM.png" style="zoom:40%;" />
 
-- Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. 
-- Previously, she was a Research Associate at the Indian Institute of Science.
-- She is passionate about working at the interface of AI and social impact.
-
-### Hargun Oberoi
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
-
-- Hargun is an AI and ML Researcher and Teaching Fellow at Univ.AI
-- He is a Masters graduate of Mathematics from BITS Pilani University. 
-- Previously, he has worked as a client project manager at Cisco Systems for three years.
-
-### Anusha Sheth
-
-![](/assets/ai2-c1.assets/anusha.png)
-
-- Anusha is working as a research and teaching fellow with Univ.ai, she has previously worked with Robert Bosch as a software engineer in automotive domain.
-- She is a big believer in sustainability and has been working on applications of AI in sustainable energy for the last 3 years.
-
-### Arya Mohan
-
-![](/assets/ai2-c1.assets/arya.jpeg)
-
-- Arya is currently a data analyst at Schneider Electric and a Teaching Assistant at Univ.AI.
-- She is passionate about image processing and is currently researching the application of computer vision in the detection of deep fake videos.
+- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
+- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
 
 ## The Coursework
@@ -90,7 +76,7 @@ Each week shall include:
 
 ### Session - What to expect
 
-![](/assets/ai2-c1.assets/Session.png)
+![](/assets/images/Session.png)
 
 Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
@@ -106,7 +92,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-<img src="/assets/ai1-c2.assets/Lab.png" style="zoom:80%;" />
+<img src="/assets/images/Lab.png" style="zoom:80%;" />
 
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
@@ -206,8 +192,8 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 ### Education software we use
 
-- Our lectures and labs are carried out via [Zoom](zoom.md) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](edstem.md).
+- Our lectures and labs are carried out via [Zoom](/support/zoom.md) (install instructions).
+- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem.md).
 - Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
 
 All exercises and homeworks in this course will be done in jupyter notebooks. Detailed instructions to setup and work on Jupyter notebooks can be seen [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
