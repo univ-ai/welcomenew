@@ -101,8 +101,7 @@ defaults:
       type: pages
     values:
       sidebar:
-        - nav: "coursesnav"
-        - nav: "subnav"
+        nav: "coursesnav"
       layout: splash
       share: false
       related: false
@@ -115,9 +114,8 @@ defaults:
       type: courses
     values:
       sidebar:
-        - nav: "coursesnav"
-        - nav: "subnav"
-      layout: single
+        nav: "coursesnav"
+      layout: splash
       classes: wide
       share: false
       related: false
