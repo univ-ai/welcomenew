@@ -50,6 +50,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 ![](/assets/ai2-c2.assets/igancio.jpeg)
 
+
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
@@ -58,11 +59,32 @@ The teaching assistants for the duration of this course are:
 
 ### Vishnu M
 
-<img src="/assets/ai2-c2.assets/VishnuM.png" style="zoom:40%;" />
+<img src="/assets/ai1-c2.assets/VishnuM.png" style="zoom:40%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
+### Harsh Vardhan
+
+<img src="/assets/ai2-c2.assets/HarshGoyal.jpeg" style="zoom:55%;" />
+
+- Harsh is currently studying productionizing AI with Univ.AI. 
+- He is passionate about intersection of sustainable technology and AI.
+
+### Sakthisree Venkateshan
+
+<img src="/assets/ai2-c2.assets/Sree.jpeg" style="zoom:55%;" />
+
+- Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.  
+- Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research. 
+- She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.
+
+### Yashraj Wani
+
+<img src="/assets/ai2-c2.assets/YashrajWani.png" style="zoom:40%;" />
+
+- Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
+- He is excited about smart devices which use AI to better assist its users
 
 ## The Coursework
 
@@ -102,7 +124,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c1.assets/syllabus.jpeg)
+![](/assets/ai2-c2.assets/syllabus.jpg)
 
 ## The Class
 
@@ -115,18 +137,18 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-![](/assets/ai2-c1.assets/newtt.jpeg)
+![](/assets/ai2-c1.assets/schedule.jpg)
 
 *NOTE*: Below timings are in IST
 
 **Lecture Sessions**: 
-- Wednesday Series: ```9:00 PM - 11:00 PM ```
-- Saturday Series: ```7:30 PM - 9:30 PM ```
+- Tuesday Series: ```9:00 PM - 10:30 PM ```
+- Saturday Series: ```9:00 PM - 10:30 PM ```
 
 **Lab Sessions**: 
 
-- Thursday Series: ```9:00 PM - 10:00 PM``` 
-- Sunday Series: ```7:30 PM - 8:30 PM```
+- Wednesday Series: ```6:00 PM - 7:30 PM``` 
+- Sunday Series: ```7:30 PM - 9:00 PM```
 
 **Office hours**: 
 
