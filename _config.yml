@@ -112,6 +112,7 @@ defaults:
       header:
         overlay_color: "#000"
         overlay_filter: "0.3"
+
   # _courses
   - scope:
       path: ""
@@ -127,6 +128,25 @@ defaults:
       header:
         overlay_color: "#000"
         overlay_filter: "0.3"
+
+
+  # _catalog
+  - scope:
+      path: ""
+      type: catalog
+    values:
+      sidebar:
+        title: "Courses"
+        nav: "coursesnav"
+      layout: single
+      classes: wide
+      share: false
+      related: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.3"
+
+
   # _support
   - scope:
       path: ""
