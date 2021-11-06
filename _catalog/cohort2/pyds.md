@@ -136,8 +136,6 @@ Please find a demo of our course style and pedagogy.
   <iframe src="https://www.youtube.com/embed/JDwm7wmWGBE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-<br>
-
 ## Course Topics 
 
 > Note: Prior knowledge of python programming is not necessary for this module

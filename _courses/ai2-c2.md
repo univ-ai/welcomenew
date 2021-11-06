@@ -15,7 +15,7 @@ header:
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
-Welcome to the **First Edition** of AI2, a follow-up to our introductory course [AI-1](/catalog/cohort2/ai1/).
+Welcome to the **Second Edition** of AI2, a follow-up to our introductory course [AI-1](/catalog/cohort2/ai1/).
 
 In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
 
@@ -55,7 +55,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-The teaching assistants for the duration of this course are:
+**The teaching assistants for the duration of this course are:**
 
 ### Vishnu M
 
@@ -68,8 +68,8 @@ The teaching assistants for the duration of this course are:
 
 <img src="/assets/ai2-c2.assets/HarshGoyal.jpeg" style="zoom:55%;" />
 
-- Harsh is currently studying productionizing AI with Univ.AI. 
-- He is passionate about intersection of sustainable technology and AI.
+- Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
+- He also enjoys climbing/bouldering and running.
 
 ### Sakthisree Venkateshan
 
@@ -130,14 +130,14 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ### Welcome Session - Preparing for this class 
 
-There will be a **Welcome Session** scheduled on ```03 November 2020``` at ``` 7:00 PM``` IST for all registered students. 
+There will be a **Welcome Session** scheduled on ```14 November 2021``` at ``` 7:00 PM``` IST for all registered students. 
 
 Please check your mail for more information.
 
 
 ### High level course schedule 
 
-![](/assets/ai2-c1.assets/schedule.jpg)
+![](/assets/ai2-c2.assets/schedule.jpg)
 
 *NOTE*: Below timings are in IST
 
@@ -208,17 +208,17 @@ Reference:
 
 ## Logistics - What you need to begin?
 
-We assume you have a [Univ.AI](https://courses.univ.ai) account, created when you signed up at [courses.univ.ai](https://courses.univ.ai). 
+We assume you have a [Univ.AI](https://course.univ.ai) account, created when you signed up at [course.univ.ai](https://course.univ.ai). 
 If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 
 ### Education software we use
 
-- Our lectures and labs are carried out via [Zoom](/support/zoom.md) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem.md).
+- Our lectures and labs are carried out via [Zoom](/support/zoom/) (install instructions).
+- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
 - Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
 
 All exercises and homeworks in this course will be done in jupyter notebooks. Detailed instructions to setup and work on Jupyter notebooks can be seen [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
-Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/assets/ai2-c1.assets/policy.md). Our expectations of you are also laid out in that document.
 
