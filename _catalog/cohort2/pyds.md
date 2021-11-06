@@ -131,9 +131,15 @@ Please check your email for more information.
 We believes in the idea of active learning and our course is designed with the expectation of active participation from the students.
 
 Please find a demo of our course style and pedagogy.
+
 <figure class="video_container">
 <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" src="https://www.youtube.com/embed/JDwm7wmWGBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> &nbsp;</iframe>
 </figure>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 <br>
 
 ## Course Topics 
