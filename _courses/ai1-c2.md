@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 2
 header:
-  overlay_image: assets/images/pandas.jpeg
-  teaser: assets/images/pandas.jpeg
+  overlay_image: /assets/images/header/HeaderDesign1.jpeg
+  teaser: /assets/images/header/HeaderDesign1.jpeg
 ---
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
@@ -28,7 +28,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 > If you would like to apply to this course, please go [here](https://application.univ.ai/). 
 
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
+> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -42,9 +42,9 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Dr. Ignacio Becker
+### (Dr.) Ignacio Becker
 
-![](/assets/ai1-c2.assets/igancio.jpeg)
+![](/assets/images/people/IgnacioBecker.jpeg)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
@@ -54,7 +54,7 @@ The teaching assistants for the duration of this course are:
 
 ### Arya Mohan
 
-![](/assets/ai1-c2.assets/arya.jpeg)
+![](/assets/images/people/AryaMohan.jpeg)
 
 - Arya is working as a research and teaching fellow with Univ.AI.
 - Previously, she was a data analyst at Schneider Electric.
@@ -62,7 +62,7 @@ The teaching assistants for the duration of this course are:
 
 ### Anshika Gupta
 
-<img src="/assets/ai1-c2.assets/AnshikaGupta.png" style="zoom:40%;" />
+<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;" />
 
 - Anshika is a  deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur. 
 - Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
@@ -70,21 +70,21 @@ The teaching assistants for the duration of this course are:
 
 ### Harsh Vardhan
 
-<img src="/assets/ai1-c2.assets/HarshGoyal.jpeg" style="zoom:55%;" />
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
 
 - Harsh is currently studying productionizing AI with Univ.AI. 
 - He is passionate about intersection of sustainable technology and AI.
 
 ### Vishnu M
 
-<img src="/assets/ai1-c2.assets/VishnuM.png" style="zoom:40%;" />
+<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
 ### Yashraj Wani
 
-<img src="/assets/ai1-c2.assets/YashrajWani.png" style="zoom:40%;" />
+<img src="/assets/images/people/YashrajWani.png" style="zoom:40%;" />
 
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
@@ -129,7 +129,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-<img src="/assets/ai1-c2.assets/Content.png" style="zoom:150%;" />
+<img src="/assets/ai1-c2.assets/content.png" style="zoom:150%;" />
 
 ## The Class
 
@@ -140,7 +140,7 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-<img src="/assets/ai1-c2.assets/Schedule.png" style="zoom:300%;" />
+<img src="/assets/ai1-c2.assets/schedule.png" style="zoom:300%;" />
 
 **Lecture Sessions**: 
 
@@ -170,7 +170,7 @@ All exercises in this course will be done in jupyter notebooks.
 
 > Note: No prior knowledge of machine learning libraries is necessary for this module
 
-In addition to this, you are expected to know the material covered in our [pyDS](https://welcome.univ.ai/Foundations/PyDS/) course. 
+In addition to this, you are expected to know the material covered in our [pyDS](/courses/pyds_c2/) course. 
 
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
@@ -212,7 +212,6 @@ All exercises and homeworks in this course will be done in jupyter notebooks. Th
 
 Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
-
 ## Parting note
 
 As you will learn in this course, data science is not just about writing efficient algorithms.
@@ -224,3 +223,5 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
+
+[Link to previous cohort](/catalog/cohort1/ai1/)

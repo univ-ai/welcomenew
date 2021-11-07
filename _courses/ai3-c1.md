@@ -3,19 +3,16 @@ title: "AI-3"
 permalink: /courses/ai3_c1/
 cycle: c1
 kind: course
-excerpt: Processing your data to make it useful for machine learning models
+excerpt: Language Models
 sequence: 6
 header:
-  overlay_image: /assets/images/featureprocessing.jpeg
-  teaser: assets/images/featureprocessing.jpeg
-  actions:
-    - label: "Register"
-      url: "https://my.univ.ai/meetups/feature-processing-for-data-science-c1"
+  overlay_image: /assets/images/header/HeaderDesign6.jpeg
+  teaser: /assets/images/header/HeaderDesign6.jpeg
 ---
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
 
-Welcome to the **First Edition** of AI3. 
+Welcome to the **First Edition** of AI-3. 
 The objective of this module is to provide fundamental understandings of the latest language models built using deep learning architectures.
 
 You will start with the traditional language models, learn about word embeddings, attention and then move on to transformer models.
@@ -28,7 +25,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 > If you would like to apply to this course, please go [here](https://application.univ.ai/). 
 
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
+> We also provide this course as part of our Master ML and AI program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 
 ## The Team
@@ -111,7 +108,7 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
- ![](/assets/images/content.jpg)
+![](/assets/ai3-c1.assets/content.jpg)
 
 
 ## The Class
@@ -121,7 +118,7 @@ Please check your mail for more information regarding the platform and the cours
 
 ### High level course schedule 
 
-![](/assets/images/schedule.png)
+![](/assets/ai3-c1.assets/schedule.png)
 
 
 *NOTE*: Below timings are in IST

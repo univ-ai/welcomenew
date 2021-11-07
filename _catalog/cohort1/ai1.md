@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 1
 header:
-  overlay_image: assets/images/pandas.jpeg
-  teaser: assets/images/pandas.jpeg
+  overlay_image: /assets/images/header/HeaderDesign1.jpeg
+  teaser: /assets/images/header/HeaderDesign1.jpeg
 ---
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
@@ -27,7 +27,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 > If you would like to apply to this program, please go [here](https://application.univ.ai/). 
 
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
+> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 
 ## The Team
@@ -36,8 +36,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
-- Scientific Director of the Institute for
-Applied Computational Science (IACS).
+- Scientific Director of the Institute for Applied Computational Science (IACS).
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
@@ -89,7 +88,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-<img src="/assets/images/Lab.png" style="zoom:80%;" />
+![](/assets/images/Lab.png)
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
 - Each lab begins by revisiting the 
@@ -181,7 +180,7 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](/assets/ai1-c2.assets/courseprep/). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
 
 ## Parting note
