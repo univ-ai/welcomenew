@@ -4,7 +4,7 @@ permalink: /courses/ai1_c2/
 cycle: c2
 kind: course
 excerpt: ML/AI Basics
-sequence: 1
+sequence: 2
 header:
   overlay_image: assets/images/pandas.jpeg
   teaser: assets/images/pandas.jpeg

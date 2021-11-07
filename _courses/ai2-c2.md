@@ -4,7 +4,7 @@ permalink: /courses/ai2_c2/
 cycle: c2
 kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
-sequence: 2
+sequence: 3
 header:
   overlay_image: /assets/images/visualization.jpeg
   teaser: assets/images/visualization.jpeg
