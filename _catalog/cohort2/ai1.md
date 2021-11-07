@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 2
 header:
-  overlay_image: assets/images/pandas.jpeg
-  teaser: assets/images/pandas.jpeg
+  overlay_image: /assets/images/header/HeaderDesign1.jpeg
+  teaser: /assets/images/header/HeaderDesign1.jpeg
 ---
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
@@ -129,7 +129,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-<img src="/assets/ai1-c2.assets/content.png" style="zoom:150%;" />
+![](/assets/ai1-c2.assets/Content.png)
 
 ## The Class
 
@@ -140,7 +140,8 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-<img src="/assets/ai1-c2.assets/schedule.png" style="zoom:300%;" />
+![](/assets/ai1-c2.assets/Schedule.png)
+
 
 **Lecture Sessions**: 
 
@@ -223,3 +224,5 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
+
+[Link to previous cohort](/catalog/cohort1/ai1/)
