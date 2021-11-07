@@ -6,11 +6,8 @@ kind: course
 excerpt: A workshop on good visualization, presentation and storytelling techniques to communicate insigh from your data and your models.
 sequence: 9
 header:
-  overlay_image: /assets/images/presenting.jpeg
-  teaser: assets/images/presenting.jpeg
-  actions:
-    - label: "Register"
-      url: "https://my.univ.ai/meetups/presenting-your-results-c1"
+  overlay_image: /assets/images/header/HeaderDesign7.jpeg
+  teaser: /assets/images/header/HeaderDesign7.jpeg
 ---
 
 ## What

@@ -6,11 +6,8 @@ kind: course
 excerpt: A flipped community course on the basic concepts of machine learning
 sequence: 7
 header:
-  overlay_image: /assets/images/conceptsofml.jpeg
-  teaser: assets/images/conceptsofml.jpeg
-  actions:
-    - label: "Register"
-      url: "https://my.univ.ai/meetups/the-concepts-of-machine-learning-c1"
+  overlay_image: /assets/images/header/HeaderDesign6.jpeg
+  teaser: /assets/images/header/HeaderDesign6.jpeg
 ---
 
 ## What

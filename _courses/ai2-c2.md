@@ -6,8 +6,8 @@ kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 3
 header:
-  overlay_image: /assets/images/visualization.jpeg
-  teaser: assets/images/visualization.jpeg
+  overlay_image: /assets/images/header/HeaderDesign2.jpeg
+  teaser: /assets/images/header/HeaderDesign2.jpeg
 ---
 
 ## AI-2 : Convolutional Neural Networks 

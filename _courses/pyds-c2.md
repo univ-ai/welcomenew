@@ -6,8 +6,8 @@ kind: course
 excerpt: Intro to Data Science
 sequence: 1
 header:
-  overlay_image: assets/images/python.jpeg
-  teaser: assets/images/python.jpeg
+  overlay_image: /assets/images/header/PyDSHeader.jpeg
+  teaser: /assets/images/header/PyDSHeader.jpeg
 ---
 
 Welcome to Python for Data Science (PyDS)

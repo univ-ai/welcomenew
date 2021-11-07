@@ -129,7 +129,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-<img src="/assets/ai1-c2.assets/content.png" style="zoom:150%;" />
+![](/assets/ai1-c2.assets/content.png)
 
 ## The Class
 
@@ -140,7 +140,8 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-<img src="/assets/ai1-c2.assets/schedule.png" style="zoom:300%;" />
+![](/assets/ai1-c2.assets/schedule.png)
+
 
 **Lecture Sessions**: 
 

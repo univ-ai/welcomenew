@@ -6,11 +6,8 @@ kind: workshop
 excerpt: Machine learning for real world problems Series - Regression
 sequence: 4
 header:
-  overlay_image: /assets/images/realworldregression.jpeg
-  teaser: assets/images/realworldregression.jpeg
-  actions:
-    - label: "Register"
-      url: "https://my.univ.ai/meetups/real-world-regression-c1"
+  overlay_image: /assets/images/header/HeaderDesign3.jpeg
+  teaser: /assets/images/header/HeaderDesign3.jpeg
 ---
 
 ## What

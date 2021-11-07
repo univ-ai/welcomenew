@@ -6,11 +6,8 @@ kind: workshop
 excerpt: Machine learning for real world problems Series - Classification
 sequence: 5
 header:
-  overlay_image: /assets/images/realworldclassification.jpeg
-  teaser: assets/images/realworldclassification.jpeg
-  actions:
-    - label: "Register"
-      url: "https://my.univ.ai/meetups/real-world-classification-c1"
+  overlay_image: /assets/images/header/HeaderDesign4.jpeg
+  teaser: /assets/images/header/HeaderDesign4.jpeg
 ---
 
 ## What
