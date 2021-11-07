@@ -135,7 +135,6 @@ defaults:
       type: catalog
     values:
       sidebar:
-        title: "Courses"
         nav: "coursesnav"
       layout: single
       classes: wide
