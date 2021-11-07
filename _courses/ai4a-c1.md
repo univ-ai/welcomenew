@@ -1,5 +1,5 @@
 ---
-title: "Ai4"
+title: "AI-4A"
 permalink: /courses/ai4a_c1/
 cycle: c1
 kind: course

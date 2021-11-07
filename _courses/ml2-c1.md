@@ -1,5 +1,5 @@
 ---
-title: "ML2"
+title: "ML-2"
 permalink: /courses/ml2_c1/
 cycle: c1
 kind: workshop

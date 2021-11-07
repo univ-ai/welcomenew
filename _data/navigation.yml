@@ -7,7 +7,7 @@ main:
     url: https://univ.ai/
 
 coursesnav:
-  - title: Content
+  - title: Courses
     children:
       - title: "PyDS"
         url: /courses/pyds_c2/

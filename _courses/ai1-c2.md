@@ -36,8 +36,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
-- Scientific Director of the Institute for
-Applied Computational Science (IACS).
+- Scientific Director of the Institute for Applied Computational Science (IACS).
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
@@ -211,7 +210,7 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](/assets/ai1-c2.assets/courseprep/). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
 
 ## Parting note
