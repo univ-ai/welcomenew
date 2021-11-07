@@ -140,8 +140,7 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-![](/assets/ai1-c2.assets/Schedule.png)
-
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varschedule.png?raw=true)
 
 **Lecture Sessions**: 
 
