@@ -129,7 +129,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai1-c2.assets/Content.png)
+![](/assets/ai1-c1.assets/content.png)
 
 ## The Class
 
