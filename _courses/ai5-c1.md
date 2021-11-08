@@ -38,7 +38,7 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 
 ### Dr. Pavlos Protopapas
 
-<img src="/assets/images/people/PavlosProtopapas.png" style="width:300px;" />
+<img src="/assets/images/people/PavlosProtopapas.jpeg" style="width:300px;" />
 
 - Scientific Director of the Institute for
   Applied Computational Science (IACS).
@@ -53,7 +53,7 @@ You can <a href="https://www.univ.ai/team/pavlos-protopapas-2" target="_blank">r
 
 ### Shivas Jayaram
 
-<img src="/assets/images/people/ShivasJayaram.png" style="width:300px;" />
+<img src="/assets/images/people/ShivasJayaram.jpg" style="width:300px;" />
 
 * Researcher @Harvard IACS and Deep Learning Practitioner
 * Masters in Data Science from Harvard University
