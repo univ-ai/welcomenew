@@ -1,6 +1,6 @@
 ---
 title: "AI-1" 
-permalink: /courses/ai1_c2/
+permalink: /catalog/cohort2/ai1/
 cycle: c2
 kind: course
 excerpt: ML/AI Basics
