@@ -1,6 +1,6 @@
 ---
 title: "AI-2"
-permalink: /courses/ai2_c1/
+permalink: /catalog/cohort1/ai2/
 cycle: c1
 kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
