@@ -34,7 +34,7 @@ The teaching assistants for the duration of this course are:
 
 ### Anusha Sheth
 
-![](/assets/images/people/AnushaSheth.jpeg)
+![](/assets/images/people/AnushaSheth.png)
 
 - Anusha is working as a Research and Teaching fellow with Univ.ai, she has previously worked with Robert Bosch as a software engineer in the automotive domain.
 - She is an incoming student at TU Delft.
