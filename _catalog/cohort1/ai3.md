@@ -1,13 +1,13 @@
 ---
 title: "AI-3"
-permalink: /courses/ai3_c1/
+permalink: /catalog/cohort1/ai3/
 cycle: c1
 kind: course
 excerpt: Language Models
 sequence: 6
 header:
-  overlay_image: /assets/images/header/HeaderDesign6.jpeg
-  teaser: /assets/images/header/HeaderDesign6.jpeg
+  overlay_image: /assets/images/header/HeaderDesign5.jpeg
+  teaser: /assets/images/header/HeaderDesign5.jpeg
 ---
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*

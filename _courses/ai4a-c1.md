@@ -3,7 +3,7 @@ title: "AI-4A"
 permalink: /courses/ai4a_c1/
 cycle: c1
 kind: course
-excerpt: A flipped community course on the basic concepts of machine learning
+excerpt: Reinforcement Learning
 sequence: 7
 header:
   overlay_image: /assets/images/header/HeaderDesign6.jpeg
@@ -44,6 +44,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
+The teaching assistants for the duration of this course will be:
 
 ### Javiera Astudilo
 

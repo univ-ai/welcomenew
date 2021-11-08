@@ -142,7 +142,7 @@ Please check your mail for more information.
 
 ![](/assets/ai1-c2.assets/Schedule.png)
 
-NOTE: Below timings are in IST
+*NOTE*: Below timings are in IST
 
 **Lecture Sessions**: 
 
