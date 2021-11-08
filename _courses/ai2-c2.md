@@ -81,6 +81,13 @@ The teaching assistants for the duration of this course are:
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
 
+### Meghana Sarikonda
+
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:40%;" />
+
+- Previously worked as a freelance full stack developer
+- Fascinated about AI and it's ability to solve complex problems
+
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
