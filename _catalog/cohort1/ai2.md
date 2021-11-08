@@ -6,8 +6,8 @@ kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 2
 header:
-  overlay_image: /assets/images/visualization.jpeg
-  teaser: assets/images/visualization.jpeg
+  overlay_image: /assets/images/header/HeaderDesign2.jpeg
+  teaser: /assets/images/header/HeaderDesign2.jpeg
 ---
 
 ## AI-2 : Convolutional Neural Networks 
@@ -15,7 +15,7 @@ header:
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
-Welcome to the **First Edition** of AI2, a follow-up to our introductory course [AI1](/courses/ai1_c2/).
+Welcome to the **First Edition** of AI2, a follow-up to our introductory course [AI1](/catalog/cohort1/ai2/).
 
 In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
 
@@ -25,7 +25,7 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ## Interested in joining?
 
-> If you would like to apply to this program, please go [here](https://univ.ai/course/ai-2-convolutional-and-recurrent-ai). 
+> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
 
 > We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
@@ -35,13 +35,9 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
-- Scientific Director of the Institute for
-Applied Computational Science (IACS).
+- Scientific Director of the Institute for Applied Computational Science (IACS).
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in
-astrostatistics and he is excited about
-the new telescopes coming online in
-the next few years. 
+- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
@@ -65,14 +61,14 @@ The teaching assistants for the duration of this course are:
 
 ### Anusha Sheth
 
-![](/assets/ai2-c1.assets/anusha.png)
+![](/assets/images/people/AnushaSheth.png)
 
 - Anusha is working as a research and teaching fellow with Univ.ai, she has previously worked with Robert Bosch as a software engineer in automotive domain.
 - She is a big believer in sustainability and has been working on applications of AI in sustainable energy for the last 3 years.
 
 ### Arya Mohan
 
-![](/assets/ai2-c1.assets/arya.jpeg)
+![](/assets/images/people/AryaMohan.jpeg)
 
 - Arya is currently a data analyst at Schneider Electric and a Teaching Assistant at Univ.AI.
 - She is passionate about image processing and is currently researching the application of computer vision in the detection of deep fake videos.
@@ -90,7 +86,7 @@ Each week shall include:
 
 ### Session - What to expect
 
-![](/assets/ai2-c1.assets/Session.png)
+![](/assets/images/Session.png)
 
 Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
@@ -106,8 +102,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-<img src="/assets/ai1-c2.assets/Lab.png" style="zoom:80%;" />
-
+![](/assets/images/Lab.png)
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
 - Each lab begins by revisiting the Quizzes and Exercises done in the previous lecture session. 
@@ -206,11 +201,23 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 ### Education software we use
 
-- Our lectures and labs are carried out via [Zoom](zoom.md) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](edstem.md).
+- Our lectures and labs are carried out via [Zoom](/support/zoom/) (install instructions).
+- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
 - Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
 
-All exercises and homeworks in this course will be done in jupyter notebooks. Detailed instructions to setup and work on Jupyter notebooks can be seen [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
+All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
+
+## Parting note
+
+As you will learn in this course, data science is not just about writing efficient algorithms.
+
+It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
+
+Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
+
+We wish you best of luck for your data science journey.
+
+![](/assets/images/end.jpeg)
 

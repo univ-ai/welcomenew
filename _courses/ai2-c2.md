@@ -15,7 +15,7 @@ header:
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
-Welcome to the **Second Edition** of AI2, a follow-up to our introductory course [AI-1](/catalog/cohort2/ai1/).
+Welcome to the AI-2, a follow-up to our introductory course [AI-1](/catalog/cohort2/ai1/).
 
 In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
 
@@ -25,7 +25,7 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ## Interested in joining?
 
-> If you would like to apply to this program, please go [here](https://univ.ai/course/ai-2-convolutional-and-recurrent-ai). 
+> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
 
 > We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
@@ -35,45 +35,40 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
-- Scientific Director of the Institute for
-Applied Computational Science (IACS).
+- Scientific Director of the Institute for Applied Computational Science (IACS).
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in
-astrostatistics and he is excited about
-the new telescopes coming online in
-the next few years. 
+- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
 
 ### Dr. Ignacio Becker
 
-![](/assets/ai2-c2.assets/igancio.jpeg)
-
+![](/assets/images/people/IgnacioBecker.jpeg)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-**The teaching assistants for the duration of this course are:**
+The teaching assistants for the duration of this course are:
 
 ### Vishnu M
 
-<img src="/assets/ai1-c2.assets/VishnuM.png" style="zoom:40%;" />
+<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
 ### Harsh Vardhan
 
-<img src="/assets/ai2-c2.assets/HarshGoyal.jpeg" style="zoom:55%;" />
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
 
 - Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
 - He also enjoys climbing/bouldering and running.
 
 ### Sakthisree Venkateshan
 
-<img src="/assets/ai2-c2.assets/Sree.jpeg" style="zoom:55%;" />
+<img src="/assets/images/people/Sakthisree.jpeg" style="zoom:55%;" />
 
 - Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.  
 - Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research. 
@@ -81,7 +76,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 ### Yashraj Wani
 
-<img src="/assets/ai2-c2.assets/YashrajWani.png" style="zoom:40%;" />
+<img src="/assets/images/people/YashrajWani.png" style="zoom:40%;" />
 
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
@@ -114,7 +109,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-<img src="/assets/images/Lab.png" style="zoom:80%;" />
+![](/assets/images/Lab.png)
 
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
@@ -124,7 +119,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c2.assets/syllabus.jpg)
+![](/assets/ai2-c2.assets/content.jpg)
 
 ## The Class
 
@@ -188,8 +183,7 @@ You are expected to have programming experience at the level of Harvard’s [CS5
 
     - Model Selection
 
-Please find a more detailed summary of the pre-requisites for this program [here](/courseprep.md).
-
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c2.assets/courseprep/).
 
 ## Diversity & Inclusion
 
@@ -218,7 +212,20 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 - Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
 - Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
 
-All exercises and homeworks in this course will be done in jupyter notebooks. Detailed instructions to setup and work on Jupyter notebooks can be seen [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
+All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](/assets/ai2-c1.assets/policy.md). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
+## Parting note
+
+As you will learn in this course, data science is not just about writing efficient algorithms.
+
+It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
+
+Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
+
+We wish you best of luck for your data science journey.
+
+![](/assets/images/end.jpeg)
+
+[Link to previous cohort](/catalog/cohort1/ai2/)
