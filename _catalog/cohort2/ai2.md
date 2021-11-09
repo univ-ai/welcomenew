@@ -51,7 +51,7 @@ The teaching assistants for the duration of this course are:
 
 ### Vishnu M
 
-<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
+<img src="/assets/images/people/VishnuM.png" style="zoom:55%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
@@ -77,6 +77,14 @@ The teaching assistants for the duration of this course are:
 
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
+
+### Meghana Sarikonda
+
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;" />
+
+- Previously worked as a freelance full stack developer
+- Fascinated about AI and it's ability to solve complex problems
+
 
 ## The Coursework
 
