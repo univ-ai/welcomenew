@@ -106,7 +106,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-![](/assets/images/Lab.png)
+<img src="/assets/images/Lab.png" alt="Lab" class="center">
 
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
