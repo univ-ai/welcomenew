@@ -73,7 +73,7 @@ The teaching assistants for the duration of this course are:
 
 ### Yashraj Wani
 
-<img src="/assets/images/people/YashrajWani.png" style="zoom:40%;" />
+<img src="/assets/images/people/YashrajWani.png" style="zoom:43%;" />
 
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
