@@ -21,13 +21,13 @@ twitter_username: rahuldave
 github_username: rahuldave
 minimal_mistakes_skin: default
 search: false
-url: https://welcomenew.univ.ai
+url: https://welcome.univ.ai
 baseurl: /
 repository: "univ-ai/welcomenew"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: rahuldave/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
