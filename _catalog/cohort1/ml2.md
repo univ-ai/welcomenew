@@ -6,8 +6,8 @@ kind: workshop
 excerpt: Ensemble Models and Recommendation Engines
 sequence: 5
 header:
-  overlay_image: /assets/images/header/HeaderDesign4.jpeg
-  teaser: /assets/images/header/HeaderDesign4.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign4.jpeg
+  teaser: /assets/images/header/greyHeaderDesign4.jpeg
 ---
 
 Welcome to the **First Edition** of ML-2 (also called DS-2). 

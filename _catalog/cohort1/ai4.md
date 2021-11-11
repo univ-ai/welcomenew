@@ -6,8 +6,8 @@ kind: course
 excerpt: Reinforcement Learning and Generative Adversarial Networks
 sequence: 7
 header:
-  overlay_image: /assets/images/header/HeaderDesign6.jpeg
-  teaser: /assets/images/header/HeaderDesign6.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign6.jpeg
+  teaser: /assets/images/header/greyHeaderDesign6.jpeg
 ---
 >Look for the bare necessities, <br>
 >The simple bare necessities, <br>

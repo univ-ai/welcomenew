@@ -124,6 +124,7 @@ During the entire course you will work in teams and implement a project. The var
 Here are some of the projects:
 <br>
 <br>
+
 <table style="width:600px;">
 <tr>
     <th colspan="2">Mushroom Identification (In class demo)</th>
@@ -141,6 +142,7 @@ Here are some of the projects:
 </td>
 </tr>
 </table>
+
 <br>
 <br>
 

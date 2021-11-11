@@ -6,8 +6,8 @@ kind: course
 excerpt: Productionizing AI (MLOps)
 sequence: 9
 header:
-  overlay_image: /assets/images/header/HeaderDesign7.jpeg
-  teaser: /assets/images/header/HeaderDesign7.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign7.jpeg
+  teaser: /assets/images/header/greyHeaderDesign7.jpeg
 ---
 >Your journey in Deep Learning has lead you here. 
 >You are now an expert at building everything from computer vision to language to generative to reinforcement models. 

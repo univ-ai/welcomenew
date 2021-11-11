@@ -7,23 +7,40 @@ main:
     url: https://univ.ai/
 
 coursesnav:
-  - title: Courses
+  - title: Current Cohort
     children:
       - title: "PyDS"
-        url: /courses/pyds_c2/
+        url: /courses/pyds/
       - title: "AI-1"
-        url: /courses/ai1_c2/
+        url: /courses/ai1/
       - title: "AI-2"
-        url: /courses/ai2_c2/
+        url: /courses/ai2/
       - title: "ML-1"
-        url: /courses/ml1_c1/
+        url: /courses/ml1/
       - title: "ML-2"
-        url: /courses/ml2_c1/
+        url: /courses/ml2/
       - title: "AI-3"
-        url: /courses/ai3_c1/
-      - title: "AI-4A"
-        url: /courses/ai4a_c1/
-      - title: "AI-4B"
-        url: /courses/ai4b_c1/
+        url: /courses/ai3/
+      - title: "AI-4"
+        url: /courses/ai4/
       - title: "AI-5"
-        url: /courses/ai5_c1/  
+        url: /courses/ai5/  
+
+  - title: Previous Cohorts
+    children:
+        - title: "PyDS - C1"
+          url: /catalog/cohort1/pyds/
+        - title: "AI-1 - C1"
+          url: /catalog/cohort1/ai1/
+        - title: "AI-2 - C1"
+          url: /catalog/cohort1/ai2/
+        - title: "ML-1 - C1"
+          url: /catalog/cohort1/ml1/
+        - title: "ML-2 - C1"
+          url: /catalog/cohort1/ml2/
+        - title: "AI-3 - C1"
+          url: /catalog/cohort1/ai3/
+        - title: "AI-4 - C1"
+          url: /catalog/cohort1/ai4/
+        - title: "AI-5 - C1"
+          url: /catalog/cohort1/ai5/
