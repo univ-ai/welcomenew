@@ -26,14 +26,6 @@ At the end of this module, you will build efficient deep learning models and des
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
 
-
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/ ). 
-
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://www.univ.ai/programs) out to get more information and apply.
-
 ## The Team
 
 ### Dr. Pavlos Protopapas

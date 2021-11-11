@@ -16,12 +16,6 @@ This is the second foundational course in data science. It follows DS 1 and buil
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
 
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
 ## The Team
 
 ### Dr. Rahul Dave 

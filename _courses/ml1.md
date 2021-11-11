@@ -1,6 +1,6 @@
 ---
 title: "ML-1"
-permalink: /courses/ml1_c1/
+permalink: /courses/ml1/
 cycle: c1
 kind: workshop
 excerpt: Introduction to Data Science
@@ -8,8 +8,11 @@ sequence: 4
 header:
   overlay_image: /assets/images/header/HeaderDesign3.jpeg
   teaser: /assets/images/header/HeaderDesign3.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
-Welcome to the **First Edition** of ML-1 (also called DS-1).
+Welcome to ML-1 (also called DS-1).
 
 The objective of this module is to provide a fundamental understanding of data analysis.  The course proceeds in 3 parts, following the Data Science Process:
 
@@ -22,12 +25,6 @@ The objective of this module is to provide a fundamental understanding of data a
 After you finish this module, you will be ready to run the entire data science process, all on your own, from fetching (from the internet or databases) and cleaning the data, setting up pipelines, to exploratory data analysis, visualization, and modeling.
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -168,5 +165,21 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 - The Slides will be available on Univ.AI Platform.
 - For forum discussion we will be using Discourse.
 - And for homework submissions and lab work we will be using github.
+
+## Parting note
+
+As you will learn in this course, data science is not just about writing efficient algorithms.
+
+It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
+
+Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
+
+We wish you best of luck for your data science journey.
+
+![](/assets/images/end.jpeg)
+
+## Links to previous cohorts 
+
+- [Cohort 1](/catalog/cohort1/ml1/)
 
 

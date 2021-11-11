@@ -20,12 +20,6 @@ The objective of this module is to provide you, the student, with a deeper intui
 
 At the end of this course, you will be able to run a variety of advanced machine learning models, and learn to apply them to practical image recognition problems. This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-## Interested in joining?
-
-> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
 ## The Team
 
 ### Dr. Pavlos Protopapas 

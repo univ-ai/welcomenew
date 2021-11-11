@@ -1,32 +1,31 @@
 ---
-title: "AI-3"
-permalink: /courses/ai3_c1/
-cycle: c1
+title: "AI-1" 
+permalink: /courses/ai1/
+cycle: c2
 kind: course
-excerpt: Language Models
-sequence: 6
+excerpt: ML/AI Basics
+sequence: 2
 header:
-  overlay_image: /assets/images/header/HeaderDesign5.jpeg
-  teaser: /assets/images/header/HeaderDesign5.jpeg
+  overlay_image: /assets/images/header/HeaderDesign1.jpeg
+  teaser: /assets/images/header/HeaderDesign1.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 
->*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
+>*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
 
-Welcome to the **First Edition** of AI-3. 
-The objective of this module is to provide fundamental understandings of the latest language models built using deep learning architectures.
+Welcome to AI-1. 
+The objective of this module is to provide fundamental understandings of machine learning models 
+and get you working with the basic concepts of ML and AI. 
 
-You will start with the traditional language models, learn about word embeddings, attention and then move on to transformer models.
+You will start with the regression models (KNN, Linear, Multi, Poly) and then move on to classification models (kNN, Logistic).
 
-At the end of this module, you will be able to build efficient language models, and tell how well they are performing. 
+Finally, the course will provide a basic understanding of modern neural networks. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
+
+At the end of this module, you will be able to run basic machine learning models, and tell how well they are performing. 
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master ML and AI program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
 
 ## The Team
 
@@ -46,30 +45,48 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-The teaching assistants for the duration of this course will be:
+The teaching assistants for the duration of this course are:
 
-### Varshini Reddy 
+### Arya Mohan
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
+![](/assets/images/people/AryaMohan.jpeg)
 
-- Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. 
-- Previously, she was a Research Associate at the Indian Institute of Science.
-- She is an incoming graduate student at IACS.
-- She is passionate about working at the interface of AI and social impact.
+- Arya is working as a research and teaching fellow with Univ.AI.
+- Previously, she was a data analyst at Schneider Electric.
+- She is currently working as a research fellow at the StellarDNN lab.
 
-### Hargun Oberoi
+### Anshika Gupta
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
+<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;" />
 
-- Hargun is an AI and ML Researcher and Teaching Fellow at Univ.AI
-- He is a Masters graduate of Mathematics from BITS Pilani University. 
-- Previously, he has worked as a client project manager at Cisco Systems for three years.
+- Anshika is a  deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur. 
+- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
+- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
 
+### Harsh Vardhan
+
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
+
+- Harsh is currently studying productionizing AI with Univ.AI. 
+- He is passionate about intersection of sustainable technology and AI.
+
+### Vishnu M
+
+<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
+
+- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
+- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
+
+### Yashraj Wani
+
+<img src="/assets/images/people/YashrajWani.png" style="zoom:40%;" />
+
+- Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
+- He is excited about smart devices which use AI to better assist its users
 
 ## The Coursework
-
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
@@ -83,7 +100,7 @@ Each week shall include:
 
 ![](/assets/images/Session.png)
 
-Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+The course includes two 1.5 hour sessions per week. Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
 A session will have the following pedagogy layout which will be repeated three times:
 
@@ -95,49 +112,50 @@ A session will have the following pedagogy layout which will be repeated three t
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 
-
 ### Lab - What to expect
 
 ![](/assets/images/Lab.png)
 
-A lab is a TA driven one hour session that is divided into 3 major parts. 
-- Each lab begins by revisiting the Quizzes and Exercises done in the previous lecture session. 
+A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
+
+- Each lab begins by revisiting the quizzes and exercises done in the previous lecture session. 
+
 - After discussing exercises, we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
 and homeworks are welcome.
+
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-
-![](/assets/ai3-c1.assets/content.jpg)
-
+![](/assets/ai1-c2.assets/Content.png)
 
 ## The Class
 
-Please check your mail for more information regarding the platform and the course.
+### Welcome Session - Preparing for this class 
 
+There will be a **Welcome Session** scheduled on ```19 September 2021``` at ``` 9:00 PM IST``` for all registered students. 
+Please check your mail for more information.
 
 ### High level course schedule 
 
-![](/assets/ai3-c1.assets/schedule.png)
-
+![](/assets/ai1-c2.assets/Schedule.png)
 
 *NOTE*: Below timings are in IST
 
 **Lecture Sessions**: 
 
-- Tuesday Series: ```7:30 PM - 9:00 PM ```
+- Wednesday Series: ```9:00 PM - 10:30 PM IST```
 
-- Saturday Series: ```6:30 PM - 8:00 PM ```
+- Saturday Series: ```6:30 PM - 8:00 PM IST```
 
 **Lab Sessions**: 
 
-- Wednesday Series: ```7:30 PM - 9:00 PM``` 
+- Thursday Series: ```7:30 PM - 9:00 PM IST``` 
 
-- Sunday Series: ```6:30 PM - 8:00 PM```
+- Sunday Series: ```6:30 PM - 8:00 PM IST```
 
 **Office hours**: 
 
-- Mondays: ```9:00 PM - 10:00 PM```
+- Mondays: ```9:00 PM - 10:00 PM IST```
 
 ### Course Pre-Requisites 
 
@@ -145,25 +163,22 @@ Your are expected to have a working knowledge of python, along with these three 
 
 - Numpy
 - Pandas
-- Tensorflow.keras
+- Matplotlib
 
 All exercises in this course will be done in jupyter notebooks. 
 
-> Note: Prior knowledge of high level machine learning libraries such as keras is necessary for this module
+> Note: No prior knowledge of machine learning libraries is necessary for this module
 
-### Textbooks
-
-You are advised to follow the following two e-books for reference during the course: 
-
-1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/),  Dan Jurafsky and James H. Martin
-
-2. [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein
+In addition to this, you are expected to know the material covered in our [pyDS](/courses/pyds_c2/) course. 
 
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
 This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
+
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c2.assets/courseprep/).
+
 
 ## Diversity & Inclusion
 
@@ -182,7 +197,7 @@ Reference:
 
 ## Logistics - What you need to begin?
 
-We assume you have a [Univ.AI](https://course.univ.ai) account, created when you signed up at [course.univ.ai](https://courses.univ.ai). 
+We assume you have a [Univ.AI](https://courses.univ.ai) account, created when you signed up at [courses.univ.ai](https://courses.univ.ai). 
 If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 
@@ -196,15 +211,18 @@ All exercises and homeworks in this course will be done in jupyter notebooks. Th
 
 Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
-
 ## Parting note
 
-As you will learn in this course, language models are not just about writing efficient algorithms.
+As you will learn in this course, data science is not just about writing efficient algorithms.
 
 It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
 
 Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
 
-We wish you best of luck for your AI journey.
+We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
+
+## Links to previous cohorts 
+
+- [Cohort 1](/catalog/cohort1/ai1/)

@@ -1,13 +1,16 @@
 ---
 title: "AI-5"
-permalink: /courses/ai5_c1/
+permalink: /courses/ai5/
 cycle: c1
 kind: course
 excerpt: Productionizing AI (MLOps)
-sequence: 9
+sequence: 8
 header:
   overlay_image: /assets/images/header/HeaderDesign7.jpeg
   teaser: /assets/images/header/HeaderDesign7.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 >Your journey in Deep Learning has lead you here. 
 >You are now an expert at building everything from computer vision to language to generative to reinforcement models. 
@@ -25,14 +28,6 @@ Split into three parts; the course starts with the review of Deep Learning conce
 At the end of this module, you will build efficient deep learning models and design, build and deploy applications that scale.
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
-
-
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/ ). 
-
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://www.univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -288,3 +283,8 @@ ul {
   margin-bottom: 0;
 }
 </style>unicate your findings
+
+
+## Links to previous cohorts 
+
+- [Cohort 1](/catalog/cohort1/ai5/)

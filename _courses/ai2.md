@@ -1,6 +1,6 @@
 ---
 title: "AI-2"
-permalink: /courses/ai2_c2/
+permalink: /courses/ai2/
 cycle: c2
 kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
@@ -8,6 +8,9 @@ sequence: 3
 header:
   overlay_image: /assets/images/header/HeaderDesign2.jpeg
   teaser: /assets/images/header/HeaderDesign2.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
@@ -19,12 +22,6 @@ In this course, you will continue your data science journey to learn more about 
 The objective of this module is to provide you, the student, with a deeper intuition and understanding of neural networks including network architecture choices, activation functions, feed-forward, convolutional neural networks and auto-encoders. 
 
 At the end of this course, you will be able to run a variety of advanced machine learning models, and learn to apply them to practical image recognition problems. This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -232,4 +229,6 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-[Link to previous cohort](/catalog/cohort1/ai2/)
+## Links to previous cohorts 
+
+- [Cohort 1](/catalog/cohort1/ai2/)

@@ -1,6 +1,6 @@
 ---
 title: "ML-2"
-permalink: /courses/ml2_c1/
+permalink: /courses/ml2/
 cycle: c1
 kind: workshop
 excerpt: Ensemble Models and Recommendation Engines
@@ -8,19 +8,16 @@ sequence: 5
 header:
   overlay_image: /assets/images/header/HeaderDesign4.jpeg
   teaser: /assets/images/header/HeaderDesign4.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 
-Welcome to the **First Edition** of ML-2 (also called DS-2). 
+Welcome to ML-2 (also called DS-2). 
 
 This is the second foundational course in data science. It follows DS 1 and builds on them. It develops your ability to use generative models and clustering. We introduce you to tree based models, ensemble models and boosting. The course will introduce you to bayesian models and culminates with decision theory and model interrogation, and how to deal with imbalanced data situations.After you finish this module, you will be ready to run complex data science analyses on all kinds of data on your own, dealing with data imbalance, and finally being able to make decisions with the models.
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -131,3 +128,19 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 - The Slides will be available on Univ.AI Platform.
 - For forum discussion we will be using Discourse.
 - And for homework submissions and lab work we will be using github.
+
+## Parting note
+
+As you will learn in this course, data science is not just about writing efficient algorithms.
+
+It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
+
+Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
+
+We wish you best of luck for your data science journey.
+
+![](/assets/images/end.jpeg)
+
+## Links to previous cohorts 
+
+- [Cohort 1](/catalog/cohort1/ml2/)

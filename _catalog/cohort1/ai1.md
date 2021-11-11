@@ -23,13 +23,6 @@ At the end of this module, you will be able to run basic machine learning models
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-## Interested in joining?
-
-> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
-
 ## The Team
 
 ### Dr. Pavlos Protopapas 

@@ -1,13 +1,16 @@
 ---
-title: "AI-4A"
-permalink: /courses/ai4a_c1/
+title: "AI-4"
+permalink: /courses/ai4/
 cycle: c1
 kind: course
-excerpt: Reinforcement Learning
+excerpt: Reinforcement Learning and Generative Adversarial Networks
 sequence: 7
 header:
   overlay_image: /assets/images/header/HeaderDesign6.jpeg
   teaser: /assets/images/header/HeaderDesign6.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 >Look for the bare necessities, <br>
 >The simple bare necessities, <br>
@@ -16,21 +19,15 @@ header:
 >Old Mother Nature's recipes, <br>
 >That brings the bare necessities of life!
 
-Welcome to the **First Edition** of AI4-A. 
+Welcome to AI4. 
 
-The objective of this module is to provide fundamental understanding of the concepts behind Reinforcement Learning and how to apply them to real world problems. This course follows the Univ.AI model of balancing between concept, theory, and implementation.
+The objective of this module is to provide fundamental understanding of the concepts behind Reinforcement Learning, Generative Models and how to apply them to real world problems. This course follows the Univ.AI model of balancing between concept, theory, and implementation.
 
-The course covers an introduction to the field of Reinforcement Learning covering the basic concepts, dynamic programming, Q-learning and Policy Graident Methods.
+The course covers an introduction to the field of Reinforcement Learning covering the basic concepts, dynamic programming, Q-learning and Policy Graident Methods. The course will also give an overview of network building blocks, followed by an review of Generative Adversarial Networks and their applications. 
 
-At the end of this module, you will be able to efficiently work with reinforcement learning problems.
+At the end of this module, you will be able to efficiently work with reinforcement learning problems and build effective generative adversarial networks.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -43,6 +40,26 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
+
+### Dr. Achutha Kadambi
+
+![](/assets/images/people/AchutaKadambi.png)
+
+- Assistant Professor at UCLA where he directs the Visual Machines Group. 
+- Achuta received his PhD from MIT, his BS from UC Berkeley.
+- Achuta was named to the Forbes 30 under 30 list of leading inventors, and won a Google Faculty Award.
+
+You can [read more about him here](https://samueli.ucla.edu/people/achuta-kadambi/).
+
+### Dr. Raghu Meka
+
+![](/assets/images/people/RaghuMeka.png)
+
+- Associate Professor of Computer Science at UCLA with a PhD from UT Austin.
+- He was a postdoctoral fellow at the Institute for Advanced Study, (at Princeton University). 
+- Before joining UCLA Raghu was a researcher at the Microsoft Research.
+
+You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 
 The teaching assistants for the duration of this course will be:
 
@@ -62,6 +79,19 @@ The teaching assistants for the duration of this course will be:
 - Previously, she was a Research Associate at the Indian Institute of Science.
 - She is passionate about working at the interface of AI and social impact.
 
+### Arya Mohan
+
+![](/assets/images/people/AryaMohan.jpeg)
+
+- Arya is working as a teaching fellow with Univ.ai, she also is currently a data analyst at Schneider Electric.
+- She is passionate about image processing and is currently researching applications of computer vision.
+
+
+### Kshitij Parwani
+
+![](/assets/images/people/KshitijParwani.png)
+
+- Kshitij is currently a student at IIT Varanasi and a Teaching Fellow at Univ.AI. 
 
 ## The Coursework
 
@@ -103,40 +133,21 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
   directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai4a-c1.assets/content.jpg)
+The course consists of two parts: 
+
+Reinforcement Learning:
+
+![](/assets/ai4-c1.assets/content_ai4a.jpg)
+
+Generative Adversarial Networks:
+
+![](/assets/ai4-c1.assets/content_ai4b.png)
 
 ## The Class
 
-### Welcome Session - Preparing for this class 
-
-There will be a **Welcome Session** scheduled on ```Monday, 7th June 2021``` at ``` 7:30 PM``` IST for all registered students. 
-Please check your mail for more information.
-
-
 ### High level course schedule 
 
-![](/assets/ai4a-c1.assets/schedule.jpg)
-
-
-*NOTE*: Below timings are in IST
-
-**Lecture Sessions**: 
-
-- Tuesday Series: ```7:30 PM - 9:00 PM IST [ 10:00 AM - 11:30 AM EST ]```  
-
-- Saturday Series: ```6:30 PM - 8:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
-
-**Lab Sessions**: 
-
-- Wednesday Series: ```7:30 PM - 9:00 PM IST [ 10:00 AM - 11:30 AM ] ``` 
-
-- Sunday Series: ```6:30 PM - 8:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
-
-**Office hours**: 
-
-- Mondays: ```7:30 PM - 8:30 PM [ 10:00 AM - 11:00 AM EST ]```
-
-
+Coming Soon!
 
 ### Course Pre-Requisites 
 
@@ -200,4 +211,10 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
+
+## Links to previous cohorts 
+
+- [Cohort 1](/catalog/cohort1/ai4/)
+
+
 

@@ -1,6 +1,6 @@
 ---
 title: "PyDS" 
-permalink: /courses/pyds_c2/
+permalink: /courses/pyds/
 cycle: c2
 kind: course
 excerpt: Intro to Data Science

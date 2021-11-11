@@ -13,6 +13,7 @@ header:
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
 
 Welcome to the **First Edition** of AI-3. 
+
 The objective of this module is to provide fundamental understandings of the latest language models built using deep learning architectures.
 
 You will start with the traditional language models, learn about word embeddings, attention and then move on to transformer models.
@@ -20,13 +21,6 @@ You will start with the traditional language models, learn about word embeddings
 At the end of this module, you will be able to build efficient language models, and tell how well they are performing. 
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master ML and AI program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
 
 ## The Team
 
