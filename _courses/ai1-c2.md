@@ -226,4 +226,4 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-[Link to previous cohort](/catalog/cohort1/ai1/)
+[Link to previous cohorts](/catalog/cohort1/ai1/)
