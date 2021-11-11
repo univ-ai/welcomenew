@@ -58,7 +58,7 @@ The teaching assistants for the duration of this course are:
 
 ### Harsh Vardhan
 
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:50%;" />
 
 - Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
 - He also enjoys climbing/bouldering and running.
