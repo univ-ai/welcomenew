@@ -6,8 +6,8 @@ kind: workshop
 excerpt: Introduction to Data Science
 sequence: 4
 header:
-  overlay_image: /assets/images/header/greyHeaderDesign3.jpeg
-  teaser: /assets/images/header/greyHeaderDesign3.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign3.png
+  teaser: /assets/images/header/greyHeaderDesign3.png
 ---
 Welcome to the **First Edition** of ML-1 (also called DS-1).
 

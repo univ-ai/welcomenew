@@ -6,8 +6,8 @@ kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 2
 header:
-  overlay_image: /assets/images/header/greyHeaderDesign2.jpeg
-  teaser: /assets/images/header/greyHeaderDesign2.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign2.png
+  teaser: /assets/images/header/greyHeaderDesign2.png
 ---
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 

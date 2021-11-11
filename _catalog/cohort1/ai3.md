@@ -6,8 +6,8 @@ kind: course
 excerpt: Language Models
 sequence: 6
 header:
-  overlay_image: /assets/images/header/greyHeaderDesign5.jpeg
-  teaser: /assets/images/header/greyHeaderDesign5.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign5.png
+  teaser: /assets/images/header/greyHeaderDesign5.png
 ---
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*

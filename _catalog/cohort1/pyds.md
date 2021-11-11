@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 1
 header:
-  overlay_image: /assets/images/header/HeaderDesign1.jpeg
-  teaser: /assets/images/header/HeaderDesign1.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign1.png
+  teaser: /assets/images/header/greyHeaderDesign1.png
 ---
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 <!-- -->
@@ -28,13 +28,6 @@ Along the way, we will introduce foundational ideas of statistics, linear algebr
 At the end of this module, you will have the tools and the concepts needed to successfully undertake a rigorous course in machine learning.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
-
-## Interested in joining?
-
-> If you would like to apply to this course, click on the application link below.
-
-[Course Application Link](https://application.univ.ai/applications)
 
 ## The Team
 
