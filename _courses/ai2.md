@@ -23,6 +23,12 @@ The objective of this module is to provide you, the student, with a deeper intui
 
 At the end of this course, you will be able to run a variety of advanced machine learning models, and learn to apply them to practical image recognition problems. This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
+## Interested in joining?
+
+> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
+
+> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
+
 ## The Team
 
 ### Dr. Pavlos Protopapas 
@@ -48,7 +54,7 @@ The teaching assistants for the duration of this course are:
 
 ### Vishnu M
 
-<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
+<img src="/assets/images/people/VishnuM.png" style="zoom:55%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
@@ -77,7 +83,7 @@ The teaching assistants for the duration of this course are:
 
 ### Meghana Sarikonda
 
-<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:40%;" />
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;" />
 
 - Previously worked as a freelance full stack developer
 - Fascinated about AI and it's ability to solve complex problems
@@ -110,7 +116,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-![](/assets/images/Lab.png)
+<img src="/assets/images/Lab.png" alt="Lab" class="center">
 
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
@@ -229,6 +235,4 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts 
-
-- [Cohort 1](/catalog/cohort1/ai2/)
+[Link to previous cohort](/catalog/cohort1/ai2/)
