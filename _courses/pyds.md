@@ -8,6 +8,9 @@ sequence: 1
 header:
   overlay_image: /assets/images/header/PyDSHeader.jpeg
   teaser: /assets/images/header/PyDSHeader.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 
 <!-- Bootstrap CSS -->
