@@ -1,6 +1,6 @@
 ---
 title: "AI-4"
-permalink: /catalog/cohort1/ai4a/
+permalink: /catalog/cohort1/ai4/
 cycle: c1
 kind: course
 excerpt: Reinforcement Learning and Generative Adversarial Networks
