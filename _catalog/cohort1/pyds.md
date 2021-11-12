@@ -9,11 +9,12 @@ header:
   overlay_image: /assets/images/header/greyHeaderDesign1.png
   teaser: /assets/images/header/greyHeaderDesign1.png
 ---
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <!-- -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>  
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>  
 
 ## PyDS : Python for Data Science
 <br>
@@ -231,10 +232,15 @@ We wish you well for the start of your data science journey.
   .modal-margin {
     margin: 0 auto;
 }
+
+.modal {
+    background: transparent;
+  }
+
 </style>
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -255,12 +261,14 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 </div>
-
+<script>
+     $('#HargunModal').appendTo('body');
+</script>
 
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -280,12 +288,14 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 </div>
-
+<script>
+     $('#PavlosModal').appendTo('body');
+</script>
 
 <!-- 3 -->
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="VarshiniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="VarshiniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -306,12 +316,14 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 </div>
-
+<script>
+     $('#VarshiniModal').appendTo('body');
+</script>
 <!-- 4 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="JavierModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="JavierModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -335,11 +347,14 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 </div>
+<script>
+     $('#JavierModal').appendTo('body');
+</script>
 
 <!-- 5 -->
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -362,12 +377,15 @@ His main area of research is applied AI to astrophysical problems.
 </div>
 </div>
 </div>
+<script>
+     $('#IgnacioModal').appendTo('body');
+</script>
 
 <!-- 6 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="GermanModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="GermanModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -390,12 +408,15 @@ His main area of research is applied AI to astrophysical problems.
 </div>
 </div>
 </div>
+<script>
+     $('#GermanModal').appendTo('body');
+</script>
 
 <!-- 7 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -417,12 +438,15 @@ His main area of research is applied AI to astrophysical problems.
 </div>
 </div>
 </div>
+<script>
+     $('#SreeModal').appendTo('body');
+</script>
 
 <!-- 8 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -444,12 +468,15 @@ His main area of research is applied AI to astrophysical problems.
 </div>
 </div>
 </div>
+<script>
+     $('#HaydenModal').appendTo('body');
+</script>
 
 <!-- 9 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
+<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -471,3 +498,6 @@ His main area of research is applied AI to astrophysical problems.
 </div>
 </div>
 </div>
+<script>
+     $('#JoyModal').appendTo('body');
+</script>

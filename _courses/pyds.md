@@ -64,6 +64,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
 
 <!-- <img src="index.assets/panda.jpeg" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
+<div class="container">
 
 <img src="/assets/pyds-c2.assets/kungfupanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
 
@@ -88,6 +89,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
   <area shape="rect" coords="100,150,200,300" alt="Joy"  title="Shibani Budhraja" data-toggle="modal" data-target="#HaydenModal"> 
   <!-- <area shape="rect" coords="200,200,300,400" alt="Sree"  title="Sakthisree" data-toggle="modal" data-target="#SreeModal">    -->
 </map> 
+</div>
 
 <!-- **NOTE:** This course will be delivered by the Dr. Pavlos Protopapas' research group, StellarDNN. -->
 
