@@ -122,11 +122,7 @@ During the entire course you will work in teams and implement a project. The var
 
 <br>
 Here are some of the projects:
-<br>
-<br>
-
 <table style="width:600px;"><tr><th colspan=2>Mushroom Identification (In class demo)</th></tr><tr><td style="vertical-align: top; padding:20px; width:50%;"><ul><li>Pavlos likes to go the forest for mushroom picking</li><li>Some mushrooms can be poisonous</li><li>Help build an app to identify mushroom type and if poisonous or not</li><ul></td><td><img src='/assets/ai5-c1.assets/mushroomapp.png' style="width:300px;"></td></tr></table><br><br><table style="width:600px;"><tr> <th colspan=2>Austin Pets Alive (APA)</th></tr><tr><td style="vertical-align: top; padding:20px; width:50%;"><ul><li>APA is an association of pet owners</li><li>They would like to help future dog owners find a dog who is a perfect fit for them</li><li>Help build an app that can help owners find the right pet</li><ul></td><td><img src='/assets/ai5-c1.assets/petsapp.png' style="width:300px;"></td></tr></table><br><br><table style="width:600px;"><tr> <th colspan=2>Visual Question Answering</th></tr><tr><td style="vertical-align: top; padding:20px; width:50%;"><ul><li>The VQA dataset contains open-ended questions about images</li><ul></td><td><img src='/assets/ai5-c1.assets/vqaapp.png' style="width:300px;"></td></tr></table>
-<br><br>
   
 Please find a more detailed summary of all <a href="https://docs.google.com/document/d/1tC1k8XX1RjxxH7Ojay1lqSBTx-oYtMM67oOMyNsA4bU/edit?usp=sharing" target="_blank">projects here</a>.
 
