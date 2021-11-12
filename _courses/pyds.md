@@ -31,7 +31,7 @@ header:
 
 Welcome to Python for Data Science (PyDS)
 
-The objective of this module is to prov   ide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
+The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
 You will start with the basics of python programming, including python data structures, functions and classes. 
 
