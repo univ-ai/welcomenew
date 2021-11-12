@@ -10,6 +10,22 @@ header:
   teaser: /assets/images/header/PyDSHeader.jpeg
 ---
 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+
+
+<style>
+.imgs {
+  height:200px;
+  margin-right:15px;
+}
+</style>
+
+
 Welcome to Python for Data Science (PyDS)
 
 The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
@@ -39,16 +55,13 @@ This page introduces you to the team, the basic instructions, the schedule and v
                     Launch demo modal
                 </button> -->
 
-<div class="mycontainer">
-<style>
-.mycontainer{
-    background : transparent;
-    height:500px;
-}
-</style>
+
+
+
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
 
 <!-- <img src="index.assets/panda.jpeg" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
+<div class="container">
 
 <img src="/assets/pyds-c2.assets/kungfupanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
 
@@ -74,6 +87,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
   <!-- <area shape="rect" coords="200,200,300,400" alt="Sree"  title="Sakthisree" data-toggle="modal" data-target="#SreeModal">    -->
 </map> 
 </div>
+
 <!-- **NOTE:** This course will be delivered by the Dr. Pavlos Protopapas' research group, StellarDNN. -->
 
 <!-- To know more about StellarDNN, [click here](https://iacs.seas.harvard.edu/people/pavlos-protopapas). -->
@@ -99,7 +113,7 @@ During the session, we will have live instruction interspaced with collaborative
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 ### Course syllabus
-![](/assets/pyds-c2.assets/session.png)
+![](/assets/pyds-c2.assets/content.png)
 
 ## The Class
 
@@ -235,35 +249,48 @@ We wish you well for the start of your data science journey.
 
 <!-- Modal Section -->
 
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- Modal --> 
+<div class="container">
+<div class="modal fade modal-margin" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Hargun Singh Oberoi</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p><img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="height:220px;margin-right:15px;" align="left">
+        - Hargun Oberoi is a Product Manager at Univ.Ai. <br>
+        - He has a Masters degree in Mathematics from BITS Pilani University.<br> 
+        - He is currently working as a research fellow at the StellarDNN lab. </p> 
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+     $('#HargunModal').appendTo('body');
+</script>
+
+
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Hargun Singh Oberoi</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<p><img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style=height:220px;margin-right:15px; align="left">
-- Hargun Oberoi is a Product Manager at Univ.Ai. <br>
-- He has a Masters degree in Mathematics from BITS Pilani University.<br> 
-- He is currently working as a research fellow at the StellarDNN lab. </p> 
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -273,7 +300,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
 - Scientific Director of the Institute for Applied Computational Science (IACS). <br>
 - Teaches Introduction to Data Science (CS109a) and Advanced Topics in Data Science (CS109b).<br> 
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years.</p> 
@@ -284,11 +311,14 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 
+<script>
+     $('#PavlosModal').appendTo('body');
+</script>
 
 <!-- 3 -->
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="VarshiniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="VarshiniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -298,27 +328,29 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/SaiSindhu.png" alt="Pavlos" style=height:300px;margin-right:15px; align="left">
-<!-- - Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. <br>
-- Previously, she was a Research Associate at the Indian Institute of Science..<br> 
-- She is an incoming graduate student at IACS and she is passionate about working at the interface of AI and social impact.</p>  -->
+<p><img src="/assets/images/people/SaiSindhu.png" alt="Pavlos" style="height:300px;margin-right:15px;" align="left">
 - Graduated in Biological Sciences from IIT Madras.
 <br>
 - One year experience as Operations Manager at new media based Chinese start up GiantView PVT LTD.
 <br>
-- Learning Bharatanatyam from more than a year loves to cook biryani!
+- Learning Bharatanatyam from more than a year loves to cook biryani!</p>
 </div>
 
 </div>
 </div>
 </div>
 </div>
+
+<script>
+     $('#VarshiniModal').appendTo('body');
+</script>
+
 
 <!-- 4 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="JavierModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="JavierModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -328,30 +360,28 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/SaiChaitanya.png" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/SaiChaitanya.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
 - Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.
 <br>
 - He is excited about AI and it's applications in Agriculture and Healthcare.
 <br>
-- In his free time, he can be found gardening or star-gazing.
-<!-- - Co-Founder and CEO of Besides Data.
-<br>
-- Teaching fellow at Institute for Applied Computational Science (IACS) at Harvard University.
-<br>
-- MS Machine Learning, Pontificia Universidad Católica at Chile.
+- In his free time, he can be found gardening or star-gazing.</p>
 
-</p> -->
 </div>
 
 </div>
 </div>
 </div>
 </div>
+
+<script>
+     $('#JavierModal').appendTo('body');
+</script>
 
 <!-- 5 -->
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -361,7 +391,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/AnshikaGupta.png" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/AnshikaGupta.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
 - Final year Computer Science Engineering undergraduate in Jaipur.
 <br>
 - Currently a TA at Univ.AI, she has previously worked as a ML researcher at a healthcare startup (Neos HealthTech, incubated at IIT-M)
@@ -375,11 +405,15 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 
+<script>
+     $('#IgnacioModal').appendTo('body');
+</script>
+
 <!-- 6 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="GermanModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="GermanModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -389,7 +423,7 @@ We wish you well for the start of your data science journey.
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/KuldeepPrasad.png" alt="Pavlos" style=height:350px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/KuldeepPrasad.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
 <!-- - Electrical Engineer, currently pursuing a MSc. in Electrical Engineering at the Computational Intelligence Lab of the University of Chile.
 <br>
 - Research Fellow at StellarDNN.
@@ -402,7 +436,7 @@ We wish you well for the start of your data science journey.
 - Dr. Prasad wants to accelerate the application  of Artificial Intelligence  to solve some of the world’s biggest challenges as well as using AI for social good.
 <br>
 Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.
-
+</p>
 </div>
 
 </div>
@@ -410,11 +444,14 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 
+<script>
+     $('#GermanModal').appendTo('body');
+</script>
 <!-- 7 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -424,7 +461,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/Sakthisree.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/Sakthisree.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
 - A Machine Learning Lead in a leading German-based wholesale company.  
 - Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference.
 <br>
@@ -437,11 +474,14 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 
+<script>
+     $('#SreeModal').appendTo('body');
+</script>
 <!-- 8 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -451,13 +491,13 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style=height:350px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
 - A Psychologist and amateur  musician exploring the world of Data Science. 
 <br>
 -Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
 <br>
 - Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
-
+</p>
 </div>
 
 </div>
@@ -465,11 +505,14 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 
+<script>
+     $('#HaydenModal').appendTo('body');
+</script>
 <!-- 9 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -491,3 +534,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 </div>
+
+<script>
+     $('#JoyModal').appendTo('body');
+</script>
