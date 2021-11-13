@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 2
 header:
-  overlay_image: /assets/images/header/greyHeaderDesign1.jpeg
-  teaser: /assets/images/header/greyHeaderDesign1.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign1.png
+  teaser: /assets/images/header/greyHeaderDesign1.png
 ---
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
