@@ -31,6 +31,14 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ## The Team
 
+### Dr. Ignacio Becker
+
+![](/assets/images/people/IgnacioBecker.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+
 ### Dr. Pavlos Protopapas 
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
@@ -40,15 +48,6 @@ At the end of this course, you will be able to run a variety of advanced machine
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
-
-
-### Dr. Ignacio Becker
-
-![](/assets/images/people/IgnacioBecker.jpeg)
-
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
 The teaching assistants for the duration of this course are:
 
