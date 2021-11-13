@@ -13,7 +13,7 @@ header:
       url: "https://application.univ.ai/applications"
 ---
 
-Welcome to ML-2 (also called DS-2). 
+Welcome to DS-2. 
 
 This is the second foundational course in data science. It follows DS 1 and builds on them. It develops your ability to use generative models and clustering. We introduce you to tree based models, ensemble models and boosting. The course will introduce you to bayesian models and culminates with decision theory and model interrogation, and how to deal with imbalanced data situations.After you finish this module, you will be ready to run complex data science analyses on all kinds of data on your own, dealing with data imbalance, and finally being able to make decisions with the models.
 
