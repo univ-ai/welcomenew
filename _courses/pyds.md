@@ -44,12 +44,6 @@ At the end of this module, you will have the tools and the concepts needed to su
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
 
-## Interested in joining?
-
-> If you would like to apply to this course, click on the link below.
-
-[Course Application Link](https://www.univ.ai/apply#course)
-
 ## The Team
 <br>
  *Click on each Kung-Fu Panda character to know more about the pyds team member.*
