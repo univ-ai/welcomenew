@@ -145,8 +145,6 @@ Generative Adversarial Networks:
 
 ## The Class
 
-### High level course schedule 
-
 Coming Soon!
 
 ### Course Pre-Requisites 
@@ -212,9 +210,8 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts 
+## Links to previous cohorts
 
 - [Cohort 1](/catalog/cohort1/ai4/)
-
 
 

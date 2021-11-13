@@ -47,44 +47,6 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-The teaching assistants for the duration of this course are:
-
-### Arya Mohan
-
-![](/assets/images/people/AryaMohan.jpeg)
-
-- Arya is working as a research and teaching fellow with Univ.AI.
-- Previously, she was a data analyst at Schneider Electric.
-- She is currently working as a research fellow at the StellarDNN lab.
-
-### Anshika Gupta
-
-<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;" />
-
-- Anshika is a  deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur. 
-- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
-- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
-
-### Harsh Vardhan
-
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
-
-- Harsh is currently studying productionizing AI with Univ.AI. 
-- He is passionate about intersection of sustainable technology and AI.
-
-### Vishnu M
-
-<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
-
-- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
-- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
-
-### Yashraj Wani
-
-<img src="/assets/images/people/YashrajWani.png" style="zoom:40%;" />
-
-- Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
-- He is excited about smart devices which use AI to better assist its users
 
 ## The Coursework
 
@@ -130,32 +92,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-### Welcome Session - Preparing for this class 
-
-There will be a **Welcome Session** scheduled on ```19 September 2021``` at ``` 9:00 PM IST``` for all registered students. 
-Please check your mail for more information.
-
-### High level course schedule 
-
-![](/assets/ai1-c2.assets/Schedule.png)
-
-*NOTE*: Below timings are in IST
-
-**Lecture Sessions**: 
-
-- Wednesday Series: ```9:00 PM - 10:30 PM IST```
-
-- Saturday Series: ```6:30 PM - 8:00 PM IST```
-
-**Lab Sessions**: 
-
-- Thursday Series: ```7:30 PM - 9:00 PM IST``` 
-
-- Sunday Series: ```6:30 PM - 8:00 PM IST```
-
-**Office hours**: 
-
-- Mondays: ```9:00 PM - 10:00 PM IST```
+Coming Soon!
 
 ### Course Pre-Requisites 
 
@@ -226,3 +163,4 @@ We wish you best of luck for your data science journey.
 ## Links to previous cohorts 
 
 - [Cohort 1](/catalog/cohort1/ai1/)
+- [Cohort 2](/catalog/cohort2/ai1/)

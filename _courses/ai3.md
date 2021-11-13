@@ -44,28 +44,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes. 
 
-The teaching assistants for the duration of this course will be:
-
-### Varshini Reddy 
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
-
-- Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. 
-- Previously, she was a Research Associate at the Indian Institute of Science.
-- She is an incoming graduate student at IACS.
-- She is passionate about working at the interface of AI and social impact.
-
-### Hargun Oberoi
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
-
-- Hargun is an AI and ML Researcher and Teaching Fellow at Univ.AI
-- He is a Masters graduate of Mathematics from BITS Pilani University. 
-- Previously, he has worked as a client project manager at Cisco Systems for three years.
-
-
 ## The Coursework
-
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
@@ -109,31 +88,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Please check your mail for more information regarding the platform and the course.
-
-
-### High level course schedule 
-
-![](/assets/ai3-c1.assets/schedule.png)
-
-
-*NOTE*: Below timings are in IST
-
-**Lecture Sessions**: 
-
-- Tuesday Series: ```7:30 PM - 9:00 PM ```
-
-- Saturday Series: ```6:30 PM - 8:00 PM ```
-
-**Lab Sessions**: 
-
-- Wednesday Series: ```7:30 PM - 9:00 PM``` 
-
-- Sunday Series: ```6:30 PM - 8:00 PM```
-
-**Office hours**: 
-
-- Mondays: ```9:00 PM - 10:00 PM```
+Coming Soon!
 
 ### Course Pre-Requisites 
 
@@ -205,6 +160,6 @@ We wish you best of luck for your AI journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts 
+## Links to previous cohorts
 
 - [Cohort 1](/catalog/cohort1/ai3/)

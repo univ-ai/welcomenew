@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 2
 header:
-  overlay_image: /assets/images/header/HeaderDesign1.jpeg
-  teaser: /assets/images/header/HeaderDesign1.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign1.jpeg
+  teaser: /assets/images/header/greyHeaderDesign1.jpeg
 ---
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
@@ -23,12 +23,6 @@ Finally, the course will provide a basic understanding of modern neural networks
 At the end of this module, you will be able to run basic machine learning models, and tell how well they are performing. 
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
-## Interested in joining?
-
-> If you would like to apply to this course, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Master AI and ML program, check this [link](https://univ.ai/programs) out to get more information and apply.
 
 ## The Team
 
@@ -142,6 +136,7 @@ Please check your mail for more information.
 
 ![](/assets/ai1-c2.assets/Schedule.png)
 
+*NOTE*: Below timings are in IST
 
 **Lecture Sessions**: 
 
@@ -224,5 +219,3 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
-
-[Link to previous cohort](/catalog/cohort1/ai1/)

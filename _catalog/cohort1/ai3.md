@@ -12,8 +12,7 @@ header:
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
 
-Welcome to the **First Edition** of AI-3. 
-
+Welcome to AI-3. 
 The objective of this module is to provide fundamental understandings of the latest language models built using deep learning architectures.
 
 You will start with the traditional language models, learn about word embeddings, attention and then move on to transformer models.

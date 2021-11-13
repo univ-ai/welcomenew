@@ -28,29 +28,13 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 
 ## The Team
 
-### Dr. Rahul Dave 
+### (Dr.) Ignacio Becker
 
-![](/assets/images/people/RahulDave.jpeg)
+![](/assets/images/people/IgnacioBecker.jpeg)
 
-
-Dr. Rahul Dave, former Data Science faculty at Harvard University, will be your instructor for Data Science 2. He was on the original team for Harvard’s famous Data Science course, cs109, and has taught machine learning, statistics, and AI courses, both at Harvard and at multiple conferences and workshops. You can [read more about him here](https://univ.ai/team/rahul-dave-2). 
-
-The teaching assistants for the duration of this course are:
-
-### Anusha Sheth
-
-![](/assets/images/people/AnushaSheth.png)
-
-- Anusha is working as a Research and Teaching fellow with Univ.ai, she has previously worked with Robert Bosch as a software engineer in the automotive domain.
-- She is an incoming student at TU Delft.
-- She is a big believer in sustainability and has been working on applications of AI in sustainable energy for the last 3 years.
-
-### Arya Mohan
-
-![](/assets/images/people/AryaMohan.jpeg)
-
-- Arya is currently a data analyst at Schneider Electric and a Teaching Assistant at Univ.AI.
-- She is passionate about image processing and is currently researching the application of computer vision in the detection of deep fake videos.
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes. 
 
 
 ## The Coursework
@@ -90,27 +74,7 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 
 ## The Class
 
-### Welcome Session - Preparing for this class 
-
-There will be a **Welcome Session** scheduled on ```25 January 2021``` at ```7:00 PM IST``` for all registered students. Please check your mail for more information.
-
-![](/assets/ml1-c1.assets/schedule.png)
-
-NOTE: Below timings are in IST
-
-**Lecture Sessions**: 
-
-- Tuesday Series: 9:00 PM - 11:00 PM 
-- Friday Series: 9:00 PM - 11:00 PM
-
-**Lab Sessions**:
-
-- Saturday Series: 7:30 PM - 8:30 PM
-
-**Office hours**:
-
-- Mondays: 9:00 PM - 10:00 PM
-- Wednesdays:  9:00 PM - 10:00 PM(Professor office hours)
+Coming Soon!
 
 
 ## Course Pre-Requisites

@@ -12,7 +12,7 @@ header:
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
-Welcome to the AI-2, a follow-up to our introductory course [AI-1](/catalog/cohort2/ai1/).
+Welcome to the AI-2, a follow-up to our introductory course AI-1.
 
 In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
 
@@ -20,24 +20,7 @@ The objective of this module is to provide you, the student, with a deeper intui
 
 At the end of this course, you will be able to run a variety of advanced machine learning models, and learn to apply them to practical image recognition problems. This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-## Interested in joining?
-
-> If you would like to apply to this program, please go [here](https://application.univ.ai/). 
-
-> We also provide this course as part of our Masters and Accelerated program, check this [link](https://univ.ai/programs) out to get more information and apply.
-
 ## The Team
-
-### Dr. Pavlos Protopapas 
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
-
-- Scientific Director of the Institute for Applied Computational Science (IACS).
-- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
-
-You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
-
 
 ### Dr. Ignacio Becker
 
@@ -51,14 +34,14 @@ The teaching assistants for the duration of this course are:
 
 ### Vishnu M
 
-<img src="/assets/images/people/VishnuM.png" style="zoom:40%;" />
+<img src="/assets/images/people/VishnuM.png" style="zoom:55%;" />
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
 ### Harsh Vardhan
 
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:50%;" />
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
 
 - Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
 - He also enjoys climbing/bouldering and running.
@@ -77,6 +60,13 @@ The teaching assistants for the duration of this course are:
 
 - Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
 - He is excited about smart devices which use AI to better assist its users
+
+### Meghana Sarikonda
+
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;" />
+
+- Previously worked as a freelance full stack developer
+- Fascinated about AI and it's ability to solve complex problems
 
 ## The Coursework
 
@@ -106,7 +96,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-![](/assets/images/Lab.png)
+<img src="/assets/images/Lab.png" alt="Lab" class="center">
 
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
@@ -224,5 +214,3 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
-
-[Link to previous cohort](/catalog/cohort1/ai2/)
