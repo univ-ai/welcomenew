@@ -44,3 +44,6 @@ coursesnav:
           url: /catalog/cohort1/ai4/
         - title: "AI-5 - C1"
           url: /catalog/cohort1/ai5/
+
+        - title: "AI-1 - C2"
+          url: /catalog/cohort2/ai1/
