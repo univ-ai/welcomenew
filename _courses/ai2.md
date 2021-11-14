@@ -133,7 +133,7 @@ Please check your mail for more information.
 **Lab Sessions**: 
 
 - Wednesday Series: ```6:00 PM - 7:30 PM``` 
-- Sunday Series: ```7:30 PM - 9:00 PM```
+- Sunday Series: ```9:00 PM - 10:30 PM```
 
 **Office hours**: 
 
