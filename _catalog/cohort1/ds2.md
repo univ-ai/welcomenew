@@ -1,6 +1,6 @@
 ---
 title: "ML-2"
-permalink: /catalog/cohort1/ml2/
+permalink: /catalog/cohort1/ds2/
 cycle: c1
 kind: workshop
 excerpt: Ensemble Models and Recommendation Engines
