@@ -1,6 +1,6 @@
 ---
 title: "ML-1"
-permalink: /catalog/cohort1/ml1/
+permalink: /catalog/cohort1/ds1/
 cycle: c1
 kind: workshop
 excerpt: Introduction to Data Science
