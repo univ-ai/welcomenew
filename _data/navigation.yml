@@ -34,10 +34,10 @@ coursesnav:
           url: /catalog/cohort1/ai1/
         - title: "AI-2 - C1"
           url: /catalog/cohort1/ai2/
-        - title: "ML-1 - C1"
-          url: /catalog/cohort1/ml1/
-        - title: "ML-2 - C1"
-          url: /catalog/cohort1/ml2/
+        - title: "DS-1 - C1"
+          url: /catalog/cohort1/ds1/
+        - title: "DS-2 - C1"
+          url: /catalog/cohort1/ds2/
         - title: "AI-3 - C1"
           url: /catalog/cohort1/ai3/
         - title: "AI-4 - C1"
