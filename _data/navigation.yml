@@ -15,10 +15,10 @@ coursesnav:
         url: /courses/ai1/
       - title: "AI-2"
         url: /courses/ai2/
-      - title: "ML-1"
-        url: /courses/ml1/
-      - title: "ML-2"
-        url: /courses/ml2/
+      - title: "DS-1"
+        url: /courses/ds1/
+      - title: "DS-2"
+        url: /courses/ds2/
       - title: "AI-3"
         url: /courses/ai3/
       - title: "AI-4"
