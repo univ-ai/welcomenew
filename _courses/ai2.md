@@ -1,7 +1,7 @@
 ---
 title: "AI-2"
 permalink: /courses/ai2/
-cycle: c2
+cycle: c3
 kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 3
@@ -32,44 +32,6 @@ At the end of this course, you will be able to run a variety of advanced machine
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
-The teaching assistants for the duration of this course are:
-
-### Vishnu M
-
-<img src="/assets/images/people/VishnuM.png" style="zoom:55%;" />
-
-- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
-- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
-
-### Harsh Vardhan
-
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
-
-- Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
-- He also enjoys climbing/bouldering and running.
-
-### Sakthisree Venkateshan
-
-<img src="/assets/images/people/Sakthisree.jpeg" style="zoom:55%;" />
-
-- Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.  
-- Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research. 
-- She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.
-
-### Yashraj Wani
-
-<img src="/assets/images/people/YashrajWani.png" style="zoom:40%;" />
-
-- Yashraj is currently a third year student at DY Patil College Of Engineering, Pune
-- He is excited about smart devices which use AI to better assist its users
-
-### Meghana Sarikonda
-
-<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;" />
-
-- Previously worked as a freelance full stack developer
-- Fascinated about AI and it's ability to solve complex problems
 
 ## The Coursework
 
@@ -109,35 +71,11 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c2.assets/content.jpg)
+![](/assets/ai2-c3.assets/Content.png)
 
 ## The Class
 
-### Welcome Session - Preparing for this class 
-
-There will be a **Welcome Session** scheduled on ```14 November 2021``` at ``` 7:00 PM``` IST for all registered students. 
-
-Please check your mail for more information.
-
-
-### High level course schedule 
-
-![](/assets/ai2-c2.assets/schedule.jpg)
-
-*NOTE*: Below timings are in IST
-
-**Lecture Sessions**: 
-- Tuesday Series: ```9:00 PM - 10:30 PM ```
-- Saturday Series: ```9:00 PM - 10:30 PM ```
-
-**Lab Sessions**: 
-
-- Wednesday Series: ```6:00 PM - 7:30 PM``` 
-- Sunday Series: ```9:00 PM - 10:30 PM```
-
-**Office hours**: 
-
-- Mondays: ```9:00 PM - 10:00 PM```
+Coming soon!
 
 ### Course Pre-Requisites 
 
@@ -173,7 +111,7 @@ You are expected to have programming experience at the level of Harvard’s [CS5
 
     - Model Selection
 
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c2.assets/courseprep/).
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai2-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 
@@ -221,3 +159,4 @@ We wish you best of luck for your data science journey.
 ## Links to previous cohorts
 
 - [Cohort 1](/catalog/cohort1/ai2/)
+- [Cohort 2](/catalog/cohort2/ai2/)

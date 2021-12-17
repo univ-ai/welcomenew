@@ -170,7 +170,7 @@ You are expected to have programming experience at the level of Harvard’s [CS5
 
     - Model Selection
 
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c2.assets/courseprep/).
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai2-c2.assets/courseprep/).
 
 ## Diversity & Inclusion
 

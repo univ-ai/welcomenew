@@ -1,5 +1,5 @@
 ---
-title: "ML-2"
+title: "DS-2"
 permalink: /catalog/cohort1/ds2/
 cycle: c1
 kind: workshop
@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/header/greyHeaderDesign4.png
 ---
 
-Welcome to the **First Edition** of ML-2 (also called DS-2). 
+Welcome to the **First Edition** of DS-2. 
 
 This is the second foundational course in data science. It follows DS 1 and builds on them. It develops your ability to use generative models and clustering. We introduce you to tree based models, ensemble models and boosting. The course will introduce you to bayesian models and culminates with decision theory and model interrogation, and how to deal with imbalanced data situations.After you finish this module, you will be ready to run complex data science analyses on all kinds of data on your own, dealing with data imbalance, and finally being able to make decisions with the models.
 
@@ -74,7 +74,7 @@ A lab is a TA driven one-hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
-![](/assets/ml2-c1.assets/content.png)
+![](/assets/ds2-c1.assets/content.png)
 
 ## The Class
 
@@ -84,7 +84,7 @@ There will be a Welcome Session scheduled on ```8th March 2021``` at ```9:00 PM 
 
 ### High level course schedule 
 
-![](/assets/ml2-c1.assets/schedule.png)
+![](/assets/ds2-c1.assets/schedule.png)
 
 *NOTE*: Below timings are in IST
 

@@ -1,7 +1,7 @@
 ---
 title: "AI-1" 
 permalink: /courses/ai1/
-cycle: c2
+cycle: c3
 kind: course
 excerpt: ML/AI Basics
 sequence: 2
@@ -114,8 +114,7 @@ This will help you assess your preparedness for the course, and will also help y
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
 
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c2.assets/courseprep/).
-
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 

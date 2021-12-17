@@ -102,7 +102,7 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c1.assets/syllabus.jpeg)
+![](/assets/ai2-c1.assets/Content.jpeg)
 
 ## The Class
 
@@ -115,7 +115,7 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-![](/assets/ai2-c1.assets/newtt.jpeg)
+![](/assets/ai2-c1.assets/Schedule.jpeg)
 
 *NOTE*: Below timings are in IST
 
@@ -166,8 +166,7 @@ You are expected to have programming experience at the level of Harvard’s [CS5
 
     - Model Selection
 
-Please find a more detailed summary of the pre-requisites for this program [here](/courseprep.md).
-
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c2.assets/courseprep/).
 
 ## Diversity & Inclusion
 

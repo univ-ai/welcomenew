@@ -1,7 +1,7 @@
 ---
 title: "DS-1"
 permalink: /courses/ds1/
-cycle: c1
+cycle: c2
 kind: workshop
 excerpt: Introduction to Data Science
 sequence: 4
@@ -12,8 +12,7 @@ header:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
-Welcome to ML-1 (also called DS-1).
-
+Welcome to DS-1.
 The objective of this module is to provide a fundamental understanding of data analysis.  The course proceeds in 3 parts, following the Data Science Process:
 
 **Obtain and clean the data**: we will teach you how to obtain, clean, and process data from different sources such as scraped web pages, spreadsheets, APIs, and documents. 
@@ -22,7 +21,7 @@ The objective of this module is to provide a fundamental understanding of data a
 
 **Modeling**: We choose some very specific models to cover, from the perspective of teaching techniques which are generalizable to any models. Thus we will cover classification and recommendation engines. We'll also cover similarity and PCA, as a way of understanding structure in your data and the models you ran on them.
 
-After you finish this module, you will be ready to run the entire data science process, all on your own, from fetching (from the internet or databases) and cleaning the data, setting up pipelines, to exploratory data analysis, visualization, and modeling.
+At the end of this module, you will be ready to run the entire data science process, all on your own, from fetching (from the internet or databases) and cleaning the data, setting up pipelines, to exploratory data analysis, visualization, and modeling.
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
 
@@ -36,6 +35,45 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes. 
 
+The teaching assistants for the duration of this course are:
+
+### Arya Mohan
+
+![](/assets/images/people/AryaMohan.jpeg)
+
+- Arya is working as a research and teaching fellow with Univ.AI.
+- Previously, she was a data analyst at Schneider Electric.
+- She is currently working as a research fellow at the StellarDNN lab.
+
+### Harsh Vardhan
+
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
+
+- Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
+- He also enjoys climbing/bouldering and running.
+
+### Anshika Gupta
+
+<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;" />
+
+- Anshika is a  deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur. 
+- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
+- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
+
+### Sakthisree Venkateshan
+
+<img src="/assets/images/people/Sakthisree.jpeg" style="zoom:55%;" />
+
+- Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.  
+- Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research. 
+- She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.
+
+### Meghana Sarikonda
+
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;" />
+
+- Previously worked as a freelance full stack developer.
+- Fascinated about AI and it's ability to solve complex problems.
 
 ## The Coursework
 
@@ -70,12 +108,11 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
-![](/assets/ml1-c1.assets/content.png)
+![](/assets/ds1-c2.assets/content.png)
 
 ## The Class
 
 Coming Soon!
-
 
 ## Course Pre-Requisites
 
@@ -111,24 +148,21 @@ Reference:
 
 [1] K. Stathoulopoulos and J. C. Mateos-Garcia, “Gender Diversity in AI Research,” SSRN Electronic Journal, 2019 [Online]. Available: http://dx.doi.org/10.2139/ssrn.3428240.
 
-## Logistics: What do you need to begin?
+## Logistics - What you need to begin?
 
 We assume you have a [Univ.AI](https://courses.univ.ai) account, created when you signed up at [courses.univ.ai](https://courses.univ.ai). 
 If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
-- You **MUST** connect your [courses.univ.ai](https://courses.univ.ai) account to [Github](https://github.com). [Here](github.md) (install instructions) is how to do it!
-- You **MUST** log on to [discourse.univ.ai](https://discourse.univ.ai) forum software. [Here](discourse.md) (install instructions) is how to do it.
-- Before the first class, you will want to [install Anaconda Python](anacondapython.md) and play with Python a little bit. You will learn a bit about Jupyter notebooks, and a bit about Python coding. We'll talk about Anaconda in class.
 
 ### Education software we use
 
 - Our lectures and labs are carried out via [Zoom](/support/zoom/) (install instructions).
 - Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
-- All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
-- We have an innovative [platform](https://courses.univ.ai) for our courses. Here is some [usage information](platform.md) for it. We will talk about the platform in class.
-- The Slides will be available on Univ.AI Platform.
-- For forum discussion we will be using Discourse.
-- And for homework submissions and lab work we will be using github.
+- Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
+
+All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
+
+Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
 ## Parting note
 
@@ -144,6 +178,6 @@ We wish you best of luck for your data science journey.
 
 ## Links to previous cohorts 
 
-- [Cohort 1](/catalog/cohort1/ml1/)
+- [Cohort 1](/catalog/cohort1/ds1/)
 
 
