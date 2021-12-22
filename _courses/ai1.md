@@ -39,14 +39,11 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### (Dr.) Ignacio Becker
+### Harsh Vardhan
+![](/assets/images/people/HarshGoyal.jpeg)
 
-![](/assets/images/people/IgnacioBecker.jpeg)
-
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
+- Harsh is currently studying productionizing AI with Univ.AI.
+- He is passionate about intersection of sustainable technology and AI.
 
 ## The Coursework
 
