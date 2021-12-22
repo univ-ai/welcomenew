@@ -59,7 +59,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
 
 ### Meghana sarikonda
-![](assets/images/people/MeghanaSarikonda.png)
+![](/assets/images/people/MeghanaSarikonda.png)
 
 - Previously worked as a freelance full stack developer
 - Fascinated about AI and it’s ability to solve complex problems
