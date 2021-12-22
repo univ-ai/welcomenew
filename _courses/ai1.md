@@ -45,6 +45,25 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - Harsh is currently studying productionizing AI with Univ.AI.
 - He is passionate about intersection of sustainable technology and AI.
 
+### Vishnu M
+![](/assets/images/people/VishnuM.png)
+
+- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
+- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
+
+### Anshika Gupta
+![](/assets/images/people/AnshikaGupta.png)
+
+- Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.
+- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
+- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
+
+### Meghana sarikonda
+![](assets/images/people/MeghanaSarikonda.png)
+
+- Previously worked as a freelance full stack developer
+- Fascinated about AI and it’s ability to solve complex problems
+
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
