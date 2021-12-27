@@ -114,7 +114,8 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Welcome Session - Preparing for this classPermalink
+Welcome Session - Preparing for this class
+
 There will be a Welcome Session scheduled on 09 January 2022 at 7:00 PM IST for all registered students.
 
 Please check your mail for more information.
@@ -123,17 +124,17 @@ Please check your mail for more information.
 
 NOTE: Below timings are in IST
 
-*Lecture Sessions:
+**Lecture Sessions:
 
 - Tuesday Series: 9:30 PM - 11:00 PM
 - Saturday Series: 6:00 PM - 07:30 PM
 
-*Lab Sessions:
+**Lab Sessions:
 
 - Wednesday Series: 9:30 PM - 11:00 PM
 - Sunday Series: 6:00 PM - 07:30 PM
 
-*Office hours:
+**Office hours:
 
 - Mondays: 9:30 PM - 10:30 PM
 
