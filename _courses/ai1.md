@@ -64,6 +64,12 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - Previously worked as a freelance full stack developer
 - Fascinated about AI and it’s ability to solve complex problems
 
+### Vishal Balaji
+![](/assets/images/people/VishalBalaji.jpeg)
+
+- Currently working as a Machine Learning Engineer at a voice AI startup
+- In my free time, I like to trek, read sci-fi and history books
+
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
@@ -108,7 +114,28 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Coming Soon!
+Welcome Session - Preparing for this classPermalink
+There will be a Welcome Session scheduled on 09 January 2022 at 7:00 PM IST for all registered students.
+
+Please check your mail for more information.
+
+![](/assets/ai1-c3.assets/Schedule.png)
+
+NOTE: Below timings are in IST
+
+*Lecture Sessions:
+
+- Tuesday Series: 9:30 PM - 11:00 PM
+- Saturday Series: 6:00 PM - 07:30 PM
+
+*Lab Sessions:
+
+- Wednesday Series: 9:30 PM - 11:00 PM
+- Sunday Series: 6:00 PM - 07:30 PM
+
+*Office hours:
+
+- Mondays: 9:30 PM - 10:30 PM
 
 ### Course Pre-Requisites 
 
