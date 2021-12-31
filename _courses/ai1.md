@@ -19,11 +19,9 @@ Welcome to AI-1.
 The objective of this module is to provide fundamental understandings of machine learning models 
 and get you working with the basic concepts of ML and AI. 
 
-You will start with the regression models (KNN, Linear, Multi, Poly) and then move on to classification models (kNN, Logistic).
+You will start with the basic regression models (KNN, Linear, Multi, Poly), classification models (kNN, Logistic) and then move on to more advanced concepts like Bagging and Boosting. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
 
-Finally, the course will provide a basic understanding of modern neural networks. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
-
-At the end of this module, you will be able to run basic machine learning models, and tell how well they are performing. 
+At the end of this module, you will be able to run basic and advanced machine learning models, and tell how well they are performing. 
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
