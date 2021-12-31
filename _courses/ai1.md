@@ -40,32 +40,32 @@ This page introduces you to the team, the basic instructions, the schedule and v
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
 ### Harsh Vardhan
-![](/assets/images/people/HarshGoyal.jpeg)
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;">
 
 - Harsh is currently studying productionizing AI with Univ.AI.
 - He is passionate about intersection of sustainable technology and AI.
 
 ### Vishnu M
-![](/assets/images/people/VishnuM.png)
+<img src="/assets/images/people/VishnuM.png" style="zoom:55%;">
 
 - Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
 - Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
 
 ### Anshika Gupta
-![](/assets/images/people/AnshikaGupta.png)
+<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;">
 
 - Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.
 - Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
 - When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
 
 ### Meghana sarikonda
-![](/assets/images/people/MeghanaSarikonda.png)
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;">
 
 - Previously worked as a freelance full stack developer
 - Fascinated about AI and it’s ability to solve complex problems
 
 ### Vishal Balaji
-![](/assets/images/people/VishalBalaji.jpeg)
+<img src="/assets/images/people/VishalBalaji.jpeg" style="zoom:55%;">
 
 - Currently working as a Machine Learning Engineer at a voice AI startup
 - In my free time, I like to trek, read sci-fi and history books
@@ -124,17 +124,17 @@ Please check your mail for more information.
 
 NOTE: Below timings are in IST
 
-**Lecture Sessions:
+**Lecture Sessions:**
 
 - Tuesday Series: 9:30 PM - 11:00 PM
 - Saturday Series: 6:00 PM - 07:30 PM
 
-**Lab Sessions:
+**Lab Sessions:**
 
 - Wednesday Series: 9:30 PM - 11:00 PM
 - Sunday Series: 6:00 PM - 07:30 PM
 
-**Office hours:
+**Office hours:**
 
 - Mondays: 9:30 PM - 10:30 PM
 
@@ -150,7 +150,7 @@ All exercises in this course will be done in jupyter notebooks.
 
 > Note: No prior knowledge of machine learning libraries is necessary for this module
 
-In addition to this, you are expected to know the material covered in our [pyDS](/courses/pyds_c2/) course. 
+In addition to this, you are expected to know the material covered in our [pyDS](/courses/pyds/) course. 
 
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
