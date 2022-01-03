@@ -56,7 +56,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
 - When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
 
-### Meghana sarikonda
+### Meghana Sarikonda
 <img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;">
 
 - Previously worked as a freelance full stack developer
@@ -114,18 +114,17 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 Welcome Session - Preparing for this class
 
-There will be a Welcome Session scheduled on 09 January 2022 at 7:00 PM IST for all registered students.
+There will be a Welcome Session scheduled on **09 January 2022** at **7:00 PM IST** for all registered students.
 
 Please check your mail for more information.
 
 ![](/assets/ai1-c3.assets/Schedule.png)
 
-NOTE: Below timings are in IST
 
 **Lecture Sessions:**
 
-- Tuesday Series: 9:30 PM - 11:00 PM
-- Saturday Series: 6:00 PM - 07:30 PM
+- Tuesday Series: 9:30 PM - 11:00 PM **IST** [ 11:00 AM - 12:30 AM **EST**]
+- Saturday Series: 6:00 PM - 07:30 PM **IST** [ 07:30 AM - 08:30 AM **EST**]
 
 **Lab Sessions:**
 
