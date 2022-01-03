@@ -124,7 +124,7 @@ Please check your mail for more information.
 **Lecture Sessions:**
 
 - Tuesday Series: 9:30 PM - 11:00 PM **IST** [ 11:00 AM - 12:30 AM **EST**]
-- Saturday Series: 6:00 PM - 07:30 PM **IST** [ 07:30 AM - 08:30 AM **EST**]
+- Saturday Series: 6:00 PM - 07:30 PM **IST** [ 07:30 AM - 09:00 AM **EST**]
 
 **Lab Sessions:**
 
