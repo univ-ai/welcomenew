@@ -38,7 +38,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
 ### Harsh Vardhan
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;">
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:40%;">
 
 - Harsh is currently studying productionizing AI with Univ.AI.
 - He is passionate about intersection of sustainable technology and AI.
