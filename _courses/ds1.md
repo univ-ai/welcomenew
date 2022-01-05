@@ -108,11 +108,32 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
-![](/assets/ds1-c2.assets/content.png)
+![](/assets/ds1-c2.assets/Content.png)
 
 ## The Class
 
-Coming Soon!
+#### Welcome Session - Preparing for this class
+
+There will be a Welcome Session scheduled on **09 January 2022** at **9:00 PM IST** for all registered students.
+
+Please check your mail for more information.
+
+![](/assets/ds1-c2.assets/Schedule.png)
+
+
+**Lecture Sessions:**
+
+- Tuesday Series: ```7:30 PM - 9:00 PM IST [9:00 AM - 10:30 AM EST]```
+- Saturday Series: ```8:00 PM - 9:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+**Lab Sessions:**
+
+- Wednesday Series: ```7:30 PM - 9:00 PM IST [9:00 AM - 10:30 AM EST]```
+- Sunday Series: ```8:00 PM - 9:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+**Office hours:**
+
+- Mondays: ```8:00 PM - 9:30 PM IST [9:30 AM - 11:00 AM EST]```
 
 ## Course Pre-Requisites
 
