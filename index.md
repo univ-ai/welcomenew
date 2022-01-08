@@ -36,7 +36,4 @@ If there is anything we can do to help you better navigate your learning journey
 
 We hope that your journey will be one of great growth. Here's to a happy, healthy, and fruitful year.
 
-
 *Siddharth Das & Dr. Rahul Dave, founders @Univ.AI*
-
-
