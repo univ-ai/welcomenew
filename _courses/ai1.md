@@ -38,7 +38,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
 ### Harsh Vardhan
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:40%;">
+<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:45%;">
 
 - Harsh is currently studying productionizing AI with Univ.AI.
 - He is passionate about intersection of sustainable technology and AI.
@@ -135,12 +135,12 @@ Please check your mail for more information.
 
 **Lab Sessions:**
 
-- Wednesday Series: 9:30 PM - 11:00 PM
-- Sunday Series: 6:00 PM - 07:30 PM
+- Wednesday Series: 9:30 PM - 11:00 PM **IST**
+- Sunday Series: 6:00 PM - 07:30 PM **IST**
 
 **Office hours:**
 
-- Mondays: 9:30 PM - 10:30 PM
+- Mondays: 9:30 PM - 10:30 PM **IST**
 
 ### Course Pre-Requisites 
 
