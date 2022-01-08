@@ -133,7 +133,7 @@ Please check your mail for more information.
 
 **Office hours:**
 
-- Mondays: ```8:00 PM - 9:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Mondays: ```8:00 PM - 9:00 PM IST [9:30 AM - 10:30 AM EST]```
 
 ## Course Pre-Requisites
 
