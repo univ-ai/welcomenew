@@ -56,6 +56,13 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
 - When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
 
+### Kuldeep Prasad
+<img src="/assets/images/people/KuldeepPrasad.jpeg" style="zoom:55%;"> 
+
+- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
+- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
+- Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.
+
 ### Meghana Sarikonda
 <img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;">
 
