@@ -119,7 +119,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Welcome Session
 
-There will be a **Welcome Session** scheduled on `20 November 2021` at `18:30` **IST** [`8:00` **EST**].
+There will be a **Welcome Session** scheduled on `4 March 2022` at `18:30` **IST** [`8:00` **EST**].
 
 Please check your email for more information.
 
