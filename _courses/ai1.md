@@ -1,7 +1,7 @@
 ---
 title: "AI-1" 
 permalink: /courses/ai1/
-cycle: c3
+cycle: c4
 kind: course
 excerpt: ML/AI Basics
 sequence: 2
@@ -27,53 +27,13 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Dr. Pavlos Protopapas 
+### Dr. Ignacio Becker
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
+![](/assets/images/people/IgnacioBecker.jpeg)
 
-- Scientific Director of the Institute for Applied Computational Science (IACS).
-- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
-
-You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
-
-### Harsh Vardhan
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:45%;">
-
-- Harsh is currently studying productionizing AI with Univ.AI.
-- He is passionate about intersection of sustainable technology and AI.
-
-### Vishnu M
-<img src="/assets/images/people/VishnuM.png" style="zoom:55%;">
-
-- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
-- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
-
-### Anshika Gupta
-<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;">
-
-- Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.
-- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
-- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
-
-### Kuldeep Prasad
-<img src="/assets/images/people/KuldeepPrasad.jpeg" style="zoom:55%;"> 
-
-- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
-- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
-- Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.
-
-### Meghana Sarikonda
-<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;">
-
-- Previously worked as a freelance full stack developer
-- Fascinated about AI and it’s ability to solve complex problems
-
-### Vishal Balaji
-<img src="/assets/images/people/VishalBalaji.jpeg" style="zoom:55%;">
-
-- Currently working as a Machine Learning Engineer at a voice AI startup
-- In my free time, I like to trek, read sci-fi and history books
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
 ## The Coursework
 
@@ -119,6 +79,10 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
+Coming Soon!
+
+<!--
+
 #### Welcome Session - Preparing for this class
 
 There will be a Welcome Session scheduled on **09 January 2022** at **7:00 PM IST** for all registered students.
@@ -141,6 +105,8 @@ Please check your mail for more information.
 **Office hours:**
 
 - Mondays: 9:30 PM - 10:30 PM **IST**
+
+-->
 
 ### Course Pre-Requisites 
 
@@ -211,3 +177,4 @@ We wish you best of luck for your data science journey.
 
 - [Cohort 1](/catalog/cohort1/ai1/)
 - [Cohort 2](/catalog/cohort2/ai1/)
+- [Cohort 3](/catalog/cohort3/ai1/)
