@@ -102,6 +102,7 @@ After the session, students are expected to complete a short post-class quiz bas
 ## The Class
 
 Coming soon!
+
 <!--
 ### Welcome Session
 
@@ -126,6 +127,7 @@ Please check your email for more information.
    [ ```8:00 - 10:00 ``` **EST**]
 
 -->
+
 ### Sample Class
 
 We believes in the idea of active learning and our course is designed with the expectation of active participation from the students.
