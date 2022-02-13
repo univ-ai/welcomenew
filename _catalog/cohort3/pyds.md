@@ -8,6 +8,9 @@ sequence: 1
 header:
   overlay_image: /assets/images/header/PyDSHeader.jpeg
   teaser: /assets/images/header/PyDSHeader.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 
 <!-- Bootstrap CSS -->
@@ -40,12 +43,6 @@ At the end of this module, you will have the tools and the concepts needed to su
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-
-## Interested in joining?
-
-> If you would like to apply to this course, click on the link below.
-
-[Course Application Link](https://www.univ.ai/apply#course)
 
 ## The Team
 <br>
@@ -101,7 +98,7 @@ We will hold two weekend sessions per week for a total of five weeks.
 ### What to expect
 
 
-![](/assets/pyds-c3.assets/session.jpeg)
+![](/assets/pyds-c2.assets/session.jpeg)
 
 **Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
@@ -113,7 +110,7 @@ During the session, we will have live instruction interspaced with collaborative
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 ### Course syllabus
-![](/assets/pyds-c3.assets/content.png)
+![](/assets/pyds-c2.assets/content.png)
 
 ## The Class
 
@@ -125,7 +122,7 @@ Please check your email for more information.
 
 ### Course schedule 
 
-![](/assets/pyds-c3.assets/schedule.png)
+![](/assets/pyds-c2.assets/schedule.png)
 
 
 ### Sessions: 
@@ -245,7 +242,7 @@ Keeping that in mind, you are advised to give your full active attention to ever
 
 We wish you well for the start of your data science journey.
 
-[Link to previous iteration](/catalog/cohort2/pyds/)
+
 
 <!-- Modal Section -->
 

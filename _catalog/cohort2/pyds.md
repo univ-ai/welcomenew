@@ -6,33 +6,23 @@ kind: course
 excerpt: Intro to Data Science
 sequence: 1
 header:
-  overlay_image: /assets/images/header/PyDSHeader.jpeg
-  teaser: /assets/images/header/PyDSHeader.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign1.png
+  teaser: /assets/images/header/greyHeaderDesign1.png
 ---
-
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <!-- -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>  
 
-
-<style>
-.imgs {
-  height:200px;
-  margin-right:15px;
-}
-</style>
-
-
-Welcome to Python for Data Science (PyDS)
+## PyDS : Python for Data Science
+<br>
+Welcome to Python for Data Science (PyDS).
 
 The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
-You will start with the basics of python programming, including python data structures, functions and classes. 
-
-We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch. 
+You will start with the basics of python programming, including python data structures, functions and classes. We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch. 
 
 Along the way, we will introduce foundational ideas of statistics, linear algebra and calculus.
 
@@ -40,104 +30,89 @@ At the end of this module, you will have the tools and the concepts needed to su
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-
-## Interested in joining?
-
-> If you would like to apply to this course, click on the link below.
-
-[Course Application Link](https://www.univ.ai/apply#course)
-
 ## The Team
-<br>
- *Click on each Kung-Fu Panda character to know more about the pyds team member.*
-<br>
+
+> Click on the image to know more about the team member.
+
 <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#basicExampleModal">
                     Launch demo modal
                 </button> -->
 
-
-
-
-<!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
-
-<!-- <img src="index.assets/panda.jpeg" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
 <div class="container">
 
-<img src="/assets/pyds-c2.assets/kungfupanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
+<img src="/assets/pyds-c1.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="700" height="400">
 
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="800" height="400"> -->
 
 <map name="workmap">
-  <area shape="rect" coords="250,150,400,350" alt="Hargun" title="Hargun Singh Oberoi" data-toggle="modal" data-target="#HargunModal">
+  <area shape="rect" coords="300,250,400,400" alt="Hargun" title="Hargun Singh Oberoi" data-toggle="modal" data-target="#HargunModal">
+  <area shape="rect" coords="40,20,120,120" alt="Pavlos" title="Pavlos Protopapas" data-toggle="modal" data-target="#PavlosModal">  
+  <area shape="rect" coords="400,200,500,300" alt="Varshini"  title="Varshini Reddy" data-toggle="modal" data-target="#VarshiniModal">
+  
+  <area shape="rect" coords="560,170,700,350" alt="Javier"  title="Javier Machin" data-toggle="modal" data-target="#JavierModal">    
 
-  <area shape="rect" coords="525,300,625,400" alt="Pavlos" title="Pavlos Protopapas" data-toggle="modal" data-target="#PavlosModal">  
+  <area shape="rect" coords="130,20,240,150" alt="Ignacio"  title="Ignacio Becker" data-toggle="modal" data-target="#IgnacioModal">          
 
-  <area shape="rect" coords="175,175,225,225" alt="Varshini"  title="Sai Sindhu" data-toggle="modal" data-target="#VarshiniModal">
-  <!-- Varshini is mantis -->
+  <area shape="rect" coords="250,50,400,250" alt="Ignacio"  title="Joy Parekh" data-toggle="modal" data-target="#JoyModal">   
 
-  <area shape="rect" coords="450,75,600,200" alt="Javier"  title="Sanivada Chaitanya Sai" data-toggle="modal" data-target="#JavierModal">    
-<!-- Javier is gorilla -->
+  <area shape="rect" coords="400,50,500,200" alt="German"  title="German Garcia" data-toggle="modal" data-target="#GermanModal">     
 
-  <area shape="rect" coords="200,50,250,150" alt="Ignacio"  title="Anshika Gupta" data-toggle="modal" data-target="#IgnacioModal">   
-<!-- Ignacio is tiger -->
+  <area shape="rect" coords="0,200,200,400" alt="Joy"  title="Hayden Joy" data-toggle="modal" data-target="#HaydenModal"> 
 
-  <area shape="rect" coords="325,30,425,100" alt="German"  title="Kuldeep Prasad" data-toggle="modal" data-target="#GermanModal">   
-  <!-- German is crane -->
-  <area shape="rect" coords="100,150,200,300" alt="Joy"  title="Shibani Budhraja" data-toggle="modal" data-target="#HaydenModal"> 
-  <!-- <area shape="rect" coords="200,200,300,400" alt="Sree"  title="Sakthisree" data-toggle="modal" data-target="#SreeModal">    -->
+  <area shape="rect" coords="200,200,300,400" alt="Sree"  title="Sakthisree" data-toggle="modal" data-target="#SreeModal">   
 </map> 
 </div>
 
-<!-- **NOTE:** This course will be delivered by the Dr. Pavlos Protopapas' research group, StellarDNN. -->
 
-<!-- To know more about StellarDNN, [click here](https://iacs.seas.harvard.edu/people/pavlos-protopapas). -->
+**NOTE:** This course will be delivered by the Dr. Pavlos Protopapas' research group, StellarDNN.
+
+To know more about StellarDNN, [click here](https://iacs.seas.harvard.edu/people/pavlos-protopapas).
 
 ## The Coursework
-<br>
+
+
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
-We will hold two weekend sessions per week for a total of five weeks. 
+We will hold two 90 minute weekend sessions per week for a total of five weeks. 
 
-### What to expect
+### Session - What to expect
 
+![](/assets/pyds-c1.assets/session.jpeg)
 
-![](/assets/pyds-c2.assets/session.jpeg)
-
-**Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
 
-**During Session**<br>
-During the session, we will have live instruction interspaced with collaborative coding in small groups assisted by our teaching assistants. This will help you develop intuition for the core concepts and provide guidance on technical details.
+A session will have the following pedagogy layout which will be repeated multiple times:
 
-**Post-Session**<br>
+- Live online instruction followed by Q/A + Quiz + Exercises. 
+- Sessions will help students develop the intuition for the core concepts and provide guidance on technical details. 
+- Sessions will be accompanied by relevant examples to clarify key concepts and techniques.
+
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
-### Course syllabus
-![](/assets/pyds-c2.assets/content.png)
+![](/assets/pyds-c1.assets/content.png)
 
 ## The Class
 
-### Welcome Session
-
-There will be a **Welcome Session** scheduled on `20 November 2021` at `18:30` **IST** [`8:00` **EST**].
+### Welcome Session - Preparing for the class
+There will be a **Welcome Session** scheduled on `14 August 2021` at `18:30` **IST** [`9:00` **EST**].
 
 Please check your email for more information.
 
-### Course schedule 
+### High level course schedule 
 
-![](/assets/pyds-c2.assets/schedule.png)
+![](/assets/pyds-c1.assets/schedule.png)
 
 
 ### Sessions: 
 
 - Saturday Series:
 
-     ```18:30 - 20:30 ``` **IST** [```8:00 - 10:00 ``` **EST**]
+     ```18:30 - 20:00 ``` **IST** [```9:00 - 10:30 ``` **EST**]
 
 - Sunday Series: 
 
-   ```18:30 - 20:30 ``` **IST**
-   [ ```8:00 - 10:00 ``` **EST**]
+   ```18:30 - 20:00 ``` **IST**
+   [ ```9:00 - 10:30 ``` **EST**]
 
 
 ### Sample Class
@@ -147,62 +122,64 @@ We believes in the idea of active learning and our course is designed with the e
 Please find a demo of our course style and pedagogy.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/JDwm7wmWGBE" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/JDwm7wmWGBE?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com" frameborder="0" allowfullscreen="true" scrolling="no" marginheight="0" marginwidth="0" width="788.54" height="443"> </iframe>
 </figure>
+
+<br>
 
 ## Course Topics 
 
-> Note: Prior knowledge of python programming is not necessary for this module
+> Note: Prior knowledge of programming is not necessary for this module
 
-### Session 1 (Basic Python): 
+### Session 1: **(15-August-2021)**
 
-- Introduction to Python
-- Data types, iterators, python operations
-- Order of operations, logical operators
+- Introduction to Python 
+- Data Types, iterators, python operations, 
+- order of operations, logical operators
 
-### Session 2 (Advanced Python): 
+### Session 2: **(21-August-2021)**
 
 - Python Data Structures - Lists, Dictionaries, Tuples
 - List/dictionary comprehensions
 - Enumeration
 
-### Session 3 (Functions): 
+### Session 3: **(22-August-2021)**
 
 - Python Functions - Arguments, keyword arguments, etc. 
 - Anonymous functions (lambda function)
 - Function decorators 
 
-### Session 4 (Classes): 
+### Session 4: **(28-August-2021)**
 
 - Classes: Constructors vs Instantiations
 - Methods vs. Attributes
 - Dunder methods 
 
-### Session 5 (Strings): 
+### Session 5: **(29-August-2021)**
 
 - Working with strings
 - Reading & writing file
 - Python standard library
 
-### Session 6 (NumPy):
+### Session 6: **(04-September-2021)**
 
 - Debugging skills
 - Exception handling 
-- Introduction to Numerical Python (NumPy)
+- Python data analysis library
 
-### Session 7 (Pandas):
+### Session 7: Stats & Probability **(05-September-2021)**
 
-- Python data analysis 
-- Introduction to Pandas 
-- Database management using pandas
+- Random Variable 
+- Probability Density Function
+- Descriptive Statistics
 
-### Session 8 (Probability):
+### Session 8: NumPy **(11-September-2021)**
 
-- Introduction to Random Variable 
-- Basic probability simulations 
-- Descriptive statistics
+- Indexing / slicing
+- Shape & reshape
+- Zeros, ones, arbitrary array declaration
 
-### Session 9 (Linear Regression):
+### Session 9: Calculus and Linear Algebra: **(12-September-2021)**
 
 - Derivatives (including partial)
 - Linear regression
@@ -231,7 +208,7 @@ Reference:
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](https://edstem.org/us/courses/7707/lessons/20903/slides/113688). Our expectations of you are also laid out in that document.
+Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
 
 <br>
 
@@ -245,47 +222,48 @@ Keeping that in mind, you are advised to give your full active attention to ever
 
 We wish you well for the start of your data science journey.
 
-[Link to previous iteration](/catalog/cohort1/pyds/)
+![](index.assets/python.jpeg)
+
+
 
 <!-- Modal Section -->
 
 <style>
   .modal-margin {
     margin: 0 auto;
-  }
+}
 
-  .modal {
+.modal {
     background: transparent;
   }
 
 </style>
-
-<!-- Modal --> 
+<!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" >
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Hargun Singh Oberoi</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p><img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="height:220px;margin-right:15px;" align="left">
-        - Hargun Oberoi is a Product Manager at Univ.Ai. <br>
-        - He has a Masters degree in Mathematics from BITS Pilani University.<br> 
-        - He is currently working as a research fellow at the StellarDNN lab. </p> 
-      </div>
-    </div>
-  </div>
+<div class="modal fade modal-margin" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Hargun Singh Oberoi</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
 </div>
+<div class="modal-body">
+<p><img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="height:220px;margin-right:15px;" align="left">
+- Hargun Oberoi is a Product Manager at Univ.Ai. <br>
+- He has a Masters degree in Mathematics from BITS Pilani University.<br> 
+- He is currently working as a research fellow at the StellarDNN lab. 
+</p> 
 </div>
 
+</div>
+</div>
+</div>
+</div>
 <script>
      $('#HargunModal').appendTo('body');
 </script>
-
 
 
 <!-- Modal -->
@@ -310,7 +288,6 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 </div>
-
 <script>
      $('#PavlosModal').appendTo('body');
 </script>
@@ -322,30 +299,26 @@ We wish you well for the start of your data science journey.
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Sai Sindhu</h5>
+<h5 class="modal-title" id="exampleModalLabel">Varshini Reddy</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/SaiSindhu.png" alt="Pavlos" style="height:300px;margin-right:15px;" align="left">
-- Graduated in Biological Sciences from IIT Madras.
-<br>
-- One year experience as Operations Manager at new media based Chinese start up GiantView PVT LTD.
-<br>
-- Learning Bharatanatyam from more than a year loves to cook biryani!</p>
+<p><img src="/assets/images/people/VarshiniReddy.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
+- Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. <br>
+- Previously, she was a Research Associate at the Indian Institute of Science..<br> 
+- She is an incoming graduate student at IACS and she is passionate about working at the interface of AI and social impact.
+</p> 
 </div>
 
 </div>
 </div>
 </div>
 </div>
-
 <script>
      $('#VarshiniModal').appendTo('body');
 </script>
-
-
 <!-- 4 -->
 
 <!-- Modal -->
@@ -354,26 +327,26 @@ We wish you well for the start of your data science journey.
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Sai Chaitanya</h5>
+<h5 class="modal-title" id="exampleModalLabel">Javier Machin</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/SaiChaitanya.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
-- Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.
+<p><img src="/assets/images/people/JavierMachin.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
+- Co-Founder and CEO of Besides Data.
 <br>
-- He is excited about AI and it's applications in Agriculture and Healthcare.
+- Teaching fellow at Institute for Applied Computational Science (IACS) at Harvard University.
 <br>
-- In his free time, he can be found gardening or star-gazing.</p>
+- MS Machine Learning, Pontificia Universidad Católica at Chile.
+
+</p>
+</div>
 
 </div>
-
 </div>
 </div>
 </div>
-</div>
-
 <script>
      $('#JavierModal').appendTo('body');
 </script>
@@ -385,18 +358,18 @@ We wish you well for the start of your data science journey.
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<h5 class="modal-title" id="exampleModalLabel">Ignacio Becker</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/AnshikaGupta.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
-- Final year Computer Science Engineering undergraduate in Jaipur.
+<p><img src="/assets/images/people/IgnacioBecker.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile.
 <br>
-- Currently a TA at Univ.AI, she has previously worked as a ML researcher at a healthcare startup (Neos HealthTech, incubated at IIT-M)
+His main area of research is applied AI to astrophysical problems.
 <br>
-- She believes in the power of Deep Neural Networks, and wishes to leverage it's capabilities in making a better world.
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 </p>
 </div>
 
@@ -404,7 +377,6 @@ We wish you well for the start of your data science journey.
 </div>
 </div>
 </div>
-
 <script>
      $('#IgnacioModal').appendTo('body');
 </script>
@@ -417,25 +389,18 @@ We wish you well for the start of your data science journey.
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
+<h5 class="modal-title" id="exampleModalLabel">German Garcia</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/KuldeepPrasad.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
-<!-- - Electrical Engineer, currently pursuing a MSc. in Electrical Engineering at the Computational Intelligence Lab of the University of Chile.
+<p><img src="/assets/images/people/GermanGarcia.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
+- Electrical Engineer, currently pursuing a MSc. in Electrical Engineering at the Computational Intelligence Lab of the University of Chile.
 <br>
 - Research Fellow at StellarDNN.
 <br>
-- Enjoys working with generative models and their applications on astronomical tasks. -->
-- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
-<br>
-- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
-<br>
-- Dr. Prasad wants to accelerate the application  of Artificial Intelligence  to solve some of the world’s biggest challenges as well as using AI for social good.
-<br>
-Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.
+- Enjoys working with generative models and their applications on astronomical tasks.
 </p>
 </div>
 
@@ -443,10 +408,10 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 </div>
-
 <script>
      $('#GermanModal').appendTo('body');
 </script>
+
 <!-- 7 -->
 
 <!-- Modal -->
@@ -473,10 +438,10 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 </div>
-
 <script>
      $('#SreeModal').appendTo('body');
 </script>
+
 <!-- 8 -->
 
 <!-- Modal -->
@@ -485,29 +450,28 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<h5 class="modal-title" id="exampleModalLabel">Hayden Joy</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
-- A Psychologist and amateur  musician exploring the world of Data Science. 
+<p><img src="/assets/images/people/HaydenJoy.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
+- Hayden graduated with a statistics degree from Harvard in 2020 where he focused his studies on data science and computational biology. 
 <br>
--Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
-<br>
-- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
+- In partnership with stellardnn, he is currently the lead developer of rctorch, a cutting edge reservoir computing neural network library which uses python based AI to solve differential equations.
 </p>
+
 </div>
 
 </div>
 </div>
 </div>
 </div>
-
 <script>
      $('#HaydenModal').appendTo('body');
 </script>
+
 <!-- 9 -->
 
 <!-- Modal -->
@@ -522,7 +486,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/JoyParekh.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+<p><img src="/assets/images/people/JoyParekh.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
 - AI researcher who has collaborated with teams from Mass Gen, MIT, Harvard and NTU Singapore.
 - Incoming masters student at Columbia University's Computer Science program.
 <br>
@@ -534,7 +498,6 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </div>
 </div>
 </div>
-
 <script>
      $('#JoyModal').appendTo('body');
 </script>

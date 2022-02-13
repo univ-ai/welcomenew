@@ -8,6 +8,9 @@ sequence: 1
 header:
   overlay_image: /assets/images/header/PyDSHeader.jpeg
   teaser: /assets/images/header/PyDSHeader.jpeg
+  actions:
+    - label: "Register"
+      url: "https://application.univ.ai/applications"
 ---
 
 <!-- Bootstrap CSS -->
@@ -40,32 +43,16 @@ At the end of this module, you will have the tools and the concepts needed to su
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-
-## Interested in joining?
-
-> If you would like to apply to this course, click on the link below.
-
-[Course Application Link](https://www.univ.ai/apply#course)
-
+<!--
 ## The Team
+
 <br>
  *Click on each Kung-Fu Panda character to know more about the pyds team member.*
 <br>
-<!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#basicExampleModal">
-                    Launch demo modal
-                </button> -->
 
-
-
-
-<!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
-
-<!-- <img src="index.assets/panda.jpeg" alt="Workplace" usemap="#workmap" width="700" height="400"> -->
 <div class="container">
 
 <img src="/assets/pyds-c2.assets/kungfupanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
-
-<!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="800" height="400"> -->
 
 <map name="workmap">
   <area shape="rect" coords="250,150,400,350" alt="Hargun" title="Hargun Singh Oberoi" data-toggle="modal" data-target="#HargunModal">
@@ -73,24 +60,21 @@ This page introduces you to the team, the basic instructions, the schedule and v
   <area shape="rect" coords="525,300,625,400" alt="Pavlos" title="Pavlos Protopapas" data-toggle="modal" data-target="#PavlosModal">  
 
   <area shape="rect" coords="175,175,225,225" alt="Varshini"  title="Sai Sindhu" data-toggle="modal" data-target="#VarshiniModal">
-  <!-- Varshini is mantis -->
+
 
   <area shape="rect" coords="450,75,600,200" alt="Javier"  title="Sanivada Chaitanya Sai" data-toggle="modal" data-target="#JavierModal">    
-<!-- Javier is gorilla -->
+ 
 
   <area shape="rect" coords="200,50,250,150" alt="Ignacio"  title="Anshika Gupta" data-toggle="modal" data-target="#IgnacioModal">   
-<!-- Ignacio is tiger -->
+
 
   <area shape="rect" coords="325,30,425,100" alt="German"  title="Kuldeep Prasad" data-toggle="modal" data-target="#GermanModal">   
-  <!-- German is crane -->
+
   <area shape="rect" coords="100,150,200,300" alt="Joy"  title="Shibani Budhraja" data-toggle="modal" data-target="#HaydenModal"> 
-  <!-- <area shape="rect" coords="200,200,300,400" alt="Sree"  title="Sakthisree" data-toggle="modal" data-target="#SreeModal">    -->
+
 </map> 
 </div>
-
-<!-- **NOTE:** This course will be delivered by the Dr. Pavlos Protopapas' research group, StellarDNN. -->
-
-<!-- To know more about StellarDNN, [click here](https://iacs.seas.harvard.edu/people/pavlos-protopapas). -->
+-->
 
 ## The Coursework
 <br>
@@ -101,7 +85,7 @@ We will hold two weekend sessions per week for a total of five weeks.
 ### What to expect
 
 
-![](/assets/pyds-c4.assets/session.jpeg)
+![](/assets/pyds-c2.assets/session.jpeg)
 
 **Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
@@ -113,19 +97,21 @@ During the session, we will have live instruction interspaced with collaborative
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 ### Course syllabus
-![](/assets/pyds-c4.assets/content.png)
+![](/assets/pyds-c2.assets/content.png)
 
 ## The Class
 
+Coming soon!
+<!--
 ### Welcome Session
 
-There will be a **Welcome Session** scheduled on `4 March 2022` at `18:30` **IST** [`8:00` **EST**].
+There will be a **Welcome Session** scheduled on `20 November 2021` at `18:30` **IST** [`8:00` **EST**].
 
 Please check your email for more information.
 
 ### Course schedule 
 
-![](/assets/pyds-c4.assets/schedule.png)
+![](/assets/pyds-c2.assets/schedule.png)
 
 
 ### Sessions: 
@@ -139,7 +125,7 @@ Please check your email for more information.
    ```18:30 - 20:30 ``` **IST**
    [ ```8:00 - 10:00 ``` **EST**]
 
-
+-->
 ### Sample Class
 
 We believes in the idea of active learning and our course is designed with the expectation of active participation from the students.
@@ -244,8 +230,6 @@ It requires proficiency in critical thinking, ideation & experimentation.
 Keeping that in mind, you are advised to give your full active attention to every session.
 
 We wish you well for the start of your data science journey.
-
-[Link to previous iteration](/catalog/cohort3/pyds/)
 
 <!-- Modal Section -->
 
