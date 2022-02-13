@@ -1,7 +1,7 @@
 ---
 title: "DS-1"
 permalink: /courses/ds1/
-cycle: c2
+cycle: c3
 kind: workshop
 excerpt: Introduction to Data Science
 sequence: 4
@@ -34,46 +34,6 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes. 
-
-The teaching assistants for the duration of this course are:
-
-### Arya Mohan
-
-![](/assets/images/people/AryaMohan.jpeg)
-
-- Arya is working as a research and teaching fellow with Univ.AI.
-- Previously, she was a data analyst at Schneider Electric.
-- She is currently working as a research fellow at the StellarDNN lab.
-
-### Harsh Vardhan
-
-<img src="/assets/images/people/HarshGoyal.jpeg" style="zoom:55%;" />
-
-- Harsh Vardhan completed Master AI and ML with univ.ai and is currently a teaching assistant. He is passionate about ai enabled sustainable development.  
-- He also enjoys climbing/bouldering and running.
-
-### Anshika Gupta
-
-<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;" />
-
-- Anshika is a  deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur. 
-- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
-- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
-
-### Sakthisree Venkateshan
-
-<img src="/assets/images/people/Sakthisree.jpeg" style="zoom:55%;" />
-
-- Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.  
-- Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research. 
-- She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.
-
-### Meghana Sarikonda
-
-<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:55%;" />
-
-- Previously worked as a freelance full stack developer.
-- Fascinated about AI and it's ability to solve complex problems.
 
 ## The Coursework
 
@@ -112,6 +72,9 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 
 ## The Class
 
+Coming Soon!
+
+<!--
 #### Welcome Session - Preparing for this class
 
 There will be a Welcome Session scheduled on **09 January 2022** at **9:00 PM IST** for all registered students.
@@ -134,6 +97,7 @@ Please check your mail for more information.
 **Office hours:**
 
 - Mondays: ```8:00 PM - 9:00 PM IST [9:30 AM - 10:30 AM EST]```
+-->
 
 ## Course Pre-Requisites
 

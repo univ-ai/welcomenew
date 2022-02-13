@@ -116,3 +116,4 @@ We wish you best of luck for your data science journey.
 ## Links to previous cohorts 
 
 - [Cohort 1](/catalog/cohort1/ds2/)
+- [Cohort 2](/catalog/cohort2/ds2/)
