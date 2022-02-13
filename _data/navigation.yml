@@ -28,8 +28,7 @@ coursesnav:
 
   - title: Previous Cohorts
     children:
-        - title: "PyDS - C1"
-          url: /catalog/cohort1/pyds/
+
         - title: "AI-1 - C1"
           url: /catalog/cohort1/ai1/
         - title: "AI-2 - C1"
@@ -45,8 +44,15 @@ coursesnav:
         - title: "AI-5 - C1"
           url: /catalog/cohort1/ai5/
 
+        - title: "PyDS - C2"
+          url: /catalog/cohort2/pyds/
         - title: "AI-1 - C2"
           url: /catalog/cohort2/ai1/
-
         - title: "AI-2 - C2"
           url: /catalog/cohort2/ai2/
+        - title: "DS-1 - C2"
+          url: /catalog/cohort2/ds1/
+
+
+        - title: "PyDS - C3"
+          url: /catalog/cohort3/pyds/
