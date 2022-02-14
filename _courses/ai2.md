@@ -122,7 +122,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ### Welcome Session - Preparing for this class 
 
-There will be a **Welcome Session** scheduled on ```6 March 2022``` at ``` 5:30 PM``` IST for all registered students. 
+There will be a **Welcome Session** scheduled on ```6 March 2022``` at ``` 6:30 PM``` IST for all registered students. 
 
 Please check your mail for more information.
 
