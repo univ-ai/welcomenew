@@ -4,7 +4,7 @@ main:
   - title: "Support"
     url: /support/
   - title: "Community"
-  url: https://community.univ.ai/
+    url: https://community.univ.ai/
   - title: "Main Site"
     url: https://univ.ai/
 

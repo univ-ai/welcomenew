@@ -33,6 +33,51 @@ At the end of this course, you will be able to run a variety of advanced machine
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
+### Vishnu M
+
+<img src="/assets/images/people/VishnuM.png" style="zoom:55%;" />
+
+- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
+- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
+
+### Anshika Gupta
+
+<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;">
+
+- Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.
+- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
+- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
+
+### Kuldeep Prasad
+
+<img src="/assets/images/people/KuldeepPrasad.jpeg" style="zoom:50%;"> 
+
+- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
+- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
+- Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.
+
+### Meghana Sarikonda
+
+<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:60%;">
+
+- Previously worked as a freelance full stack developer
+- Fascinated about AI and it’s ability to solve complex problems
+
+### Vishal Balaji
+
+<img src="/assets/images/people/VishalBalaji.jpeg" style="zoom:55%;">
+
+- Currently working as a Machine Learning Engineer at a voice AI startup
+- In my free time, I like to trek, read sci-fi and history books
+
+### Shibani Budhraja
+
+<img src="/assets/images/people/ShibaniBudhraja.png" style="zoom:25%;">
+
+- A Psychologist and amateur  musician exploring the world of Data Science. 
+- Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
+- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
+
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
@@ -71,11 +116,33 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c3.assets/Content.png)
+![](/assets/ai2-c3.assets/Content.jpg)
 
 ## The Class
 
-Coming soon!
+### Welcome Session - Preparing for this class 
+
+There will be a **Welcome Session** scheduled on ```6 March 2022``` at ``` 5:30 PM``` IST for all registered students. 
+
+Please check your mail for more information.
+
+
+### High level course schedule 
+
+![](/assets/ai2-c3.assets/Schedule.jpg)
+
+**Lecture Sessions**: 
+- Wednesday Series: ```7:30 PM - 9:00 PM IST```  ```[ 09:00 AM - 10:30 AM EST]```
+- Saturday Series: ```5:30 PM - 7:00 PM IST```  ```[ 07:00 AM - 08:30 AM EST]```
+
+**Lab Sessions**: 
+
+- Thursday Series: ```7:30 PM - 9:00 PM IST```  ```[ 09:00 AM - 10:30 AM EST]``` 
+- Sunday Series: ```5:30 PM - 7:00 PM IST```  ```[ 07:00 AM - 08:30 AM EST]```
+
+**Office hours**: 
+
+- Mondays: ```7:30 PM - 9:00 PM```
 
 ### Course Pre-Requisites 
 
