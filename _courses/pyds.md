@@ -85,7 +85,7 @@ We will hold two weekend sessions per week for a total of five weeks.
 ### What to expect
 
 
-![](/assets/pyds-c2.assets/session.jpeg)
+![](/assets/pyds-c4.assets/session.jpeg)
 
 **Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
@@ -103,7 +103,8 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Welcome Session
 
-There will be a **Welcome Session** scheduled on `04 March 2022` .
+There will be a **Welcome Session** scheduled on `04 March 2022`.
+
 <!--
 
 at `18:30` **IST** [`8:00` **EST**].
