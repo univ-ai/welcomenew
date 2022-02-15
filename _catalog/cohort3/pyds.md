@@ -488,7 +488,7 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
+<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
 - A Psychologist and amateur  musician exploring the world of Data Science. 
 <br>
 -Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.

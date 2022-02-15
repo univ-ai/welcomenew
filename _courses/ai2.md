@@ -12,6 +12,48 @@ header:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 100px; 
+    height: 100px; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+</style>
+
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
@@ -33,50 +75,50 @@ At the end of this course, you will be able to run a variety of advanced machine
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-### Vishnu M
+<br>
 
-<img src="/assets/images/people/VishnuM.png" style="zoom:55%;" />
+### Teaching Assistants
 
-- Vishnu is a Computer Vision enthusiast and Teaching Assistant at Univ.AI. Currently, he is in the final year of Computer Science Engineering at JECRC University, Jaipur.
-- Recently, he was a Research Intern at a healthcare startup where he worked on developing and deploying algorithms for medical image analysis and segmentation.
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+    </div>
+  </div>
 
-### Anshika Gupta
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
+  </div>
 
-<img src="/assets/images/people/AnshikaGupta.png" style="zoom:40%;">
+  <div class="img-border" style="grid-column: 6/7">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VishalBalaji.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#VishalModal"/>
+    </div>
+  </div>
 
-- Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.
-- Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.
-- When not studying, she can be found writing prose and poetry while sipping a cup of coffee.
+  <div class="img-border" style="grid-column: 8/9">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
+    </div>
+  </div>
 
-### Kuldeep Prasad
+  <div class="img-border" style="grid-column: 2/3">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/KuldeepPrasad.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#KuldeepModal"/>
+    </div>
+  </div>
 
-<img src="/assets/images/people/KuldeepPrasad.jpeg" style="zoom:50%;"> 
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/MeghanaSarikonda.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#MeghanaModal"/>
+    </div>
+  </div>
 
-- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
-- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
-- Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.
-
-### Meghana Sarikonda
-
-<img src="/assets/images/people/MeghanaSarikonda.png" style="zoom:60%;">
-
-- Previously worked as a freelance full stack developer
-- Fascinated about AI and it’s ability to solve complex problems
-
-### Vishal Balaji
-
-<img src="/assets/images/people/VishalBalaji.jpeg" style="zoom:55%;">
-
-- Currently working as a Machine Learning Engineer at a voice AI startup
-- In my free time, I like to trek, read sci-fi and history books
-
-### Shibani Budhraja
-
-<img src="/assets/images/people/ShibaniBudhraja.png" style="zoom:25%;">
-
-- A Psychologist and amateur  musician exploring the world of Data Science. 
-- Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
-- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
+</div>
+<br>
 
 ## The Coursework
 
@@ -227,3 +269,259 @@ We wish you best of luck for your data science journey.
 
 - [Cohort 1](/catalog/cohort1/ai2/)
 - [Cohort 2](/catalog/cohort2/ai2/)
+
+
+<!-- Modal Section -->
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- Modal --> 
+<div class="container">
+<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
+          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
+          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+     $('#VishnuModal').appendTo('body');
+</script>
+
+
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.</li>
+<li>When not studying, she can be found writing prose and poetry while sipping a cup of coffee.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#AnshikaModal').appendTo('body');
+</script>
+
+<!-- 3 -->
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="VishalModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Vishal Balaji</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/VishalBalaji.jpeg" alt="Vishal" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Currently working as a Machine Learning Engineer at a voice AI startup</li>
+<li>In my free time, I like to trek, read sci-fi and history books</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#VishalModal').appendTo('body');
+</script>
+
+
+<!-- 4 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="ShibaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/ShibaniBudhraja.png" alt="Shibani" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>A Psychologist and amateur  musician exploring the world of Data Science.</li>
+<li>Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.</li>
+<li>Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#ShibaniModal').appendTo('body');
+</script>
+
+<!-- 6 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="KuldeepModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KuldeepPrasad.jpeg" alt="Kuldeep" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
+<li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
+<li>Dr. Prasad wants to accelerate the application  of Artificial Intelligence  to solve some of the world’s biggest challenges as well as using AI for social good.</li>
+<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#KuldeepModal').appendTo('body');
+</script>
+<!-- 7 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="MeghanaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Meghana Sarikonda</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/MeghanaSarikonda.png" alt="Meghana" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Previously worked as a freelance full stack developer</li>
+<li>Fascinated about AI and it’s ability to solve complex problems</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#MeghanaModal').appendTo('body');
+</script>
+<!-- 8 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
+- A Psychologist and amateur  musician exploring the world of Data Science. 
+<br>
+-Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
+<br>
+- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
+</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#HaydenModal').appendTo('body');
+</script>
+<!-- 9 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Joy Parekh</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<p><img src="/assets/images/people/JoyParekh.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+- AI researcher who has collaborated with teams from Mass Gen, MIT, Harvard and NTU Singapore.
+- Incoming masters student at Columbia University's Computer Science program.
+<br>
+-Likes to explore variety of applications of AI models, with social impact, while simultaneously developing the models as well.
+</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#JoyModal').appendTo('body');
+</script>
