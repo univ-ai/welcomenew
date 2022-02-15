@@ -101,12 +101,14 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ## The Class
 
-Coming soon!
-
-<!--
 ### Welcome Session
 
-There will be a **Welcome Session** scheduled on `20 November 2021` at `18:30` **IST** [`8:00` **EST**].
+There will be a **Welcome Session** scheduled on `04 March 2022` .
+<!--
+
+at `18:30` **IST** [`8:00` **EST**].
+
+-->
 
 Please check your email for more information.
 
@@ -114,6 +116,7 @@ Please check your email for more information.
 
 ![](/assets/pyds-c2.assets/schedule.png)
 
+<!--
 
 ### Sessions: 
 
