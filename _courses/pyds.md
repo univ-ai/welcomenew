@@ -115,7 +115,7 @@ Please check your email for more information.
 
 ### Course schedule 
 
-![](/assets/pyds-c2.assets/schedule.png)
+![](/assets/pyds-c4.assets/schedule.png)
 
 <!--
 
