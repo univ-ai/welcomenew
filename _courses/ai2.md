@@ -52,6 +52,11 @@ header:
     border-radius: 50%;
     padding: 0.5rem;
   }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+
+  }
 </style>
 
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
