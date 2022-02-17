@@ -99,10 +99,7 @@ After the session, students are expected to complete a short post-class quiz bas
 ![](/assets/pyds-c2.assets/content.png)
 
 ## The Class
-
-### Welcome Session
-
-There will be a **Welcome Session** scheduled on `04 March 2022`.
+There will be a **Welcome Session** scheduled on **04 March 2022** .
 
 <!--
 
