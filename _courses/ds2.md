@@ -101,7 +101,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Sree"/>
+      <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Sakthisree"/>
     </div>
   </div>
 
@@ -300,7 +300,7 @@ We wish you best of luck for your data science journey.
 </div>
 
 <script>
-     $('#Sree').appendTo('body');
+     $('#Sakthisree').appendTo('body');
 </script>
 
 
