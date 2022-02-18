@@ -21,6 +21,15 @@ header:
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
 
 <style>
+  /* h1 {
+    font-family: "Aspira Nar Heavy"
+  }
+  h2 {
+    font-family: "Aspira Nar Heavy"
+  }
+  h3 {
+    font-family: "Aspira Nar Heavy"
+  } */
   .modal-margin {
     margin: 0 auto;
   }
@@ -37,8 +46,8 @@ header:
     height:225px;
   }
   .circular--portrait { 
-    width: 100px; 
-    height: 100px; 
+    width: 5.7rem; 
+    height: 5.7rem; 
     overflow: hidden; 
     border-radius: 50%; 
     } 
@@ -55,7 +64,14 @@ header:
   .img-border:hover {
     box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
   }
-
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
   }
 </style>
 
