@@ -105,7 +105,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 6/7">
+  <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
       <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Yashraj"/>
     </div>
