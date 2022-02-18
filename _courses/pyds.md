@@ -33,7 +33,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 ### Hargun Singh Oberoi 
 
 <br>
-<img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="height:220px;margin-right:15px;">
+<img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="zoom:40%; margin-right:15px;">
 
 - Hargun Oberoi is a Product Manager at Univ.Ai.
 - He has a Masters degree in Mathematics from BITS Pilani University.
