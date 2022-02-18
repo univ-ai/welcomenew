@@ -30,6 +30,15 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
+### Hargun Singh Oberoi 
+
+<br>
+<img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="height:220px;margin-right:15px;">
+
+- Hargun Oberoi is a Product Manager at Univ.Ai.
+- He has a Masters degree in Mathematics from BITS Pilani University.
+- He is currently working as a research fellow at the StellarDNN lab.
+
 ### Dr. Pavlos Protopapas 
 
 <br>
@@ -44,7 +53,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 ### Sai Chaitanya
 
 <br>
-<img src="/assets/images/people/SaiChaitanya.png" alt="Pavlos" style="height:200px;margin-right:15px;">
+<img src="/assets/images/people/SaiChaitanya.png" alt="Sai" style="height:200px;margin-right:15px;">
 
 - Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.
 - He is excited about AI and it's applications in Agriculture and Healthcare.
@@ -53,7 +62,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 ### G.K.V.Snigdha
 
 <br>
-<img src="/assets/images/people/Snigdha.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;">
+<img src="/assets/images/people/Snigdha.jpeg" alt="Snigdha" style="height:200px;margin-right:15px;">
 
 - 2nd year Computer Science Engineering undergraduate at IIT Mandi.
 - Worked as a robotics mentor at CurioEd, teaching middle to high school students about robotics and its applications.
@@ -62,14 +71,14 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 ### Kisalaya Kurariya
 
 <br>
-<img src="/assets/images/people/KisalayaKurariya.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;">
+<img src="/assets/images/people/KisalayaKurariya.jpeg" alt="Kisalaya" style="height:200px;margin-right:15px;">
 
 - Appreciation for artificial intelligence, music, electronics, nature, and existence itself personified into a being continuously seeking for new experiences and learnings.
 
 ### Manoj Kumar
 
 <br>
-<img src="/assets/images/people/ManojKumar.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;">
+<img src="/assets/images/people/ManojKumar.jpeg" alt="Manoj" style="height:200px;margin-right:15px;">
 
 - Manoj is an experienced professional who has worked across industries ranging from Telecom to EdTech to FinTech.  
 - He has done his MBA from the University of Hong Kong in partnership with London Business School and Mining Engineering from IIT-BHU,Varanasi. 
