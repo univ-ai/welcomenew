@@ -1,9 +1,9 @@
 ---
-title: "PyDS" 
-permalink: /catalog/cohort4/pyds/
+title: "AI-0" 
+permalink: /catalog/cohort4/ai0/
 cycle: c4
 kind: course
-excerpt: Intro to Data Science
+excerpt: The Basics of Data Science
 sequence: 1
 header:
   overlay_image: /assets/images/header/PyDSHeader.jpeg
@@ -29,7 +29,7 @@ header:
 </style>
 
 
-Welcome to Python for Data Science (PyDS)
+Welcome to AI-0: The Basics of Data Science.
 
 The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
