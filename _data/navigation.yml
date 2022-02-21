@@ -13,8 +13,8 @@ main:
 coursesnav:
   - title: Current Cohort
     children:
-      - title: "PyDS"
-        url: /courses/pyds/
+      - title: "AI-0"
+        url: /courses/ai0/
       - title: "AI-1"
         url: /courses/ai1/
       - title: "AI-2"
