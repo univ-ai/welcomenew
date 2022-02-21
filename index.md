@@ -9,7 +9,7 @@ Welcome to the ever growing Univ.AI community!
 
 These are our courses we offer. You can sign up for them at the [Programs](https://univ.ai/programs) page on our website.
 
-1. AI-0: the basics of Python and its numerical programming stack as required for all other courses 
+1. AI-0: The Basics of Data Science
 2. Master ML & AI
 3. Certificate in Data Science
 4. Certificate in Deep Learning
