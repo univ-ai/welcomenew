@@ -6,8 +6,8 @@ kind: course
 excerpt: The Basics of Data Science
 sequence: 1
 header:
-  overlay_image: univ-ai/welcomenew/assets/images/header/HeaderDesign1.jpeg
-  teaser: univ-ai/welcomenew/assets/images/header/HeaderDesign1.jpeg
+  overlay_image: /assets/images/header/HeaderDesign1.jpeg
+  teaser: /assets/images/header/HeaderDesign1.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
