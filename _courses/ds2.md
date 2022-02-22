@@ -152,7 +152,20 @@ A lab is a TA driven one-hour session that is divided into 3 major parts.
 
 ## The Class
 
-Coming soon!
+### High level course schedule 
+
+Schedule coming soon!
+
+**Lecture Sessions**: 
+- Tuesday Series: ```9:30 PM - 11:00 PM ```
+
+**Lab Sessions**: 
+- Wednesday Series: ```8:30 PM - 10:00 PM``` 
+
+**Office hours**: 
+- Sundays: ```8:30 PM - 10:00 PM``` 
+
+*NOTE*: Above timings are in IST.
 
 ## Diversity & Inclusion
 
