@@ -160,6 +160,7 @@ A lab is a TA driven one-hour session that is divided into 3 major parts.
 - Tuesday Series: 
 
 Session 1: ```9:30 PM - 11:00 PM IST [11:00 AM - 12:30 PM EST]```
+
 Session 2 onwards: ```8:30 PM - 11:00 PM IST [11:00 AM - 12:30 PM EST]```
 
 **Lab Sessions**: 
