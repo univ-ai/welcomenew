@@ -157,15 +157,15 @@ A lab is a TA driven one-hour session that is divided into 3 major parts.
 ![](/assets/ds2-c2.assets/Schedule.png)
 
 **Lecture Sessions**: 
-- Tuesday Series: ```9:30 PM - 11:00 PM ```
+- Tuesday Series: 
+Session 1: ```9:30 PM - 11:00 PM IST [11:00 AM - 12:30 PM EST]```
+Session 2 onwards: ```8:30 PM - 11:00 PM IST [11:00 AM - 12:30 PM EST]```
 
 **Lab Sessions**: 
 - Wednesday Series: ```8:30 PM - 10:00 PM``` 
 
 **Office hours**: 
 - Sundays: ```8:30 PM - 10:00 PM``` 
-
-*NOTE*: Above timings are in IST.
 
 ## Diversity & Inclusion
 
