@@ -154,7 +154,7 @@ A lab is a TA driven one-hour session that is divided into 3 major parts.
 
 ### High level course schedule 
 
-Schedule coming soon!
+![](/assets/ds2-c2.assets/Schedule.png)
 
 **Lecture Sessions**: 
 - Tuesday Series: ```9:30 PM - 11:00 PM ```
