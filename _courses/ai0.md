@@ -136,7 +136,9 @@ Session 2: ```7:30 PM - 9:30 PM IST```  ```[09:00 AM - 11:00 AM EST]```
 
 Session 4 onwards: ```6:30 PM - 08:30 PM IST ```  ```[09:00 AM - 11:00 AM EST]```
 
+**Office hours**: 
 
+- Thursday: ```7:30 PM - 08:30 PM IST```
 
 ### Sample Class
 
