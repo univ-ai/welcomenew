@@ -108,16 +108,15 @@ After the session, students are expected to complete a short post-class quiz bas
 ![](/assets/pyds-c2.assets/content.png)
 
 ## The Class
-There will be a **Welcome Session** scheduled on **04 March 2022** .
-
 <!--
+
+There will be a **Welcome Session** scheduled on **04 March 2022** .
 
 at `18:30` **IST** [`8:00` **EST**].
 
--->
-
 Please check your email for more information.
 
+-->
 ### Course schedule 
 
 ![](/assets/pyds-c4.assets/schedule.png)
@@ -127,12 +126,15 @@ Please check your email for more information.
 
 - Saturday Series:
 
-     ```17:30 - 19:30 ``` **IST** [```8:00 - 10:00 ``` **EST**]
+Session 1 & 3: ```7:30 PM - 9:30 PM IST [09:00 AM - 11:00 AM EST]```
 
+Session 5 onwards: ```6:30 PM - 08:30 PM IST [09:00 AM - 11:00 AM EST]```
+  
 - Sunday Series: 
 
-   ```17:30 - 19:30 ``` **IST**
-   [ ```8:00 - 10:00 ``` **EST**]
+Session 2: ```7:30 PM - 9:30 PM IST [09:00 AM - 11:00 AM EST]```
+
+Session 4 onwards: ```6:30 PM - 08:30 PM IST [09:00 AM - 11:00 AM EST]```
 
 
 
