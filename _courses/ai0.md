@@ -122,19 +122,19 @@ Please check your email for more information.
 ![](/assets/pyds-c4.assets/schedule.png)
 
 
-### Sessions: 
+### Sessions:
 
 - Saturday Series:
 
-Session 1 & 3: ```7:30 PM - 9:30 PM IST [09:00 AM - 11:00 AM EST]```
+Session 1 & 3: ```7:30 PM - 9:30 PM IST```  ```[09:00 AM - 11:00 AM EST]```
 
-Session 5 onwards: ```6:30 PM - 08:30 PM IST [09:00 AM - 11:00 AM EST]```
+Session 5 onwards: ```6:30 PM - 08:30 PM IST```  ```[09:00 AM - 11:00 AM EST]```
   
 - Sunday Series: 
 
-Session 2: ```7:30 PM - 9:30 PM IST [09:00 AM - 11:00 AM EST]```
+Session 2: ```7:30 PM - 9:30 PM IST```  ```[09:00 AM - 11:00 AM EST]```
 
-Session 4 onwards: ```6:30 PM - 08:30 PM IST [09:00 AM - 11:00 AM EST]```
+Session 4 onwards: ```6:30 PM - 08:30 PM IST ```  ```[09:00 AM - 11:00 AM EST]```
 
 
 
