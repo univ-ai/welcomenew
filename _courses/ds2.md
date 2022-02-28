@@ -67,7 +67,7 @@ header:
 
 Welcome to DS-2, a follow-up to our introductory course DS-1.
 
-This course develops your ability to use generative models and clustering. We introduce you to tree based models, ensemble models and boosting. 
+This course introduces you to tree based models and ensemble models. 
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
 
