@@ -167,7 +167,7 @@ Session 2 onwards: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
 - Wednesday Series: ```8:30 PM - 10:00 PM IST``` 
 
 **Office hours**: 
-- Sundays: ```8:30 PM - 10:00 PM IST``` 
+- Sundays: ```8:30 PM - 9:30 PM IST``` 
 
 ## Diversity & Inclusion
 
