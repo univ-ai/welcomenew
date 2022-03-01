@@ -67,7 +67,7 @@ header:
 
 Welcome to DS-2, a follow-up to our introductory course DS-1.
 
-This course introduces you to tree based models and ensemble models. 
+The objective of this module is to provide students with intuition and understanding of tree-based models and ensemble models. We also explore methods to open the black box in our models and work towards more interpretable frameworks. At the end of this course, you will understand the method of creating ensemble models and their benefits.
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
 
