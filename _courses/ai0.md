@@ -164,7 +164,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ![](/assets/pyds-c4.assets/schedule.png)
 
-## Note:
+# Note:
 
 **Session 1** will start at **7:00 PM IST (8:30 AM EST).**
 
