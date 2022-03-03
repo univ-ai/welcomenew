@@ -12,6 +12,59 @@ header:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 5.7rem; 
+    height: 5.7rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+  }
+</style>
+
 
 Welcome to AI-0: The Basics of Data Science.
 
