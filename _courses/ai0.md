@@ -136,6 +136,10 @@ Session 2: ```7:30 PM - 9:30 PM IST```  ```[09:00 AM - 11:00 AM EST]```
 
 Session 4 onwards: ```6:30 PM - 08:30 PM IST ```  ```[09:00 AM - 11:00 AM EST]```
 
+**Note: **
+
+**Session 1** will start at **7:00 PM IST (8:30 AM EST).** We are starting the 1st session half an hour before to brief you about the course. 
+
 **Office hours**: 
 
 - Thursday: ```7:30 PM - 08:30 PM IST```
