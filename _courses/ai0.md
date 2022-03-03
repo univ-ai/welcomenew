@@ -143,7 +143,7 @@ We will hold two weekend sessions per week for a total of five weeks.
 
 ### What to expect
 
-![](/assets/pyds-c4.assets/session.jpeg)
+![](/assets/images/Session.png)
 
 **Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
@@ -155,7 +155,8 @@ During the session, we will have live instruction interspaced with collaborative
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 ### Course syllabus
-![](/assets/pyds-c2.assets/content.png)
+
+![](/assets/pyds-c4.assets/Content.png)
 
 ## The Class
 
