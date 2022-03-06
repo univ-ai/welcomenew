@@ -123,6 +123,14 @@ At the end of this course, you will be able to run a variety of advanced machine
     </div>
   </div>
 
+<div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/MeghanaSarikonda.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#MeghanaModal"/>
+    </div>
+  </div>
+
+</div>
+<br>
 
 ## The Coursework
 
