@@ -95,39 +95,34 @@ At the end of this course, you will be able to run a variety of advanced machine
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
+  </div>
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
       <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
-    </div>
-  </div>
 
-  <div class="img-border" style="grid-column: 6/7">
+  <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
       <img src="/assets/images/people/VishalBalaji.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#VishalModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 8/9">
+  <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
       <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 2/3">
+  <div class="img-border" style="grid-column: 9/10">
     <div class="circular--portrait">
       <img src="/assets/images/people/KuldeepPrasad.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#KuldeepModal"/>
     </div>
   </div>
 
-<div class="img-border" style="grid-column: 7/8">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/MeghanaSarikonda.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#MeghanaModal"/>
-    </div>
-  </div>
 
 </div>
 <br>
