@@ -164,7 +164,7 @@ Session 1: ```9:30 PM - 11:00 PM IST [11:00 AM - 12:30 PM EST]```
 Session 2 onwards: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
 
 **Lab Sessions**: 
-- Wednesday Series: ```8:30 PM - 10:00 PM IST``` 
+- Wednesday Series: ```9:30 PM - 11:00 PM IST``` 
 
 **Office hours**: 
 - Sundays: ```8:30 PM - 9:30 PM IST``` 
