@@ -3,7 +3,7 @@ title: "DS-2"
 permalink: /courses/ds2/
 cycle: c2
 kind: workshop
-excerpt: Trees and Random Forests
+excerpt: Decision Trees and Ensemble Methods
 sequence: 5
 header:
   overlay_image: /assets/images/header/HeaderDesign4.jpeg
