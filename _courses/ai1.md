@@ -13,6 +13,59 @@ header:
       url: "https://application.univ.ai/applications"
 ---
 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 5.7rem; 
+    height: 5.7rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+  }
+</style>
+
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
 
 Welcome to AI-1. 
@@ -34,6 +87,50 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+
+### Teaching Assistants
+
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
+    </div>
+  </div>
+
+
+  <div class="img-border" style="grid-column: 2/3; grid-row: 2/3">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AamirAnsari.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 4/5; grid-row: 2/3">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#SreeModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 5/6; grid-row: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#HemaniModal"/>
+    </div>
+  
+  </div>
+    <div class="img-border" style="grid-column: 6/7; grid-row: 2/3">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#LakshayModal"/>
+    </div>
+  </div>
+
+</div>
+<br>
 
 ## The Coursework
 
@@ -79,34 +176,28 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Coming Soon!
-
-<!--
-
 #### Welcome Session - Preparing for this class
 
-There will be a Welcome Session scheduled on **09 January 2022** at **7:00 PM IST** for all registered students.
-
-Please check your mail for more information.
+There will be a Info Session scheduled on **21 April 2022** at **7:30 PM IST** for all registered students.
 
 ![](/assets/ai1-c3.assets/Schedule.png)
+
+Please check your mail for more information.
 
 
 **Lecture Sessions:**
 
-- Tuesday Series: 9:30 PM - 11:00 PM **IST** [ 11:00 AM - 12:30 AM **EST**]
-- Saturday Series: 6:00 PM - 07:30 PM **IST** [ 07:30 AM - 09:00 AM **EST**]
+- Tuesday Series: 7:00 PM - 8:30 PM **IST** [ 9:30 AM - 11:00 AM **EST**]
+- Saturday Series: 5:30 PM - 7:00 PM **IST** [ 8:00 AM - 9:30 AM **EST**]
 
 **Lab Sessions:**
 
-- Wednesday Series: 9:30 PM - 11:00 PM **IST**
-- Sunday Series: 6:00 PM - 07:30 PM **IST**
+- Wednesday Series: 7:30 PM - 9:00 PM **IST** [ 10:00 AM - 11:30 AM **EST**]
+- Sunday Series: 5:30 PM - 7:00 PM **IST** [ 8:00 AM - 9:30 AM **EST**]
 
 **Office hours:**
 
-- Mondays: 9:30 PM - 10:30 PM **IST**
-
--->
+- To be announced.
 
 ### Course Pre-Requisites 
 
@@ -178,3 +269,260 @@ We wish you best of luck for your data science journey.
 - [Cohort 1](/catalog/cohort1/ai1/)
 - [Cohort 2](/catalog/cohort2/ai1/)
 - [Cohort 3](/catalog/cohort3/ai1/)
+
+
+<!-- Modal Section -->
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- Modal --> 
+<div class="container">
+<div class="modal fade modal-margin" id="AamirModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/AamirAnsari.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Completing my data science journey with Univ.AI.</li>
+          <li>I have recently presented my paper on Tree based convolutional neural networks at ICIDSSD22, Jamia Hamdard University.</li>
+          <li>My future goals are to use data science techniques in analysing player performances in the sport of football.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+     $('#AamirModal').appendTo('body');
+</script>
+
+
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.</li>
+<li>When not studying, she can be found writing prose and poetry while sipping a cup of coffee.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#AnshikaModal').appendTo('body');
+</script>
+
+<!-- 3 -->
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Vishal Balaji</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/Sakthisree.jpeg" alt="Vishal" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.</li>
+
+<li>Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research.</li>
+
+<li>She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#SreeModal').appendTo('body');
+</script>
+
+
+<!-- 4 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="ShibaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/ShibaniBudhraja.png" alt="Shibani" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>A Psychologist and amateur  musician exploring the world of Data Science.</li>
+<li>Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.</li>
+<li>Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#ShibaniModal').appendTo('body');
+</script>
+
+<!-- 6 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="HemaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Hemani Shah</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/HemaniShah.png" alt="Hemani" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+
+<li>Hemani is a Machine Learning Enthusiast, currently a final year undergrad at Gujarat Technological University.</li>
+<li>She previously volunteered for a Non-Profit organization called TEDxGoldenBridge.</li>
+<li>She can be found reading novels in her free time.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#HemaniModal').appendTo('body');
+</script>
+<!-- 7 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="LakshayModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>to be written</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#LakshayModal').appendTo('body');
+</script>
+<!-- 8 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
+- A Psychologist and amateur  musician exploring the world of Data Science. 
+<br>
+-Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
+<br>
+- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
+</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#HaydenModal').appendTo('body');
+</script>
+<!-- 9 -->
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Joy Parekh</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<p><img src="/assets/images/people/JoyParekh.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
+- AI researcher who has collaborated with teams from Mass Gen, MIT, Harvard and NTU Singapore.
+- Incoming masters student at Columbia University's Computer Science program.
+<br>
+-Likes to explore variety of applications of AI models, with social impact, while simultaneously developing the models as well.
+</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#JoyModal').appendTo('body');
+</script>
