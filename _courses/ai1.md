@@ -327,7 +327,7 @@ We wish you best of luck for your data science journey.
 <center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
-<li>She is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.</li>
+<li>She is a deep learning enthusiast and a final year undergrad at JECRC University, Jaipur.</li>
 <li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
 <li>Currently, she is also working on building a SportsTech startup.</li>
 </ul>
@@ -359,7 +359,7 @@ We wish you best of luck for your data science journey.
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.</li>
 
-<li>Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research.</li>
+<li>Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through causal inference, which she is pursuing through independent research.</li>
 
 <li>She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.</li>
 </ul>
