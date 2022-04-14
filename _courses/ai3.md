@@ -13,6 +13,59 @@ header:
       url: "https://application.univ.ai/applications"
 ---
 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 5.7rem; 
+    height: 5.7rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+  }
+</style>
+
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
 
 Welcome to AI-3. 
@@ -36,14 +89,29 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### (Dr.) Ignacio Becker
+### Teaching Assistants
 
-![](/assets/images/people/IgnacioBecker.jpeg)
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+    </div>
+  </div>
 
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes. 
 
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/NiegilFrancis.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#NiegilModal"/>
+    </div>
+  </div>
+</div>
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
@@ -83,12 +151,31 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
-![](/assets/ai3-c1.assets/content.jpg)
+![](/assets/ai3-c2.assets/Content.png)
 
 
 ## The Class
 
-Coming Soon!
+![](/assets/ai3-c2.assets/Schedule.png)
+
+
+**Lecture Sessions**: 
+
+- Wednesday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+- Saturday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+**Lab Sessions**: 
+
+- Thursday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+- Sunday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+**Office hours**: 
+
+- Monday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+
+Please check your mail for more information regarding the platform and the course.
 
 ### Course Pre-Requisites 
 
@@ -163,3 +250,102 @@ We wish you best of luck for your AI journey.
 ## Links to previous cohorts
 
 - [Cohort 1](/catalog/cohort1/ai3/)
+
+
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- Modal --> 
+<div class="container">
+<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
+          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
+          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+     $('#VishnuModal').appendTo('body');
+</script>
+
+
+
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
+<li>He is excited about smart devices which use AI to better assist its users.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#YashrajModal').appendTo('body');
+</script>
+
+<!-- 3 -->
+<!-- Modal -->
+<div class="container">
+<div class="modal fade modal-margin" id="NiegilModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Niegil Francis</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/NiegilFrancis.jpeg" alt="Niegil" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Niegil is an Electronics and Communications Engineer from Bangalore, India, and he is currently working as a Data Scientist at Bolt, and a Research Assistant at StellarDnn, Harvard (IACS).</li>
+<li>His main area of research is in the convergence of Robotics and AI, and he has a growing interest in Data Science for smarter business strategies.</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#NiegilModal').appendTo('body');
+</script>

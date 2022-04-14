@@ -1,13 +1,13 @@
 ---
-title: "AI-1" 
-permalink: /courses/ai1/
-cycle: c4
+title: "AI-2"
+permalink: /catalog/cohort3/ai2/
+cycle: c3
 kind: course
-excerpt: ML/AI Basics
-sequence: 2
+excerpt: Convolutional Neural Networks and Autoencoders
+sequence: 3
 header:
-  overlay_image: /assets/images/header/HeaderDesign7.jpeg
-  teaser: /assets/images/header/HeaderDesign7.jpeg
+  overlay_image: /assets/images/header/HeaderDesign2.jpeg
+  teaser: /assets/images/header/HeaderDesign2.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
@@ -66,17 +66,16 @@ header:
   }
 </style>
 
->*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
+> *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
-Welcome to AI-1. 
-The objective of this module is to provide fundamental understandings of machine learning models 
-and get you working with the basic concepts of ML and AI. 
 
-You will start with the basic regression models (KNN, Linear, Multi, Poly), classification models (kNN, Logistic) and then move on to more advanced concepts like Bagging and Boosting. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
+Welcome to the AI-2, a follow-up to our introductory course AI-1.
 
-At the end of this module, you will be able to run basic and advanced machine learning models, and tell how well they are performing. 
+In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
 
-This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
+The objective of this module is to provide you, the student, with a deeper intuition and understanding of neural networks including network architecture choices, activation functions, feed-forward, convolutional neural networks and auto-encoders. 
+
+At the end of this course, you will be able to run a variety of advanced machine learning models, and learn to apply them to practical image recognition problems. This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
 ## The Team
 
@@ -88,44 +87,40 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
+<br>
+
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
-    </div>
-  </div>
-
-
-  <div class="img-border" style="grid-column: 2/3; grid-row: 2/3">
-    <div class="circular--portrait">
       <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
+
+  <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AamirAnsari.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
+      <img src="/assets/images/people/VishalBalaji.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#VishalModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 4/5; grid-row: 2/3">
+  <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#SreeModal"/>
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 5/6; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#HemaniModal"/>
+      <img src="/assets/images/people/KuldeepPrasad.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#KuldeepModal"/>
     </div>
-  
   </div>
-    <div class="img-border" style="grid-column: 6/7; grid-row: 2/3">
+
+  <div class="img-border" style="grid-column: 9/10">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#LakshayModal"/>
+      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
     </div>
   </div>
 
@@ -146,7 +141,7 @@ Each week shall include:
 
 ![](/assets/images/Session.png)
 
-The course includes two 1.5 hour sessions per week. Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
 A session will have the following pedagogy layout which will be repeated three times:
 
@@ -160,64 +155,79 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-![](/assets/images/Lab.png)
+<img src="/assets/images/Lab.png" alt="Lab" class="center">
 
-A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
 
-- Each lab begins by revisiting the quizzes and exercises done in the previous lecture session. 
-
+A lab is a TA driven one hour session that is divided into 3 major parts. 
+- Each lab begins by revisiting the Quizzes and Exercises done in the previous lecture session. 
 - After discussing exercises, we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
 and homeworks are welcome.
-
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai1-c4.assets/content.png)
+![](/assets/ai2-c3.assets/Content.jpg)
 
 ## The Class
 
-There will be an Info Session scheduled on **21 April 2022** at **7:30 PM IST** for all students.
+### Welcome Session - Preparing for this class 
 
-![](/assets/ai1-c4.assets/schedule.png)
+There will be a **Welcome Session** scheduled on ```6 March 2022``` at ``` 6:30 PM``` IST for all registered students. 
 
 Please check your mail for more information.
 
 
-**Lecture Sessions:**
+### High level course schedule 
 
-- Tuesday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
-- Saturday Series: ```5:30 PM - 7:00 PM IST [ 8:00 AM - 9:30 AM EST]```
+![](/assets/ai2-c3.assets/Schedule.jpg)
 
-**Lab Sessions:**
+**Lecture Sessions**: 
+- Wednesday Series: ```7:30 PM - 9:00 PM IST```  ```[ 09:00 AM - 10:30 AM EST]```
+- Saturday Series: ```5:30 PM - 7:00 PM IST```  ```[ 07:00 AM - 08:30 AM EST]```
 
-- Wednesday Series: ```7:30 PM - 9:00 PM IST [ 10:00 AM - 11:30 AM EST]```
-- Sunday Series: 5:30 PM - ```7:00 PM IST [ 8:00 AM - 9:30 AM EST]```
+**Lab Sessions**: 
 
-**Office hours:**
+- Thursday Series: ```7:30 PM - 9:00 PM IST```  ```[ 09:00 AM - 10:30 AM EST]``` 
+- Sunday Series: ```5:30 PM - 7:00 PM IST```  ```[ 07:00 AM - 08:30 AM EST]```
 
-- Mondays : ```9:00 PM - 10:30 PM IST [11:30 AM - 1:00 PM EST]```
+**Office hours**: 
+
+- Mondays: ```7:30 PM - 9:00 PM```
 
 ### Course Pre-Requisites 
 
-Your are expected to have a working knowledge of python, along with these three libraries:
+You are expected to have programming experience at the level of Harvard’s [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science?source=aw&awc=6798_1597231309_7e3ec7ec847f629b7c399ad1816e752d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=101248_adgoal+GmbH+-+Content), statistics knowledge at the level of Harvard’s [Stat 110](https://projects.iq.harvard.edu/stat110/home) or above and basic machine learning concepts such as model fitting, test-validation, regularization, etc. 
 
-- Numpy
-- Pandas
-- Matplotlib
+- Programming Experience:
 
-All exercises in this course will be done in jupyter notebooks. 
+    - Experience with Python: functions, variable scope, classes, modules, NumPy, SciPy, Matplotlib
 
-> Note: No prior knowledge of machine learning libraries is necessary for this module
+    - Basic data structures
 
-In addition to this, you are expected to know the material covered in our [AI0](/courses/ai0/) course. 
+    - File I/O
 
-Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
+- Statistics Experience:
 
-This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
+    - Basics of probability, conditional probability, Bayes’ theorem
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
+    - Univariate distributions, normal, binomial, Poisson distributions
 
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c3.assets/courseprep/).
+    - Multivariate normal distribution
+
+    - Central Limit Theorem
+
+- Machine Learning Experience:
+
+    - Basic understanding of supervised and unsupervised learning
+
+    - Regression and Classification 
+
+    - Loss functions 
+
+    - Overfitting and Regularization 
+
+    - Model Selection
+
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai2-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 
@@ -262,11 +272,10 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts 
+## Links to previous cohorts
 
-- [Cohort 1](/catalog/cohort1/ai1/)
-- [Cohort 2](/catalog/cohort2/ai1/)
-- [Cohort 3](/catalog/cohort3/ai1/)
+- [Cohort 1](/catalog/cohort1/ai2/)
+- [Cohort 2](/catalog/cohort2/ai2/)
 
 
 <!-- Modal Section -->
@@ -284,21 +293,21 @@ We wish you best of luck for your data science journey.
 
 <!-- Modal --> 
 <div class="container">
-<div class="modal fade modal-margin" id="AamirModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Aamir Ansari</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <center><img src="/assets/images/people/AamirAnsari.png" alt="Aamir" style="height:200px;margin-right:15px;"></center>
+        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
-          <li>Aamir is currently completing his data science journey with Univ.AI.</li>
-          <li>He recently presented his paper on Tree based convolutional neural networks at ICIDSSD22, Jamia Hamdard University.</li>
-          <li>His future goals include using data science techniques in analysing player performances in the sport of football.</li>
+          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
+          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
+          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
         </ul>
       </div>
     </div>
@@ -307,7 +316,7 @@ We wish you best of luck for your data science journey.
 </div>
 
 <script>
-     $('#AamirModal').appendTo('body');
+     $('#VishnuModal').appendTo('body');
 </script>
 
 
@@ -326,10 +335,9 @@ We wish you best of luck for your data science journey.
 <div class="modal-body">
 <center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
-<li>She is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.</li>
-<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
-<li>Currently, she is also working on building a SportsTech startup.</li>
+<li>Anshika is a deep learning enthusiast currently a final year undergrad at JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at a healthcare startup where she worked on developing algorithms for medical image analysis and segmentation.</li>
+<li>When not studying, she can be found writing prose and poetry while sipping a cup of coffee.</li>
 </ul>
 </div>
 
@@ -345,23 +353,20 @@ We wish you best of luck for your data science journey.
 <!-- 3 -->
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="VishalModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Sakthisree Venkatesan</h5>
+<h5 class="modal-title" id="exampleModalLabel">Vishal Balaji</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/Sakthisree.jpeg" alt="Sakthisree" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/VishalBalaji.jpeg" alt="Vishal" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.</li>
-
-<li>Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research.</li>
-
-<li>She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.</li>
+<li>Currently working as a Machine Learning Engineer at a voice AI startup</li>
+<li>In my free time, I like to trek, read sci-fi and history books</li>
 </ul>
 </div>
 
@@ -371,7 +376,7 @@ We wish you best of luck for your data science journey.
 </div>
 
 <script>
-     $('#SreeModal').appendTo('body');
+     $('#VishalModal').appendTo('body');
 </script>
 
 
@@ -410,22 +415,22 @@ We wish you best of luck for your data science journey.
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="HemaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="KuldeepModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Hemani Shah</h5>
+<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/HemaniShah.png" alt="Hemani" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/KuldeepPrasad.jpeg" alt="Kuldeep" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-
-<li>Hemani is a Machine Learning Enthusiast, currently a final year undergrad at Gujarat Technological University.</li>
-<li>She previously volunteered for a Non-Profit organization called TEDxGoldenBridge.</li>
-<li>She can be found reading novels in her free time.</li>
+<li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
+<li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
+<li>Dr. Prasad wants to accelerate the application  of Artificial Intelligence  to solve some of the world’s biggest challenges as well as using AI for social good.</li>
+<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
 </ul>
 </div>
 
@@ -435,36 +440,36 @@ We wish you best of luck for your data science journey.
 </div>
 
 <script>
-     $('#HemaniModal').appendTo('body');
+     $('#KuldeepModal').appendTo('body');
 </script>
 <!-- 7 -->
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="LakshayModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="MeghanaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Meghana Sarikonda</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.jpg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/MeghanaSarikonda.png" alt="Meghana" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Previously worked as a freelance full stack developer</li>
+<li>Fascinated about AI and it’s ability to solve complex problems</li>
 </ul>
 </div>
+
 </div>
 </div>
 </div>
 </div>
 
 <script>
-     $('#LakshayModal').appendTo('body');
+     $('#MeghanaModal').appendTo('body');
 </script>
 <!-- 8 -->
 
