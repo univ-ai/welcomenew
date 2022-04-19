@@ -1,7 +1,7 @@
 ---
 title: "AI-0" 
 permalink: /courses/ai0/
-cycle: c4
+cycle: c5
 kind: course
 excerpt: The Basics of Data Science
 sequence: 1
@@ -14,20 +14,16 @@ header:
 ---
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-<!-- -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
-
 <style>
   .modal-margin {
     margin: 0 auto;
   }
-
   .modal {
     background: transparent;
   }
-
   .ta-img {
     zoom:55%; 
     border: 1px solid black; 
@@ -65,6 +61,125 @@ header:
   }
 </style>
 
+<!-- TA Modal Section -->
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Sai Chaitanya</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/SaiChaitanya.png" alt="Chaitanya" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.</li>
+          <li>He is excited about AI and it's applications in Agriculture and Healthcare.</li>
+          <li>In his free time, he can be found gardening or star-gazing.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Chaitanya').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="Snigdha" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">G.K.V. Snigdha</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/Snigdha.jpeg" alt="Snigdha" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+  <li>2nd year Computer Science Engineering undergraduate at IIT Mandi.</li>
+  <li>Worked as a robotics mentor at CurioEd, teaching middle to high school students about robotics and its applications.</li>
+  <li>Finds interests in ML and its applications in pattern recognition and data interpretation. Also likes to explore new languages in free time.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Snigdha').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="Kisalaya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Kisalaya Kurariya</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KisalayaKurariya.jpeg" alt="Kisalaya" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+  <li>Appreciation for artificial intelligence, music, electronics, nature, and existence itself personified into a being continuously seeking for new experiences and learnings.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Kisalaya').appendTo('body');
+</script>
+
+<!-- TA Modal 4-->
+<div class="container">
+<div class="modal fade modal-margin" id="Manoj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Manoj Kumar</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/ManojKumar.jpeg" alt="Manoj" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Manoj is an experienced professional who has worked across industries ranging from Telecom to EdTech to FinTech.</li>
+<li>He has done his MBA from the University of Hong Kong in partnership with London Business School and Mining Engineering from IIT-BHU,Varanasi.</li>
+<li>In his free time, he can be seen playing football with his son or watching football games.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Manoj').appendTo('body');
+</script>
+
+<!-------------------------------------------------------------------------------------------------------------------------->
 
 Welcome to AI-0: The Basics of Data Science.
 
@@ -103,38 +218,6 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Teaching Assistants
-
-*Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
-  <div class="img-border" style="grid-column: 1/2">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Chaitanya"/>
-    </div>
-  </div>
-
-  <div class="img-border" style="grid-column: 3/4">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/Snigdha.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Snigdha"/>
-    </div>
-  </div>
-
-  <div class="img-border" style="grid-column: 5/6">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/KisalayaKurariya.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kisalaya"/>
-    </div>
-  </div>
-
-  <div class="img-border" style="grid-column: 7/8">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/ManojKumar.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Manoj"/>
-    </div>
-  </div>
-
-</div>
-<br>
-
-
 ## The Coursework
 <br>
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
@@ -160,23 +243,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ## The Class
 
-### Course schedule 
-
-![](/assets/pyds-c4.assets/schedule.png)
-
-# Note:
-
-**Session 1** will start at **7:00 PM IST (8:30 AM EST).**
-
-### Sessions:
-
-Session 1 to 3: ```7:30 PM - 9:30 PM IST [09:00 AM - 11:00 AM EST]```
-
-Session 4 onwards: ```6:30 PM - 08:30 PM IST  [09:00 AM - 11:00 AM EST]```
-
-**Office hours**: 
-
-- Thursdays: ```7:30 PM - 08:30 PM IST```
+Coming Soon!
 
 ### Sample Class
 
@@ -287,137 +354,7 @@ We wish you well for the start of your data science journey.
 
 - [Cohort 2](/catalog/cohort2/pyds/)
 - [Cohort 3](/catalog/cohort3/pyds/)
+- [Cohort 4](/catalog/cohort4/pyds/)
 
 
 
-<!-- Modal Section -->
-
-<style>
-  .modal-margin {
-    margin: 0 auto;
-  }
-
-  .modal {
-    background: transparent;
-  }
-
-</style>
-
-<!-- Modal --> 
-<div class="container">
-<div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Sai Chaitanya</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <center><img src="/assets/images/people/SaiChaitanya.png" alt="Chaitanya" style="height:200px;margin-right:15px;"></center>
-        <ul style="list-style:circle; padding-left: 2em;">
-          <li>Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.</li>
-          <li>He is excited about AI and it's applications in Agriculture and Healthcare.</li>
-          <li>In his free time, he can be found gardening or star-gazing.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<script>
-     $('#Chaitanya').appendTo('body');
-</script>
-
-
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="Snigdha" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">G.K.V. Snigdha</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/Snigdha.jpeg" alt="Snigdha" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-  <li>2nd year Computer Science Engineering undergraduate at IIT Mandi.</li>
-  <li>Worked as a robotics mentor at CurioEd, teaching middle to high school students about robotics and its applications.</li>
-  <li>Finds interests in ML and its applications in pattern recognition and data interpretation. Also likes to explore new languages in free time.</li>
-</ul>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#Snigdha').appendTo('body');
-</script>
-
-<!-- 3 -->
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="Kisalaya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Kisalaya Kurariya</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/KisalayaKurariya.jpeg" alt="Kisalaya" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-  <li>Appreciation for artificial intelligence, music, electronics, nature, and existence itself personified into a being continuously seeking for new experiences and learnings.</li>
-</ul>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#Kisalaya').appendTo('body');
-</script>
-
-
-<!-- 4 -->
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="Manoj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Manoj Kumar</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/ManojKumar.jpeg" alt="Manoj" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Manoj is an experienced professional who has worked across industries ranging from Telecom to EdTech to FinTech.</li>
-<li>He has done his MBA from the University of Hong Kong in partnership with London Business School and Mining Engineering from IIT-BHU,Varanasi.</li>
-<li>In his free time, he can be seen playing football with his son or watching football games.</li>
-</ul>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#Manoj').appendTo('body');
-</script>

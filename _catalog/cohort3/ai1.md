@@ -6,8 +6,8 @@ kind: course
 excerpt: ML/AI Basics
 sequence: 2
 header:
-  overlay_image: /assets/images/header/HeaderDesign1.jpeg
-  teaser: /assets/images/header/HeaderDesign1.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign1.jpeg
+  teaser: /assets/images/header/greyHeaderDesign1.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"

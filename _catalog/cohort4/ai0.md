@@ -6,13 +6,12 @@ kind: course
 excerpt: The Basics of Data Science
 sequence: 1
 header:
-  overlay_image: /assets/images/header/PyDSHeader.jpeg
-  teaser: /assets/images/header/PyDSHeader.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign1.jpeg
+  teaser: /assets/images/header/greyHeaderDesign1.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
-
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <!-- -->
@@ -20,12 +19,50 @@ header:
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
 
-
 <style>
-.imgs {
-  height:200px;
-  margin-right:15px;
-}
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 5.7rem; 
+    height: 5.7rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+  }
 </style>
 
 
@@ -43,38 +80,60 @@ At the end of this module, you will have the tools and the concepts needed to su
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
-<!--
+
 ## The Team
 
+### Hargun Singh Oberoi 
+
 <br>
- *Click on each Kung-Fu Panda character to know more about the pyds team member.*
+<img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="zoom:40%; margin-right:15px;">
+
+- Hargun Oberoi is a Product Manager at Univ.Ai.
+- He has a Masters degree in Mathematics from BITS Pilani University.
+- He is currently working as a research fellow at the StellarDNN lab.
+
+### Dr. Pavlos Protopapas 
+
 <br>
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
-<div class="container">
+- Scientific Director of the Institute for Applied Computational Science (IACS).
+- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
+- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
-<img src="/assets/pyds-c2.assets/kungfupanda.jpeg" alt="Workplace" usemap="#workmap" width = 750 height = 480>
+You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-<map name="workmap">
-  <area shape="rect" coords="250,150,400,350" alt="Hargun" title="Hargun Singh Oberoi" data-toggle="modal" data-target="#HargunModal">
+### Teaching Assistants
 
-  <area shape="rect" coords="525,300,625,400" alt="Pavlos" title="Pavlos Protopapas" data-toggle="modal" data-target="#PavlosModal">  
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Chaitanya"/>
+    </div>
+  </div>
 
-  <area shape="rect" coords="175,175,225,225" alt="Varshini"  title="Sai Sindhu" data-toggle="modal" data-target="#VarshiniModal">
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/Snigdha.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Snigdha"/>
+    </div>
+  </div>
 
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/KisalayaKurariya.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kisalaya"/>
+    </div>
+  </div>
 
-  <area shape="rect" coords="450,75,600,200" alt="Javier"  title="Sanivada Chaitanya Sai" data-toggle="modal" data-target="#JavierModal">    
- 
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/ManojKumar.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Manoj"/>
+    </div>
+  </div>
 
-  <area shape="rect" coords="200,50,250,150" alt="Ignacio"  title="Anshika Gupta" data-toggle="modal" data-target="#IgnacioModal">   
-
-
-  <area shape="rect" coords="325,30,425,100" alt="German"  title="Kuldeep Prasad" data-toggle="modal" data-target="#GermanModal">   
-
-  <area shape="rect" coords="100,150,200,300" alt="Joy"  title="Shibani Budhraja" data-toggle="modal" data-target="#HaydenModal"> 
-
-</map> 
 </div>
--->
+<br>
+
 
 ## The Coursework
 <br>
@@ -84,8 +143,7 @@ We will hold two weekend sessions per week for a total of five weeks.
 
 ### What to expect
 
-
-![](/assets/pyds-c2.assets/session.jpeg)
+![](/assets/images/Session.png)
 
 **Pre-Session**<br>
 Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz.
@@ -97,36 +155,28 @@ During the session, we will have live instruction interspaced with collaborative
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 ### Course syllabus
-![](/assets/pyds-c2.assets/content.png)
+
+![](/assets/pyds-c4.assets/Content.png)
 
 ## The Class
 
-Coming soon!
-
-<!--
-### Welcome Session
-
-There will be a **Welcome Session** scheduled on `20 November 2021` at `18:30` **IST** [`8:00` **EST**].
-
-Please check your email for more information.
-
 ### Course schedule 
 
-![](/assets/pyds-c2.assets/schedule.png)
+![](/assets/pyds-c4.assets/schedule.png)
 
+# Note:
 
-### Sessions: 
+**Session 1** will start at **7:00 PM IST (8:30 AM EST).**
 
-- Saturday Series:
+### Sessions:
 
-     ```18:30 - 20:30 ``` **IST** [```8:00 - 10:00 ``` **EST**]
+Session 1 to 3: ```7:30 PM - 9:30 PM IST [09:00 AM - 11:00 AM EST]```
 
-- Sunday Series: 
+Session 4 onwards: ```6:30 PM - 08:30 PM IST  [09:00 AM - 11:00 AM EST]```
 
-   ```18:30 - 20:30 ``` **IST**
-   [ ```8:00 - 10:00 ``` **EST**]
+**Office hours**: 
 
--->
+- Thursdays: ```7:30 PM - 08:30 PM IST```
 
 ### Sample Class
 
@@ -233,6 +283,13 @@ Keeping that in mind, you are advised to give your full active attention to ever
 
 We wish you well for the start of your data science journey.
 
+## Links to previous cohorts 
+
+- [Cohort 2](/catalog/cohort2/pyds/)
+- [Cohort 3](/catalog/cohort3/pyds/)
+
+
+
 <!-- Modal Section -->
 
 <style>
@@ -248,20 +305,22 @@ We wish you well for the start of your data science journey.
 
 <!-- Modal --> 
 <div class="container">
-<div class="modal fade modal-margin" id="HargunModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" >
+<div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Hargun Singh Oberoi</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Sai Chaitanya</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p><img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="height:220px;margin-right:15px;" align="left">
-        - Hargun Oberoi is a Product Manager at Univ.Ai. <br>
-        - He has a Masters degree in Mathematics from BITS Pilani University.<br> 
-        - He is currently working as a research fellow at the StellarDNN lab. </p> 
+        <center><img src="/assets/images/people/SaiChaitanya.png" alt="Chaitanya" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.</li>
+          <li>He is excited about AI and it's applications in Agriculture and Healthcare.</li>
+          <li>In his free time, he can be found gardening or star-gazing.</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -269,27 +328,29 @@ We wish you well for the start of your data science journey.
 </div>
 
 <script>
-     $('#HargunModal').appendTo('body');
+     $('#Chaitanya').appendTo('body');
 </script>
 
 
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Snigdha" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Dr. Pavlos Protopapas</h5>
+<h5 class="modal-title" id="exampleModalLabel">G.K.V. Snigdha</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
-- Scientific Director of the Institute for Applied Computational Science (IACS). <br>
-- Teaches Introduction to Data Science (CS109a) and Advanced Topics in Data Science (CS109b).<br> 
-- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years.</p> 
+<center><img src="/assets/images/people/Snigdha.jpeg" alt="Snigdha" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+  <li>2nd year Computer Science Engineering undergraduate at IIT Mandi.</li>
+  <li>Worked as a robotics mentor at CurioEd, teaching middle to high school students about robotics and its applications.</li>
+  <li>Finds interests in ML and its applications in pattern recognition and data interpretation. Also likes to explore new languages in free time.</li>
+</ul>
 </div>
 
 </div>
@@ -298,28 +359,26 @@ We wish you well for the start of your data science journey.
 </div>
 
 <script>
-     $('#PavlosModal').appendTo('body');
+     $('#Snigdha').appendTo('body');
 </script>
 
 <!-- 3 -->
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="VarshiniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Kisalaya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Sai Sindhu</h5>
+<h5 class="modal-title" id="exampleModalLabel">Kisalaya Kurariya</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/SaiSindhu.png" alt="Pavlos" style="height:300px;margin-right:15px;" align="left">
-- Graduated in Biological Sciences from IIT Madras.
-<br>
-- One year experience as Operations Manager at new media based Chinese start up GiantView PVT LTD.
-<br>
-- Learning Bharatanatyam from more than a year loves to cook biryani!</p>
+<center><img src="/assets/images/people/KisalayaKurariya.jpeg" alt="Kisalaya" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+  <li>Appreciation for artificial intelligence, music, electronics, nature, and existence itself personified into a being continuously seeking for new experiences and learnings.</li>
+</ul>
 </div>
 
 </div>
@@ -328,7 +387,7 @@ We wish you well for the start of your data science journey.
 </div>
 
 <script>
-     $('#VarshiniModal').appendTo('body');
+     $('#Kisalaya').appendTo('body');
 </script>
 
 
@@ -336,23 +395,22 @@ We wish you well for the start of your data science journey.
 
 <!-- Modal -->
 <div class="container">
-<div class="modal fade modal-margin" id="JavierModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Manoj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Sai Chaitanya</h5>
+<h5 class="modal-title" id="exampleModalLabel">Manoj Kumar</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/SaiChaitanya.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
-- Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.
-<br>
-- He is excited about AI and it's applications in Agriculture and Healthcare.
-<br>
-- In his free time, he can be found gardening or star-gazing.</p>
-
+<center><img src="/assets/images/people/ManojKumar.jpeg" alt="Manoj" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Manoj is an experienced professional who has worked across industries ranging from Telecom to EdTech to FinTech.</li>
+<li>He has done his MBA from the University of Hong Kong in partnership with London Business School and Mining Engineering from IIT-BHU,Varanasi.</li>
+<li>In his free time, he can be seen playing football with his son or watching football games.</li>
+</ul>
 </div>
 
 </div>
@@ -361,166 +419,5 @@ We wish you well for the start of your data science journey.
 </div>
 
 <script>
-     $('#JavierModal').appendTo('body');
-</script>
-
-<!-- 5 -->
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<p><img src="/assets/images/people/AnshikaGupta.png" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
-- Final year Computer Science Engineering undergraduate in Jaipur.
-<br>
-- Currently a TA at Univ.AI, she has previously worked as a ML researcher at a healthcare startup (Neos HealthTech, incubated at IIT-M)
-<br>
-- She believes in the power of Deep Neural Networks, and wishes to leverage it's capabilities in making a better world.
-</p>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#IgnacioModal').appendTo('body');
-</script>
-
-<!-- 6 -->
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="GermanModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<p><img src="/assets/images/people/KuldeepPrasad.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
-<!-- - Electrical Engineer, currently pursuing a MSc. in Electrical Engineering at the Computational Intelligence Lab of the University of Chile.
-<br>
-- Research Fellow at StellarDNN.
-<br>
-- Enjoys working with generative models and their applications on astronomical tasks. -->
-- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
-<br>
-- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
-<br>
-- Dr. Prasad wants to accelerate the application  of Artificial Intelligence  to solve some of the world’s biggest challenges as well as using AI for social good.
-<br>
-Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.
-</p>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#GermanModal').appendTo('body');
-</script>
-<!-- 7 -->
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Sakthisree Venkatesan</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<p><img src="/assets/images/people/Sakthisree.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;" align="left">
-- A Machine Learning Lead in a leading German-based wholesale company.  
-- Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference.
-<br>
-- She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity and Society
-</p>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#SreeModal').appendTo('body');
-</script>
-<!-- 8 -->
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
-- A Psychologist and amateur  musician exploring the world of Data Science. 
-<br>
--Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
-<br>
-- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
-</p>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#HaydenModal').appendTo('body');
-</script>
-<!-- 9 -->
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Joy Parekh</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<p><img src="/assets/images/people/JoyParekh.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
-- AI researcher who has collaborated with teams from Mass Gen, MIT, Harvard and NTU Singapore.
-- Incoming masters student at Columbia University's Computer Science program.
-<br>
--Likes to explore variety of applications of AI models, with social impact, while simultaneously developing the models as well.
-</p>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#JoyModal').appendTo('body');
+     $('#Manoj').appendTo('body');
 </script>

@@ -6,8 +6,8 @@ kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 3
 header:
-  overlay_image: /assets/images/header/HeaderDesign2.jpeg
-  teaser: /assets/images/header/HeaderDesign2.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign2.jpeg
+  teaser: /assets/images/header/greyHeaderDesign2.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"

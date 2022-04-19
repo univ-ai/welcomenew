@@ -1,7 +1,7 @@
 ---
 title: "AI-3"
 permalink: /courses/ai3/
-cycle: c1
+cycle: c2
 kind: course
 excerpt: Language Models
 sequence: 6
@@ -15,20 +15,16 @@ header:
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-<!-- -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
-
 <style>
   .modal-margin {
     margin: 0 auto;
   }
-
   .modal {
     background: transparent;
   }
-
   .ta-img {
     zoom:55%; 
     border: 1px solid black; 
@@ -65,6 +61,99 @@ header:
   }
   }
 </style>
+
+<!-- TA Modal Section -->
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
+          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
+          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#VishnuModal').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
+<li>He is excited about smart devices which use AI to better assist its users.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#YashrajModal').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="NiegilModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Niegil Francis</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/NiegilFrancis.jpeg" alt="Niegil" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Niegil is an Electronics and Communications Engineer from Bangalore, India, and he is currently working as a Data Scientist at Bolt, and a Research Assistant at StellarDnn, Harvard (IACS).</li>
+<li>His main area of research is in the convergence of Robotics and AI, and he has a growing interest in Data Science for smarter business strategies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#NiegilModal').appendTo('body');
+</script>
+
+<!-------------------------------------------------------------------------------------------------------------------------->
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
 
@@ -251,101 +340,3 @@ We wish you best of luck for your AI journey.
 
 - [Cohort 1](/catalog/cohort1/ai3/)
 
-
-<style>
-  .modal-margin {
-    margin: 0 auto;
-  }
-
-  .modal {
-    background: transparent;
-  }
-
-</style>
-
-<!-- Modal --> 
-<div class="container">
-<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
-        <ul style="list-style:circle; padding-left: 2em;">
-          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
-          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
-          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<script>
-     $('#VishnuModal').appendTo('body');
-</script>
-
-
-
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
-<li>He is excited about smart devices which use AI to better assist its users.</li>
-</ul>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#YashrajModal').appendTo('body');
-</script>
-
-<!-- 3 -->
-<!-- Modal -->
-<div class="container">
-<div class="modal fade modal-margin" id="NiegilModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Niegil Francis</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/NiegilFrancis.jpeg" alt="Niegil" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Niegil is an Electronics and Communications Engineer from Bangalore, India, and he is currently working as a Data Scientist at Bolt, and a Research Assistant at StellarDnn, Harvard (IACS).</li>
-<li>His main area of research is in the convergence of Robotics and AI, and he has a growing interest in Data Science for smarter business strategies.</li>
-</ul>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#NiegilModal').appendTo('body');
-</script>

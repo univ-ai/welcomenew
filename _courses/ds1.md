@@ -181,6 +181,7 @@ header:
      $('#Chaitanya').appendTo('body');
 </script>
 
+<!-------------------------------------------------------------------------------------------------------------------------->
 
 Welcome to DS-1.
 The objective of this module is to provide a fundamental understanding of data analysis.  The course proceeds in 3 parts, following the Data Science Process:
