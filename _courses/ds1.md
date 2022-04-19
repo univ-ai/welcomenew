@@ -14,20 +14,16 @@ header:
 ---
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
-
 <style>
   .modal-margin {
     margin: 0 auto;
   }
-
   .modal {
     background: transparent;
   }
-
   .ta-img {
     zoom:55%; 
     border: 1px solid black; 
@@ -65,8 +61,7 @@ header:
   }
 </style>
 
-<!-- Modal Section -->
-
+<!-- TA Modal Section -->
 <style>
   .modal-margin {
     margin: 0 auto;
@@ -77,8 +72,7 @@ header:
   }
 
 </style>
-
-<!-- Modal --> 
+<!-- TA Modal 1--> 
 <div class="container">
 <div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
@@ -105,7 +99,7 @@ header:
      $('#Arya').appendTo('body');
 </script>
 
-<!-- Modal -->
+<!-- TA Modal 2-->
 <div class="container">
 <div class="modal fade modal-margin" id="Kuldeep" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -122,7 +116,7 @@ header:
 <li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
 <li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
 <li>Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.</li>
-<li>Read more about him here.</li>
+<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
 </ul>
 </div>
 </div>
@@ -133,8 +127,7 @@ header:
      $('#Kuldeep').appendTo('body');
 </script>
 
-
-<!-- Modal -->
+<!-- TA Modal 3-->
 <div class="container">
 <div class="modal fade modal-margin" id="Sakthisree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -161,7 +154,7 @@ header:
      $('#Sakthisree').appendTo('body');
 </script>
 
-<!-- Modal -->
+<!-- TA Modal 4-->
 <div class="container">
 <div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -180,12 +173,10 @@ header:
 <li>In his free time, he can be found gardening or star-gazing.</li>
 </ul>
 </div>
-
 </div>
 </div>
 </div>
 </div>
-
 <script>
      $('#Chaitanya').appendTo('body');
 </script>
@@ -224,13 +215,13 @@ This page introduces you to the team, the basic instructions, the schedule, and 
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 5/6">
+  <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
       <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Sakthisree"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4">
+  <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
       <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Chaitanya"/>
     </div>
