@@ -23,8 +23,6 @@ coursesnav:
         url: /courses/ai2/
       - title: "DS-1"
         url: /courses/ds1/
-      - title: "DS-2"
-        url: /courses/ds2/
       - title: "AI-3"
         url: /courses/ai3/
       - title: "AI-4"
@@ -58,7 +56,16 @@ coursesnav:
           url: /catalog/cohort2/ai2/
         - title: "DS-1 - C2"
           url: /catalog/cohort2/ds1/
-
+        - title: "DS-2 - C2"
+          url: /catalog/cohort2/ds2/
 
         - title: "PyDS - C3"
           url: /catalog/cohort3/pyds/
+        - title: "AI-1 - C3"
+          url: /catalog/cohort3/ai1/
+        - title: "AI-2 - C3"
+          url: /catalog/cohort3/ai2/
+
+        - title: "AI-0 - C4"
+          url: /catalog/cohort4/ai0/
+
