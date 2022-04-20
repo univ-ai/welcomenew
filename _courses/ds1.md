@@ -278,30 +278,30 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 
 Coming Soon!
 
-<!--
+
 #### Welcome Session - Preparing for this class
 
-There will be a Welcome Session scheduled on **09 January 2022** at **9:00 PM IST** for all registered students.
+There will be a Welcome Session scheduled on **02 May 2022** at ```8:30 PM IST [11:00 AM ET]``` for all registered students.
 
 Please check your mail for more information.
--->
+
 
 ![](/assets/ds1-c3.assets/Schedule.png)
 
 
 **Lecture Sessions:**
 
-- Wednesday Series: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
-- Saturday Series: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Wednesday Series: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM ET]```
+- Saturday Series: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM ET]```
 
 **Lab Sessions:**
 
-- Thursday Series: ```9:00 PM - 11:00 PM IST [12:00 Noon - 1:30 PM EST]```
-- Sunday Series: ```9:00 PM - 11:00 PM IST [12:00 Noon - 1:30 PM EST]```
+- Thursday Series: ```9:00 PM - 11:00 PM IST [12:00 Noon - 1:30 PM ET]```
+- Sunday Series: ```9:00 PM - 11:00 PM IST [12:00 Noon - 1:30 PM ET]```
 
 **Office hours:**
 
-- Tuesdays: ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```
+- Tuesdays: ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM ET]```
 
 
 ## Course Pre-Requisites
