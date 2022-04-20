@@ -276,15 +276,13 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 
 ## The Class
 
-Coming Soon!
-
-
 #### Welcome Session - Preparing for this class
 
 There will be a Welcome Session scheduled on **02 May 2022** at ```8:30 PM IST [11:00 AM ET]``` for all registered students.
 
 Please check your mail for more information.
 
+#### Class Schedule
 
 ![](/assets/ds1-c3.assets/Schedule.png)
 
