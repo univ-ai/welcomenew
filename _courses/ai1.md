@@ -238,59 +238,60 @@ header:
      $('#LakshayModal').appendTo('body');
 </script>
 
-<!-- TA Modal 7-->
+
+<!-- TA Modal 6-->
 <div class="container">
-<div class="modal fade modal-margin" id="HaydenModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="YashModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/ShibaniBudhraja.png" alt="Pavlos" style="height:350px;margin-right:15px;" align="left">
-- A Psychologist and amateur  musician exploring the world of Data Science. 
-<br>
--Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.
-<br>
-- Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.
-</p>
+<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yash is interested in the applications of AI in decoding the human brain.</li>
+<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
+<li>In his free time, he likes listening to music and playing football.</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </div>
 <script>
-     $('#HaydenModal').appendTo('body');
+     $('#YashModal').appendTo('body');
 </script>
+
 
 <!-- TA Modal 8-->
 <div class="container">
-<div class="modal fade modal-margin" id="JoyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="SantoshModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Joy Parekh</h5>
+<h5 class="modal-title" id="exampleModalLabel">Santosh Gokul</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<p><img src="/assets/images/people/JoyParekh.jpeg" alt="Pavlos" style=height:200px;margin-right:15px; align="left">
-- AI researcher who has collaborated with teams from Mass Gen, MIT, Harvard and NTU Singapore.
-- Incoming masters student at Columbia University's Computer Science program.
-<br>
--Likes to explore variety of applications of AI models, with social impact, while simultaneously developing the models as well.
-</p>
+<center><img src="/assets/images/people/SantoshGokul.jpg" alt="Santosh" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Santosh is currently working as SDET in Finance team at Swiggy. He has over 1.5+ yrs of experience, ranging from development to testing.</li>
+<li>He has experience in MLOps and has helped start-ups scale their ML applications as a consultant.</li>
+<li>He likes to build applications in his leisure time and aims to transition one of them into a product shortly.</li>
+</ul>
 </div>
 </div>
 </div>
 </div>
 </div>
 <script>
-     $('#JoyModal').appendTo('body');
+     $('#SantoshModal').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -320,43 +321,48 @@ This page introduces you to the team, the basic instructions, the schedule and v
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
-  <div class="img-border" style="grid-column: 1/2">
+<div style="display: grid; grid-template-columns: repeat(12, 1fr);">
+  <div class="img-border" style="grid-column: 1/2; grid-row: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
+  </div>
+  
+  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
     </div>
   </div>
 
-
-  <div class="img-border" style="grid-column: 2/3; grid-row: 2/3">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
-    </div>
-  </div>
-
-  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 5/6; grid-row: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/AamirAnsari.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
     </div>
   </div>
-
-  <div class="img-border" style="grid-column: 4/5; grid-row: 2/3">
+  
+  <div class="img-border" style="grid-column: 7/8; grid-row: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#SreeModal"/>
+      <img src="/assets/images/people/SantoshGokul.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#SantoshModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 5/6; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 1/2; grid-row: 3/4">
     <div class="circular--portrait">
       <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#HemaniModal"/>
     </div>
   
   </div>
-    <div class="img-border" style="grid-column: 6/7; grid-row: 2/3">
+    <div class="img-border" style="grid-column: 3/4; grid-row: 3/4">
     <div class="circular--portrait">
       <img src="/assets/images/people/LakshayChawla.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#LakshayModal"/>
     </div>
   </div>
+    <div class="img-border" style="grid-column: 5/6; grid-row: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#YashModal"/>
+    </div>
+  </div>
+
 
 </div>
 <br>
