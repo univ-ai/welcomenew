@@ -425,7 +425,7 @@ Please check your mail for more information.
 
 **Lab Sessions:**
 
-- Wednesday Series: ```7:30 PM - 9:00 PM IST [ 10:00 AM - 11:30 AM EST]```
+- Wednesday Series: ```9:00 PM - 10:30 PM IST [ 11:30 AM - 01:00 PM EST]```
 - Sunday Series: 5:30 PM - ```7:00 PM IST [ 8:00 AM - 9:30 AM EST]```
 
 **Office hours:**
