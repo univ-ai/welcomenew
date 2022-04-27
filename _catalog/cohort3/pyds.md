@@ -139,7 +139,7 @@ Please check your email for more information.
 
 ### Sample Class
 
-We believes in the idea of active learning and our course is designed with the expectation of active participation from the students.
+We believe in the idea of active learning and our course is designed with the expectation of active participation from the students.
 
 Please find a demo of our course style and pedagogy.
 

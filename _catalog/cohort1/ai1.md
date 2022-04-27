@@ -68,7 +68,7 @@ Each week shall include:
 
 ![](/assets/images/Session.png)
 
-Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+Before the session begins, students are expected to complete a pre-class reading assignment and attempt a quiz based on the same.
 
 A session will have the following pedagogy layout which will be repeated three times:
 
