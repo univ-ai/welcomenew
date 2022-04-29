@@ -132,7 +132,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcof-uorTwtHdZo1S-gO24CC4enY0MoFrWB'">Register</button></center>
       </div>
     </div>
   </div>
@@ -159,7 +159,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZ0ufumgqjMsGNW-nD3Pe_I4oxP4KQmly1YP'">Register</button></center>
       </div>
     </div>
   </div>
@@ -180,13 +180,13 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>To be updated Soon.</p>
+        <p>In this workshop we focus on showcases machine learning models into a frontend app. We will go over integrating models for audio to text, text to audio, and Image classification into a frontend app. We will so work with plots in React and how to manage states(data) in the frontend. By the end of the workshop we would build a Neural Style Transfer App that looks like <a href="https://github.com/dlops-io/app-building-crashcourse/blob/main/app-building-crashcourse.png">this</a>.</p>
         <center><h6>Instructor: Shivas Jayaram</h6>
         <img src="/assets/images/people/ShivasJayaram.jpg" alt="Shivas" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYpcuygqTsuEtf8ZIS-8W4pH_IsXceOijaD'">Register</button></center>
       </div>
     </div>
   </div>
@@ -213,7 +213,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZUscOChrDsuHNc4TpYCE-vMcwBgXIyWyFBa'">Register</button></center>
       </div>
     </div>
   </div>
@@ -240,7 +240,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZwud-yrrTItG9Ya47iPYhUvWQAM5cUHI4XY'">Register</button></center>
       </div>
     </div>
   </div>
@@ -267,7 +267,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZUrdeGuqTwqGdPewp-J1LK9C_1Abw__WzG9'">Register</button></center>
       </div>
     </div>
   </div>
@@ -294,7 +294,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYocuuvqjkvE9NL1UYNxmmL8-m-2hWL1RSp '">Register</button></center>
       </div>
     </div>
   </div>
@@ -315,13 +315,13 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>To be updated soon.</p>
+        <p>Spacy is extensively used in industry for NLP tasks. This workshop will introduce you to training models using spacy for common NLP tasks.</p>
         <center><h6>Instructor: Yashraj Wani</h6>
         <img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYqdOqsrDgpHdXZP1y6Ppa0T-75Cf44dZdG'">Register</button></center>
       </div>
     </div>
   </div>
@@ -351,7 +351,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcvde6pqjsjH90GLItUbbwL6XmFVu3NJbzT '">Register</button></center>
       </div>
     </div>
   </div>
