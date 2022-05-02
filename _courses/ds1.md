@@ -294,8 +294,8 @@ Please check your mail for more information.
 
 **Lab Sessions:**
 
-- Thursday Series: ```9:00 PM - 11:00 PM IST [12:00 Noon - 1:30 PM ET]```
-- Sunday Series: ```9:00 PM - 11:00 PM IST [12:00 Noon - 1:30 PM ET]```
+- Thursday Series: ```9:00 PM - 10:30 PM IST [12:00 Noon - 1:30 PM ET]```
+- Sunday Series: ```9:00 PM - 10:30 PM IST [12:00 Noon - 1:30 PM ET]```
 
 **Office hours:**
 
