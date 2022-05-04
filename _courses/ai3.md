@@ -59,7 +59,6 @@ header:
     border-radius: 50%; 
     } 
   }
-  }
 </style>
 
 <!-- TA Modal Section -->
@@ -262,7 +261,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 **Office hours**: 
 
-- Monday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Monday: ```7:00 PM - 8:00 PM IST [9:30 AM - 10:30 AM EST]```
 
 Please check your mail for more information regarding the platform and the course.
 
