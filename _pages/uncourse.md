@@ -48,8 +48,8 @@ Here is the current schedule for all our workshops.
 <map name="workmap">
   <area shape="rect" class="area" coords="638,64,934,124" alt="SQL1" title="SQL 1" data-toggle="modal" data-target="#Sql1Modal">
   <area shape="rect" class="area" coords="638,124,934,186" alt="SQL2" title="SQL 2" data-toggle="modal" data-target="#Sql2Modal">
-  <area shape="rect" class="area" coords="638,189,934,250" alt="Tensorboard" title="Tensorboard" data-toggle="modal" data-target="#TbModal">
-  <area shape="rect" class="area" coords="638,250,934,313" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
+  <area shape="rect" class="area" coords="638,189,934,250" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
+  <area shape="rect" class="area" coords="638,250,934,313" alt="Tensorboard" title="Tensorboard" data-toggle="modal" data-target="#TbModal">
   <area shape="rect" class="area" coords="638,313,934,375" alt="React" title="React" data-toggle="modal" data-target="#ReactModal">
   <area shape="rect" class="area" coords="638,375,934,439" alt="JAX" title="JAX" data-toggle="modal" data-target="#JaxModal">
   <area shape="rect" class="area" coords="638,439,934,503" alt="DSA1" title="DSA1" data-toggle="modal" data-target="#Dsa1Modal">
