@@ -126,9 +126,9 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>To be updated soon.</p>
-        <center><h6>Instructor: Arya Mohan</h6>
-        <img src="/assets/images/people/AryaMohan.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <p>Visualization of deep learning models' training using Tensorboard visualization library. This workshop provides an in-depth guide starting from basics concepts to more advanced features and techniques.</p>
+        <center><h6>Instructor: Cristobal Donoso-Oliva</h6>
+        <img src="/assets/images/people/CristobalDonoso.jpg" alt="Cristobal" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 1:00 PM EST)</p> <br>
