@@ -75,7 +75,7 @@ header:
 
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="ChaitanyaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
@@ -97,26 +97,26 @@ header:
 </div>
 </div>
 <script>
-     $('#Chaitanya').appendTo('body');
+     $('#ChaitanyaModal').appendTo('body');
 </script>
 
 <!-- TA Modal 2-->
 <div class="container">
-<div class="modal fade modal-margin" id="Snigdha" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="HemaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">G.K.V. Snigdha</h5>
+<h5 class="modal-title" id="exampleModalLabel">Hemani Shah</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/Snigdha.jpeg" alt="Snigdha" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/HemaniShah.png" alt="Hemani" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-  <li>2nd year Computer Science Engineering undergraduate at IIT Mandi.</li>
-  <li>Worked as a robotics mentor at CurioEd, teaching middle to high school students about robotics and its applications.</li>
-  <li>Finds interests in ML and its applications in pattern recognition and data interpretation. Also likes to explore new languages in free time.</li>
+<li>Hemani is a Machine Learning Enthusiast, currently a final year undergrad at Gujarat Technological University.</li>
+<li>She previously volunteered for a Non-Profit organization called TEDxGoldenBridge.</li>
+<li>She can be found reading novels in her free time.</li>
 </ul>
 </div>
 </div>
@@ -124,24 +124,27 @@ header:
 </div>
 </div>
 <script>
-     $('#Snigdha').appendTo('body');
+     $('#HemaniModal').appendTo('body');
 </script>
 
 <!-- TA Modal 3-->
 <div class="container">
-<div class="modal fade modal-margin" id="Kisalaya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="VirajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Kisalaya Kurariya</h5>
+<h5 class="modal-title" id="exampleModalLabel">Viraj Kadam</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/KisalayaKurariya.jpeg" alt="Kisalaya" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/VirajKadam.jpeg" alt="Viraj" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-  <li>Appreciation for artificial intelligence, music, electronics, nature, and existence itself personified into a being continuously seeking for new experiences and learnings.</li>
+  <li>Learning ML and AI at Univ.AI and through MOOCs.</li>
+  <li>Bachelors in Physics from Fergusson College, Pune.</li>
+  <li>Interested in Applications of AI for Earth Observation and Climate Data.</li> 
+  <li>Other interests include Running, Football, Hiking, and Gardening.</li>
 </ul>
 </div>
 </div>
@@ -149,26 +152,27 @@ header:
 </div>
 </div>
 <script>
-     $('#Kisalaya').appendTo('body');
+     $('#VirajModal').appendTo('body');
 </script>
 
 <!-- TA Modal 4-->
 <div class="container">
-<div class="modal fade modal-margin" id="Manoj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="AbjasreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Manoj Kumar</h5>
+<h5 class="modal-title" id="exampleModalLabel">Abjasree S</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/ManojKumar.jpeg" alt="Manoj" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/Abjasree.jpeg" alt="Abjasree" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Manoj is an experienced professional who has worked across industries ranging from Telecom to EdTech to FinTech.</li>
-<li>He has done his MBA from the University of Hong Kong in partnership with London Business School and Mining Engineering from IIT-BHU,Varanasi.</li>
-<li>In his free time, he can be seen playing football with his son or watching football games.</li>
+<li>Currently, Direct Entry diploma in Data Science student at IIT Madras.</li>
+<li>Completed Masters in Physics from Indian Institute of Science Education and Research (IISER), Tirupati.</li>
+<li>Looks forward to learning how to use AI and its application in various physics problems and other research fields, especially image processing.</li>
+<li>In her free time, she can be found watching anime or drawing anime characters.</li>
 </ul>
 </div>
 </div>
@@ -176,7 +180,35 @@ header:
 </div>
 </div>
 <script>
-     $('#Manoj').appendTo('body');
+     $('#AbjasreeModal').appendTo('body');
+</script>
+
+<!-- TA Modal 5-->
+<div class="container">
+<div class="modal fade modal-margin" id="KarthigaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Karthiga D</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KarthigaD.jpg" alt="Karthiga" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Karthiga has recently completed her B.Tech. in Electrical & Electronics Engineering
+from National Institute of Technology,Puducherry.</li>
+<li>She is excited about smart electronic devices 
+that uses deep learning and artificial intelligence techniques to better assist its users.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#KarthigaModal').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -198,18 +230,18 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Hargun Singh Oberoi 
+### Shivas Jayaram
 
-<br>
-<img src="/assets/images/people/HargunOberoi.jpeg" alt="Hargun" style="zoom:40%; margin-right:15px;">
+<img src="/assets/images/people/ShivasJayaram.jpg" style="width:200px;" />
 
-- Hargun Oberoi is a Product Manager at Univ.Ai.
-- He has a Masters degree in Mathematics from BITS Pilani University.
-- He is currently working as a research fellow at the StellarDNN lab.
+- Researcher @Harvard IACS and Deep Learning Practitioner.
+- Masters in Data Science from Harvard University.
+- Previously, co founder and CTO of a Deep Learning startup.
+- Prior to that helped build up a data science team at a manufacturing company.
+- Over 15 years of Solution Architecture and Development experience.
 
 ### Dr. Pavlos Protopapas 
 
-<br>
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
 - Scientific Director of the Institute for Applied Computational Science (IACS).
@@ -218,8 +250,54 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-## The Coursework
+### Dr. Rahul Dave 
+
+![](/assets/images/people/RahulDave.jpeg)
+
+
+- Dr. Rahul Dave is a former Data Science faculty at Harvard University.
+- He was on the original team for Harvard’s famous Data Science course, cs109, and has taught machine learning, statistics, and AI courses, both at Harvard and at multiple conferences and workshops. 
+
+You can [read more about him here](https://univ.ai/team/rahul-dave-2). 
+
+### Teaching Assistants
+
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" style="margin-top:3px;" align="left" data-toggle="modal" data-target="#ChaitanyaModal"/>
+    </div>
+  </div>
+
+
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" style="margin-top:-15px;" align="left" data-toggle="modal" data-target="#HemaniModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" style="margin-top:15px; margin-right:-10px; transform: scale(1.2);" data-toggle="modal" data-target="#VirajModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/Abjasree.jpeg" class="circular--portrait-img" align="left" style="margin-top:1px; margin-right:-10px;" data-toggle="modal" data-target="#AbjasreeModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 9/10">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/KarthigaD.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#KarthigaModal"/>
+    </div>
+  </div>
+
+</div>
 <br>
+## The Coursework
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
 We will hold two weekend sessions per week for a total of five weeks. 
@@ -239,7 +317,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Course syllabus
 
-![](/assets/pyds-c4.assets/Content.png)
+![](/assets/ai0-c5.assets/Content.png)
 
 ## The Class
 
@@ -254,64 +332,6 @@ Please find a demo of our course style and pedagogy.
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/JDwm7wmWGBE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-## Course Topics 
-
-> Note: Prior knowledge of python programming is not necessary for this module
-
-### Session 1 (Basic Python): 
-
-- Introduction to Python
-- Data types, iterators, python operations
-- Order of operations, logical operators
-
-### Session 2 (Advanced Python): 
-
-- Python Data Structures - Lists, Dictionaries, Tuples
-- List/dictionary comprehensions
-- Enumeration
-
-### Session 3 (Functions): 
-
-- Python Functions - Arguments, keyword arguments, etc. 
-- Anonymous functions (lambda function)
-- Function decorators 
-
-### Session 4 (Classes): 
-
-- Classes: Constructors vs Instantiations
-- Methods vs. Attributes
-- Dunder methods 
-
-### Session 5 (Strings): 
-
-- Working with strings
-- Reading & writing file
-- Python standard library
-
-### Session 6 (NumPy):
-
-- Debugging skills
-- Exception handling 
-- Introduction to Numerical Python (NumPy)
-
-### Session 7 (Pandas):
-
-- Python data analysis 
-- Introduction to Pandas 
-- Database management using pandas
-
-### Session 8 (Probability):
-
-- Introduction to Random Variable 
-- Basic probability simulations 
-- Descriptive statistics
-
-### Session 9 (Linear Regression):
-
-- Derivatives (including partial)
-- Linear regression
-- Multi-linear regression
 
 
 ## Diversity & Inclusion
