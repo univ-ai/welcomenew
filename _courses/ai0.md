@@ -6,7 +6,7 @@ kind: course
 excerpt: The Basics of Data Science
 sequence: 1
 header:
-  overlay_image: /assets/images/header/HeaderDesign1.jpeg
+  overlay_image: /assets/images/header/AI0Header.jpeg
   teaser: /assets/images/header/HeaderDesign1.jpeg
   actions:
     - label: "Register"
@@ -195,7 +195,7 @@ header:
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/KarthigaD.jpg" alt="Karthiga" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/KarthigaD.jpeg" alt="Karthiga" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Karthiga has recently completed her B.Tech. in Electrical & Electronics Engineering
 from National Institute of Technology,Puducherry.</li>
@@ -273,13 +273,13 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
 
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" style="margin-top:-15px;" align="left" data-toggle="modal" data-target="#HemaniModal"/>
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" style="margin-top:-15px; transform: scale(1.2);" align="left" data-toggle="modal" data-target="#HemaniModal"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" style="margin-top:15px; margin-right:-10px; transform: scale(1.2);" data-toggle="modal" data-target="#VirajModal"/>
+      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" style="margin-top:15px; margin-right:-10px; transform: scale(1.4);" data-toggle="modal" data-target="#VirajModal"/>
     </div>
   </div>
 
@@ -291,7 +291,7 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
 
   <div class="img-border" style="grid-column: 9/10">
     <div class="circular--portrait">
-      <img src="/assets/images/people/KarthigaD.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#KarthigaModal"/>
+      <img src="/assets/images/people/KarthigaD.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#KarthigaModal"/>
     </div>
   </div>
 
@@ -321,7 +321,9 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ## The Class
 
-Coming Soon!
+![](/assets/ai0-c5.assets/schedule.png)
+
+Please check your mail for more information.
 
 ### Sample Class
 
@@ -356,7 +358,7 @@ Reference:
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](https://edstem.org/us/courses/7707/lessons/20903/slides/113688). Our expectations of you are also laid out in that document.
+[//]: # (Our module policies around collaboration and grading are listed [here](https://edstem.org/us/courses/7707/lessons/20903/slides/113688). Our expectations of you are also laid out in that document.)
 
 <br>
 
@@ -374,7 +376,7 @@ We wish you well for the start of your data science journey.
 
 - [Cohort 2](/catalog/cohort2/pyds/)
 - [Cohort 3](/catalog/cohort3/pyds/)
-- [Cohort 4](/catalog/cohort4/pyds/)
+- [Cohort 4](/catalog/cohort4/ai0/)
 
 
 
