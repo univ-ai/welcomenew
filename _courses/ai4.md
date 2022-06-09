@@ -1,7 +1,7 @@
 ---
 title: "AI-4"
 permalink: /courses/ai4/
-cycle: c1
+cycle: c2
 kind: course
 excerpt: Reinforcement Learning and Generative Adversarial Networks
 sequence: 7
@@ -12,6 +12,148 @@ header:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+  .modal {
+    background: transparent;
+  }
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 5.7rem; 
+    height: 5.7rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+  }
+</style>
+
+<!-- TA Modal Section -->
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+<!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Arya Mohan</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
+          <li>Previously, she was a data analyst at Schneider Electric.</li>
+          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Arya').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="Varshini" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Varshini Reddy</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/VarshiniReddy.png" alt="Varshini" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Varshini is an Artificial Intelligence Researcher and Masters Student at Harvard University.</li>
+<li>Previously, she was a Research Associate at the Indian Institute of Science.</li>
+<li>She is passionate about working at the interface of AI and social impact.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Varshini').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="Kshitij" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Kshitij Parwani</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KshitijParwani.png" alt="Kshitij" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Kshitij is currently a student at IIT Varanasi and a Teaching Fellow at Univ.AI. </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Kshitij').appendTo('body');
+</script>
+
+
+<!-------------------------------------------------------------------------------------------------------------------------->
+
 >Look for the bare necessities, <br>
 >The simple bare necessities, <br>
 >Forget about your worries and your strife, <br>
@@ -23,7 +165,7 @@ Welcome to AI4.
 
 The objective of this module is to provide fundamental understanding of the concepts behind Reinforcement Learning, Generative Models and how to apply them to real world problems. This course follows the Univ.AI model of balancing between concept, theory, and implementation.
 
-The course covers an introduction to the field of Reinforcement Learning covering the basic concepts, dynamic programming, Q-learning and Policy Graident Methods. The course will also give an overview of network building blocks, followed by an review of Generative Adversarial Networks and their applications. 
+The course covers an introduction to the field of Reinforcement Learning covering the basic concepts, dynamic programming, Q-learning and Policy Graident Methods. The course will also give an overview of network building blocks, followed by an review of Generative Adversarial Networks and provide a understanding of state of the art models in the field. 
 
 At the end of this module, you will be able to efficiently work with reinforcement learning problems and build effective generative adversarial networks.
 
@@ -41,57 +183,31 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Dr. Achutha Kadambi
 
-![](/assets/images/people/AchutaKadambi.png)
+### Teaching Assistants
 
-- Assistant Professor at UCLA where he directs the Visual Machines Group. 
-- Achuta received his PhD from MIT, his BS from UC Berkeley.
-- Achuta was named to the Forbes 30 under 30 list of leading inventors, and won a Google Faculty Award.
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
+    </div>
+  </div>
 
-You can [read more about him here](https://samueli.ucla.edu/people/achuta-kadambi/).
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VarshiniReddy.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Varshini"/>
+    </div>
+  </div>
 
-### Dr. Raghu Meka
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/KshitijParwani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kshitij"/>
+    </div>
+  </div>
 
-![](/assets/images/people/RaghuMeka.png)
-
-- Associate Professor of Computer Science at UCLA with a PhD from UT Austin.
-- He was a postdoctoral fellow at the Institute for Advanced Study, (at Princeton University). 
-- Before joining UCLA Raghu was a researcher at the Microsoft Research.
-
-You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
-
-The teaching assistants for the duration of this course will be:
-
-### Javiera Astudilo
-
-<img src="/assets/images/people/JavieraAstudilo.png" style="zoom:80%;" />
-
-- Currently enrolled in the Data Science MS at GSAS, Harvard University.
-- She's been working as a research assistant and TA at IACS, Harvard University and Pontificia Universidad Católica de Chile.
-- Previously, she worked as a Data Scientist for the retail industry.
-
-### Varshini Reddy
-
-<img src="/assets/images/people/VarshiniReddy.png" style="zoom:80%;" />
-
-- Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. 
-- Previously, she was a Research Associate at the Indian Institute of Science.
-- She is passionate about working at the interface of AI and social impact.
-
-### Arya Mohan
-
-![](/assets/images/people/AryaMohan.jpeg)
-
-- Arya is working as a teaching fellow with Univ.ai, she also is currently a data analyst at Schneider Electric.
-- She is passionate about image processing and is currently researching applications of computer vision.
-
-
-### Kshitij Parwani
-
-![](/assets/images/people/KshitijParwani.png)
-
-- Kshitij is currently a student at IIT Varanasi and a Teaching Fellow at Univ.AI. 
+</div>
+<br>
 
 ## The Coursework
 
@@ -137,11 +253,11 @@ The course consists of two parts:
 
 Reinforcement Learning:
 
-![](/assets/ai4-c1.assets/content_ai4a.jpg)
+![](/assets/ai4-c2.assets/content_ai4a.jpg)
 
 Generative Adversarial Networks:
 
-![](/assets/ai4-c1.assets/content_ai4b.png)
+![](/assets/ai4-c2.assets/content_ai4b.png)
 
 ## The Class
 
