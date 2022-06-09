@@ -253,7 +253,7 @@ The course consists of two parts:
 
 Reinforcement Learning:
 
-![](/assets/ai4-c2.assets/content_ai4a.jpg)
+![](/assets/ai4-c2.assets/content_ai4a.png)
 
 Generative Adversarial Networks:
 
