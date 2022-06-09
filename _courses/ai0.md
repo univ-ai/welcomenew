@@ -321,7 +321,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ## The Class
 
-![](/assets/ai0-c5.assets/schedule.png)
+![](/assets/ai0-c5.assets/Schedule.png)
 
 Please check your mail for more information.
 
