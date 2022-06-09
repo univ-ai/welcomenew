@@ -259,6 +259,7 @@ Generative Adversarial Networks:
 
 ![](/assets/ai4-c2.assets/content_ai4b.png)
 
+
 ## The Class
 
 Coming Soon!
