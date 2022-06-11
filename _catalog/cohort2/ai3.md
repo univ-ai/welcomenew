@@ -1,6 +1,6 @@
 ---
 title: "AI-3"
-permalink: /courses/ai3/
+permalink: /catalog/cohort2/ai3/
 cycle: c2
 kind: course
 excerpt: Language Models
@@ -128,59 +128,30 @@ header:
 
 <!-- TA Modal 3-->
 <div class="container">
-<div class="modal fade modal-margin" id="AamirModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Aamir Ansari</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <center><img src="/assets/images/people/AamirAnsari.png" alt="Aamir" style="height:200px;margin-right:15px;"></center>
-        <ul style="list-style:circle; padding-left: 2em;">
-          <li>Aamir is currently completing his data science journey with Univ.AI.</li>
-          <li>He recently presented his paper on Tree based convolutional neural networks at ICIDSSD22, Jamia Hamdard University.</li>
-          <li>His future goals include using data science techniques in analysing player performances in the sport of football.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<script>
-     $('#AamirModal').appendTo('body');
-</script>
-
-<div class="container">
-<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="NiegilModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<h5 class="modal-title" id="exampleModalLabel">Niegil Francis</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/NiegilFrancis.jpeg" alt="Niegil" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
-<li>She is a deep learning enthusiast and a final year undergrad at JECRC University, Jaipur.</li>
-<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
-<li>Currently, she is also working on building a SportsTech startup.</li>
+<li>Niegil is an Electronics and Communications Engineer from Bangalore, India, and he is currently working as a Data Scientist at Bolt, and a Research Assistant at StellarDnn, Harvard (IACS).</li>
+<li>His main area of research is in the convergence of Robotics and AI, and he has a growing interest in Data Science for smarter business strategies.</li>
 </ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-
 <script>
-     $('#AnshikaModal').appendTo('body');
+     $('#NiegilModal').appendTo('body');
 </script>
+
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
@@ -206,46 +177,29 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Dr. Ignacio Becker
-
-![](/assets/images/people/IgnacioBecker.jpeg)
-
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
-<br>
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
-  <div class="img-border" style="grid-column: 1/2;">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
-    </div>
-  </div>
-  
-  <div class="img-border" style="grid-column: 3/4">
+<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
     </div>
   </div>
 
 
-  <div class="img-border" style="grid-column: 5/6">
+  <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
       <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 7/8">
+  <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AamirAnsari.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
+      <img src="/assets/images/people/NiegilFrancis.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#NiegilModal"/>
     </div>
   </div>
 </div>
-
-<br>
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
@@ -285,19 +239,19 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
-![](/assets/ai3-c3.assets/Content.png)
+![](/assets/ai3-c2.assets/Content.png)
 
 
 ## The Class
 
-![](/assets/ai3-c3.assets/Schedule.png)
+![](/assets/ai3-c2.assets/Schedule.png)
 
 
 **Lecture Sessions**: 
 
-- Wednesday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Wednesday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
 
-- Saturday: ```6:00 PM - 7:30 PM IST [8:30 AM - 10:00 AM EST]```
+- Saturday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
 
 **Lab Sessions**: 
 
@@ -307,7 +261,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 **Office hours**: 
 
-- Monday: ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```
+- Monday: ```7:00 PM - 8:00 PM IST [9:30 AM - 10:30 AM EST]```
 
 Please check your mail for more information regarding the platform and the course.
 
@@ -384,5 +338,4 @@ We wish you best of luck for your AI journey.
 ## Links to previous cohorts
 
 - [Cohort 1](/catalog/cohort1/ai3/)
-- [Cohort 2](/catalog/cohort2/ai3/)
 
