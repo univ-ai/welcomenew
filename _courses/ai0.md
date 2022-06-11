@@ -358,7 +358,7 @@ Reference:
 
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-[//]: # (Our module policies around collaboration and grading are listed [here](https://edstem.org/us/courses/7707/lessons/20903/slides/113688). Our expectations of you are also laid out in that document.)
+Our module policies around collaboration and grading are listed [here](https://edstem.org/us/courses/23039/lessons/36214/slides/210629). Our expectations of you are also laid out in that document.
 
 <br>
 
