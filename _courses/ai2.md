@@ -299,13 +299,13 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4; grid-row: 4/5">
+  <div class="img-border" style="grid-column: 3/4; grid-row: 5/6">
     <div class="circular--portrait">
       <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Yash"/>
     </div>
   
   </div>
-    <div class="img-border" style="grid-column: 5/6; grid-row: 4/5">
+    <div class="img-border" style="grid-column: 5/6; grid-row: 5/6">
     <div class="circular--portrait">
       <img src="/assets/images/people/MahimaRao.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Mahima"/>
     </div>
