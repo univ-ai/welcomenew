@@ -277,7 +277,7 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 <div style="display: grid; grid-template-columns: repeat(12, 1fr);">
   <div class="img-border" style="grid-column: 1/2; grid-row: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AryaModal"/>
+      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#AryaModal"/>
     </div>
   </div>
   
@@ -299,15 +299,15 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 1/2; grid-row: 3/4">
+  <div class="img-border" style="grid-column: 3/4; grid-row: 3/4">
     <div class="circular--portrait">
       <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#YashModal"/>
     </div>
   
   </div>
-    <div class="img-border" style="grid-column: 3/4; grid-row: 3/4">
+    <div class="img-border" style="grid-column: 5/6; grid-row: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/MahimaRao.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#MahimaModal"/>
+      <img src="/assets/images/people/MahimaRao.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#MahimaModal"/>
     </div>
   </div>
 
