@@ -263,7 +263,7 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ### Dr. Raghu Meka
 
-![](/assets/images/people/RaghuMeka.png)
+<img src="/assets/images/people/RaghuMeka.png" style="zoom:80%;" />
 
 - Associate Professor of Computer Science at UCLA with a PhD from UT Austin.
 - He was a postdoctoral fellow at the Institute for Advanced Study, (at Princeton University). 
