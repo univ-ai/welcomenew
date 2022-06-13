@@ -275,14 +275,14 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 
 *Click on avatars of the TAs to know more about them.*
 
-  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 1/2; grid-row: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
     </div>
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(12, 1fr);">
-  <div class="img-border" style="grid-column: 1/2; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
     </div>
