@@ -62,6 +62,182 @@ header:
   }
 </style>
 
+<!-- TA Modal Section -->
+<style>
+  
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Arya Mohan</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
+          <li>Previously, she was a data analyst at Schneider Electric.</li>
+          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Arya').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="Shibani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/ShibaniBudhraja.png" alt="Shibani" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>A Psychologist and amateur  musician exploring the world of Data Science.</li>
+<li>Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.</li>
+<li>Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Shibani').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="Kuldeep" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KuldeepPrasad.png" alt="Kuldeep" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
+<li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
+<li>Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.</li>
+<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Kuldeep').appendTo('body');
+</script>
+
+<!-- TA Modal 4-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.jpg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+<!-- TA Modal 5-->
+<div class="container">
+<div class="modal fade modal-margin" id="Yash" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yash is interested in the applications of AI in decoding the human brain.</li>
+<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
+<li>In his free time, he likes listening to music and playing football.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Yash').appendTo('body');
+</script>
+
+<!-- TA Modal 6-->
+<div class="container">
+<div class="modal fade modal-margin" id="Mahima" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Mahima Rao</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/MahimaRao.png" alt="Mahima" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Mahima is currently intern at Globalfoundries.</li>
+<li>She is working on unsupervised classification of mask generated in foundries. </li>
+<li>Her vision to introduce AI in centralized form in agriculture.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Mahima').appendTo('body');
+</script>
+
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 > *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
@@ -85,7 +261,16 @@ At the end of this course, you will be able to run a variety of advanced machine
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-<br>
+### Dr. Raghu Meka
+
+![](/assets/images/people/RaghuMeka.png)
+
+- Associate Professor of Computer Science at UCLA with a PhD from UT Austin.
+- He was a postdoctoral fellow at the Institute for Advanced Study, (at Princeton University). 
+- Before joining UCLA Raghu was a researcher at the Microsoft Research.
+
+You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
+
 
 ## The Coursework
 
@@ -125,11 +310,37 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c3.assets/Content.jpg)
+![](/assets/ai2-c4.assets/Content.png)
 
 ## The Class
 
-Coming Soon!
+
+### Welcome Session - Preparing for this class 
+
+There will be a **Welcome Session** scheduled. Timings will be updated. 
+
+
+### High level course schedule 
+
+![](/assets/ai2-c4.assets/Schedule.png)
+
+
+**Lecture Sessions**: 
+
+- Tuesday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```  
+
+- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
+
+**Lab Sessions**: 
+
+- Wednesday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ] ``` 
+
+- Sunday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
+
+**Office hours**: 
+
+- Mondays: ```8:00 PM - 9:00 PM [ 10:30 AM - 11:30 AM EST ]```
+
 
 ### Course Pre-Requisites 
 

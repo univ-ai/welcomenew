@@ -63,6 +63,7 @@ header:
 
 <!-- TA Modal Section -->
 <style>
+  
   .modal-margin {
     margin: 0 auto;
   }
