@@ -255,7 +255,7 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ### Dr. Ignacio Becker
 
-![](/assets/images/people/IgnacioBecker.jpeg)
+![](/assets/images/people/IgnacioBecker.png)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
