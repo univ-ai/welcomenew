@@ -169,7 +169,7 @@ header:
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.jpg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
 <li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
@@ -297,7 +297,7 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
   
   <div class="img-border" style="grid-column: 7/8; grid-row: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Lakshay"/>
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Lakshay"/>
     </div>
   </div>
 

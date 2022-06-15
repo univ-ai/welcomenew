@@ -222,7 +222,7 @@ header:
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.jpg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
 <li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
@@ -353,7 +353,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
   </div>
     <div class="img-border" style="grid-column: 3/4; grid-row: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#LakshayModal"/>
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#LakshayModal"/>
     </div>
   </div>
     <div class="img-border" style="grid-column: 5/6; grid-row: 3/4">
