@@ -378,7 +378,7 @@ There will be a **Welcome Session** scheduled. Timings will be updated.
 
 **Lab Sessions**: 
 
-- Wednesday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ] ``` 
+- Wednesday Series: ```7:00 PM - 8:30 PM IST [ 10:30 AM - 12:00 PM EST ] ``` 
 
 - Sunday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
 
