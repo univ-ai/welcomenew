@@ -272,6 +272,27 @@ Generative Adversarial Networks:
 ## The Class
 
 Coming Soon!
+<!---
+### High level course schedule 
+
+![](/assets/ai2-c4.assets/Schedule.png)
+
+
+**Lecture Sessions**: 
+
+- Thursday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```  
+
+- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
+
+**Lab Sessions**: 
+
+- Friday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 AM EST ]``` 
+
+- Sunday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```
+
+**Office hours**: 
+
+- Mondays: ```7:00 PM - 8:00 PM [ 9:30 AM - 10:30 AM EST ]``` -->
 
 ### Course Pre-Requisites 
 
