@@ -362,7 +362,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ### Welcome Session - Preparing for this class 
 
-There will be a **Welcome Session** scheduled. Timings will be updated. 
+There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. 
 
 
 ### High level course schedule 
