@@ -271,11 +271,9 @@ Generative Adversarial Networks:
 
 ## The Class
 
-Coming Soon!
-<!---
 ### High level course schedule 
 
-![](/assets/ai2-c4.assets/Schedule.png)
+![](/assets/ai4-c2.assets/Schedule.png)
 
 
 **Lecture Sessions**: 
@@ -292,7 +290,7 @@ Coming Soon!
 
 **Office hours**: 
 
-- Mondays: ```7:00 PM - 8:00 PM [ 9:30 AM - 10:30 AM EST ]``` -->
+- Mondays: ```7:00 PM - 8:00 PM [ 9:30 AM - 10:30 AM EST ]``` 
 
 ### Course Pre-Requisites 
 
