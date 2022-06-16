@@ -184,6 +184,14 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
+### Dr. Rahul Dave 
+
+![](/assets/images/people/RahulDave.jpeg)
+
+Dr. Rahul Dave is a former Data Science faculty at Harvard University. He was on the original team for Harvard’s famous Data Science course, cs109, and has taught machine learning, statistics, and AI courses, both at Harvard and at multiple conferences and workshops. 
+
+You can [read more about him here](https://univ.ai/team/rahul-dave-2). 
+
 
 ### Teaching Assistants
 
@@ -197,7 +205,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VarshiniReddy.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Varshini"/>
+      <img src="/assets/images/people/VarshiniReddy.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Varshini"/>
     </div>
   </div>
 
