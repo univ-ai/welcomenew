@@ -323,6 +323,17 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ![](/assets/ai0-c5.assets/Schedule.png)
 
+**Lecture Sessions**: 
+
+- Saturday: ```5:30 PM - 7:30 PM IST [8:00 AM - 10:00 AM EST]```
+
+- Sunday: ```5:30 PM - 7:30 PM IST [8:00 AM - 10:00 AM EST]```
+
+
+**Office hours**: 
+
+- Wednesday: ```7:00 PM - 8:00 PM IST [9:30 AM - 10:30 AM EST]```
+
 Please check your mail for more information.
 
 ### Sample Class
