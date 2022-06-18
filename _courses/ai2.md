@@ -380,7 +380,7 @@ There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [
 
 - Wednesday Series: ```7:00 PM - 8:30 PM IST [ 10:30 AM - 12:00 PM EST ] ``` 
 
-- Sunday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
+- Sunday Series: ```5:30 PM - 7:00 PM IST [ 8:00 AM - 9:30 PM EST ]```
 
 **Office hours**: 
 
