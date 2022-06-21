@@ -290,7 +290,7 @@ Generative Adversarial Networks:
 
 **Office hours**: 
 
-- Mondays: ```7:00 PM - 8:00 PM [ 9:30 AM - 10:30 AM EST ]``` 
+- Mondays: ```6:30 PM - 8:00 PM [ 9:00 AM - 10:30 AM EST ]``` 
 
 ### Course Pre-Requisites 
 
