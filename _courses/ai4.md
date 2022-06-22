@@ -258,16 +258,7 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
   directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-The course consists of two parts: 
-
-Reinforcement Learning:
-
-![](/assets/ai4-c2.assets/content_ai4a.png)
-
-Generative Adversarial Networks:
-
-![](/assets/ai4-c2.assets/content_ai4b.png)
-
+![](/assets/ai4-c2.assets/Content.png)
 
 ## The Class
 
