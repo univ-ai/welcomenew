@@ -102,20 +102,22 @@ header:
 
 <!-- TA Modal 2-->
 <div class="container">
-<div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="KuldeepModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
+<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/KuldeepPrasad.jpeg" alt="Kuldeep" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
-<li>He is excited about smart devices which use AI to better assist its users.</li>
+<li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
+<li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
+<li>Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.</li>
+<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
 </ul>
 </div>
 </div>
@@ -123,7 +125,7 @@ header:
 </div>
 </div>
 <script>
-     $('#YashrajModal').appendTo('body');
+     $('#KuldeepModal').appendTo('body');
 </script>
 
 <!-- TA Modal 3-->
@@ -234,7 +236,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
+      <img src="/assets/images/people/KuldeepPrasad.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#KuldeepModal"/>
     </div>
   </div>
 
