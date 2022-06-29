@@ -152,6 +152,30 @@ header:
      $('#Kshitij').appendTo('body');
 </script>
 
+<div class="container">
+<div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
+<li>He is excited about smart devices which use AI to better assist its users.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#YashrajModal').appendTo('body');
+</script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -196,7 +220,7 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
@@ -215,6 +239,11 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
     </div>
   </div>
 
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
+    </div>
+  </div>
 </div>
 <br>
 

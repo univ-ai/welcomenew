@@ -274,40 +274,34 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-  <div style="display: grid; grid-template-columns: repeat(12, 1fr);">
+  <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
-  <div class="img-border" style="grid-column: 1/2; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
       <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
       <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
     </div>
   </div>
   
-
-  <div class="img-border" style="grid-column: 5/6; grid-row: 1/2">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/KuldeepPrasad.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kuldeep"/>
-    </div>
-  </div>
   
-  <div class="img-border" style="grid-column: 7/8; grid-row: 1/2">
+  <div class="img-border" style="grid-column: 5/6;">
     <div class="circular--portrait">
       <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Lakshay"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4; grid-row: 6/7">
+  <div class="img-border" style="grid-column: 7/8;">
     <div class="circular--portrait">
       <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Yash"/>
     </div>
   
   </div>
-    <div class="img-border" style="grid-column: 5/6; grid-row: 6/7">
+    <div class="img-border" style="grid-column: 9/10;">
     <div class="circular--portrait">
       <img src="/assets/images/people/MahimaRao.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Mahima"/>
     </div>
