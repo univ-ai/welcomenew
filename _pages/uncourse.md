@@ -292,8 +292,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
+        <p>6:30 - 8:30 PM IST <br>
+        (9:00 - 11:00 AM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYocuuvqjkvE9NL1UYNxmmL8-m-2hWL1RSp '">Register</button></center>
       </div>
     </div>
@@ -319,8 +319,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Yashraj Wani</h6>
         <img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
+        <p>6:30 - 8:30 PM IST <br>
+        (9:00 - 11:00 AM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYqdOqsrDgpHdXZP1y6Ppa0T-75Cf44dZdG'">Register</button></center>
       </div>
     </div>
@@ -349,8 +349,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
+        <p>6:30 - 8:30 PM IST <br>
+        (9:00 - 11:00 AM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcvde6pqjsjH90GLItUbbwL6XmFVu3NJbzT '">Register</button></center>
       </div>
     </div>
