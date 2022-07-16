@@ -20,7 +20,7 @@ You can also take individual modules. We offer the flexibility you need! <br>
 
 The upcoming three cohorts will follow the schedule below. <br>
 
-<img src="assets/images/Cohort.png" style="width:100%" />
+<img src="assets/images/Cohort_Schedule.png" style="width:100%" />
 
 If you have already signed up, congratulations! You are embarking on a transformative AI and Data Science journey. 
 
