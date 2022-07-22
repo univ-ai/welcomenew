@@ -372,7 +372,13 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>To be updated soon.</p>
+        <p>In this second workshop in the software development series, we continue writing our Neural Network library. We refactor our notebook into files, bring in documentation and testing, and use these to further re-factor our code and introduce new features such as layers and multiple dimensions.</p>
+        <center><h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <h6>Timings</h6>
+        <p>6:30 - 8:30 PM IST <br>
+        (9:00 - 11:00 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZwocOirpjkiHtRPP9j2ETg9O8pXzmpz3IGI'">Register</button></center>
       </div>
     </div>
   </div>
