@@ -1,13 +1,13 @@
 ---
 title: "AI-1" 
-permalink: /courses/ai1/
+permalink: /catalog/cohort4/ai1/
 cycle: c4
 kind: course
 excerpt: ML/AI Basics
 sequence: 2
 header:
-  overlay_image: /assets/images/header/HeaderDesign7.jpeg
-  teaser: /assets/images/header/HeaderDesign7.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign7.jpeg
+  teaser: /assets/images/header/greyHeaderDesign7.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
@@ -76,21 +76,21 @@ header:
 
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="AamirModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Arya Mohan</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Aamir Ansari</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
+        <center><img src="/assets/images/people/AamirAnsari.png" alt="Aamir" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
-          <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
-          <li>Previously, she was a data analyst at Schneider Electric.</li>
-          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
+          <li>Aamir is currently completing his data science journey with Univ.AI.</li>
+          <li>He recently presented his paper on Tree based convolutional neural networks at ICIDSSD22, Jamia Hamdard University.</li>
+          <li>His future goals include using data science techniques in analysing player performances in the sport of football.</li>
         </ul>
       </div>
     </div>
@@ -98,12 +98,67 @@ header:
 </div>
 </div>
 <script>
-     $('#Arya').appendTo('body');
+     $('#AamirModal').appendTo('body');
 </script>
 
 <!-- TA Modal 2-->
 <div class="container">
-<div class="modal fade modal-margin" id="Shibani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
+<li>She is a deep learning enthusiast and a final year undergrad at JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
+<li>Currently, she is also working on building a SportsTech startup.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#AnshikaModal').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="SreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Sakthisree Venkatesan</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/Sakthisree.jpeg" alt="Sakthisree" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.</li>
+<li>Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through causal inference, which she is pursuing through independent research.</li>
+<li>She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#SreeModal').appendTo('body');
+</script>
+
+<!-- TA Modal 4-->
+<div class="container">
+<div class="modal fade modal-margin" id="ShibaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -125,12 +180,12 @@ header:
 </div>
 </div>
 <script>
-     $('#Shibani').appendTo('body');
+     $('#ShibaniModal').appendTo('body');
 </script>
 
-<!-- TA Modal 3-->
+<!-- TA Modal 5-->
 <div class="container">
-<div class="modal fade modal-margin" id="Hemani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="HemaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -152,12 +207,12 @@ header:
 </div>
 </div>
 <script>
-     $('#Hemani').appendTo('body');
+     $('#HemaniModal').appendTo('body');
 </script>
 
-<!-- TA Modal 4-->
+<!-- TA Modal 6-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="LakshayModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -179,27 +234,27 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#LakshayModal').appendTo('body');
 </script>
 
-<!-- TA Modal 5-->
+
+<!-- TA Modal 6-->
 <div class="container">
-<div class="modal fade modal-margin" id="Abjasree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="YashModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Abjasree S</h5>
+<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/Abjasree.jpeg" alt="Abjasree" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Currently, Direct Entry diploma in Data Science student at IIT Madras.</li>
-<li>Completed Masters in Physics from Indian Institute of Science Education and Research (IISER), Tirupati.</li>
-<li>Looks forward to learning how to use AI and its application in various physics problems and other research fields, especially image processing.</li>
-<li>In her free time, she can be found watching anime or drawing anime characters.</li>
+<li>Yash is interested in the applications of AI in decoding the human brain.</li>
+<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
+<li>In his free time, he likes listening to music and playing football.</li>
 </ul>
 </div>
 </div>
@@ -207,7 +262,35 @@ header:
 </div>
 </div>
 <script>
-     $('#Abjasree').appendTo('body');
+     $('#YashModal').appendTo('body');
+</script>
+
+
+<!-- TA Modal 8-->
+<div class="container">
+<div class="modal fade modal-margin" id="SantoshModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Santosh Gokul</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/SantoshGokul.jpg" alt="Santosh" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Santosh is currently working as SDET in Finance team at Swiggy. He has over 1.5+ yrs of experience, ranging from development to testing.</li>
+<li>He has experience in MLOps and has helped start-ups scale their ML applications as a consultant.</li>
+<li>He likes to build applications in his leisure time and aims to transition one of them into a product shortly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#SantoshModal').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -226,55 +309,61 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Dr. Pavlos Protopapas
+### Dr. Ignacio Becker
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
+![](/assets/images/people/IgnacioBecker.jpeg)
 
-- Scientific Director of the Institute for Applied Computational Science (IACS).
-- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
-
-You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
-
-  <div class="img-border" style="grid-column: 1/2;">
+<div style="display: grid; grid-template-columns: repeat(12, 1fr);">
+  <div class="img-border" style="grid-column: 1/2; grid-row: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
+  </div>
+  
+  <div class="img-border" style="grid-column: 3/4; grid-row: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4;">
+  <div class="img-border" style="grid-column: 5/6; grid-row: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
+      <img src="/assets/images/people/AamirAnsari.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
+    </div>
+  </div>
+  
+  <div class="img-border" style="grid-column: 7/8; grid-row: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/SantoshGokul.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#SantoshModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 5/6">
+  <div class="img-border" style="grid-column: 1/2; grid-row: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#HemaniModal"/>
     </div>
   
   </div>
-  
-  <div class="img-border" style="grid-column: 7/8;">
+    <div class="img-border" style="grid-column: 3/4; grid-row: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Lakshay"/>
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#LakshayModal"/>
+    </div>
+  </div>
+    <div class="img-border" style="grid-column: 5/6; grid-row: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#YashModal"/>
     </div>
   </div>
 
-
-  <div class="img-border" style="grid-column: 9/10">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/Abjasree.jpeg" class="circular--portrait-img" align="left" style="margin-top:1px; margin-right:-10px;" data-toggle="modal" data-target="#Abjasree"/>
-    </div>
-  </div>
 
 </div>
-
 <br>
 
 ## The Coursework
@@ -321,9 +410,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Schedule is coming soon!
-
-<!--There will be an Info Session scheduled on **21 April 2022** at **7:30 PM IST** for all students.
+There will be an Info Session scheduled on **21 April 2022** at **7:30 PM IST** for all students.
 
 ![](/assets/ai1-c4.assets/schedule.png)
 
@@ -342,7 +429,7 @@ Please check your mail for more information.
 
 **Office hours:**
 
-- Mondays : ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```-->
+- Mondays : ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```
 
 ### Course Pre-Requisites 
 
@@ -409,10 +496,4 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts 
-
-- [Cohort 1](/catalog/cohort1/ai1/)
-- [Cohort 2](/catalog/cohort2/ai1/)
-- [Cohort 3](/catalog/cohort3/ai1/)
-- [Cohort 4](/catalog/cohort4/ai1/)
 
