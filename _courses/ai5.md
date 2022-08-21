@@ -128,6 +128,7 @@ Here are some of the projects:
 Please find a more detailed summary of all <a href="https://docs.google.com/document/d/1tC1k8XX1RjxxH7Ojay1lqSBTx-oYtMM67oOMyNsA4bU/edit?usp=sharing" target="_blank">projects here</a>.
 
 
+
 ## The Class
 
 ### Welcome Session - Preparing for this class 

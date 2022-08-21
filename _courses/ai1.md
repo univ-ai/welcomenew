@@ -404,6 +404,37 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
+
+<style>
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border-top: 0px solid black;
+  border-bottom: 0px solid black;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+tr:nth-child(even){background-color: #ffffff;}
+tr:nth-child(odd){background-color: #ffffff;}
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #848484;
+  color: white;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+</style>
+
+
+
 ## Links to previous cohorts 
 
 - [Cohort 1](/catalog/cohort1/ai1/)
