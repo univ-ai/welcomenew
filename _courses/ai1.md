@@ -317,32 +317,27 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai1-c4.assets/content.png)
+![](/assets/ai1-c5.assets/Content.png)
 
 ## The Class
 
-Schedule is coming soon!
+There will be an information Session scheduled. Details will be updated soon.
 
-<!--There will be an Info Session scheduled on **21 April 2022** at **7:30 PM IST** for all students.
-
-![](/assets/ai1-c4.assets/schedule.png)
-
-Please check your mail for more information.
-
+![](/assets/ai1-c5.assets/Schedule.png)
 
 **Lecture Sessions:**
 
 - Tuesday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
-- Saturday Series: ```5:30 PM - 7:00 PM IST [ 8:00 AM - 9:30 AM EST]```
+- Saturday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
 
 **Lab Sessions:**
 
-- Wednesday Series: ```9:45 PM - 11:15 PM IST [ 12:15 PM - 01:45 PM EST]```
-- Sunday Series: ```5:30 PM - 7:00 PM IST [ 8:00 AM - 9:30 AM EST]```
+- Thursday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 PM EST]```
+- Monday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 PM EST]```
 
 **Office hours:**
 
-- Mondays : ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```-->
+- Fridays : ```7:30 PM - 8:30 PM IST [10:00 AM - 11:00 PM EST]```
 
 ### Course Pre-Requisites 
 
