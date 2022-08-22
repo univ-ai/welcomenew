@@ -337,7 +337,7 @@ There will be an information Session scheduled. Details will be updated soon.
 
 **Office hours:**
 
-- Fridays : ```7:30 PM - 8:30 PM IST [10:00 AM - 11:00 PM EST]```
+- Fridays : ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 PM EST]```
 
 ### Course Pre-Requisites 
 
