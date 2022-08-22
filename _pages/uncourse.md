@@ -36,30 +36,168 @@ sequence: 1
 
 Uncourse is a series of workshops that we conduct for our students for them to learn skills that are not covered in the sessions, but are important to learn in order to excel in the field of data science and AI.
 
+Welcome to the second cycle of the series!
+
 Here is the current schedule for all our workshops.
 
-*Click on the topic of the workshop to know more.*
+*(Click on the topic cell of the workshop table to know more)*
 <div class="container">
 
-<img src="/assets/uncourse.assets/schedule.png" alt="Workplace" usemap="#workmap" width="956" height="836">
+<img src="/assets/uncourse.assets/schedule.png" alt="Workplace" usemap="#workmap" width="958" height="917">
 
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="800" height="400"> -->
 
 <map name="workmap">
-  <area shape="rect" class="area" coords="638,64,934,124" alt="SQL1" title="SQL 1" data-toggle="modal" data-target="#Sql1Modal">
-  <area shape="rect" class="area" coords="638,124,934,186" alt="SQL2" title="SQL 2" data-toggle="modal" data-target="#Sql2Modal">
-  <area shape="rect" class="area" coords="638,189,934,250" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
-  <area shape="rect" class="area" coords="638,250,934,313" alt="Tensorboard" title="Tensorboard" data-toggle="modal" data-target="#TbModal">
-  <area shape="rect" class="area" coords="638,313,934,375" alt="React" title="React" data-toggle="modal" data-target="#ReactModal">
-  <area shape="rect" class="area" coords="638,375,934,439" alt="JAX" title="JAX" data-toggle="modal" data-target="#JaxModal">
-  <area shape="rect" class="area" coords="638,439,934,503" alt="DSA1" title="DSA1" data-toggle="modal" data-target="#Dsa1Modal">
-  <area shape="rect" class="area" coords="638,503,934,567" alt="DSA2" title="DSA2" data-toggle="modal" data-target="#Dsa2Modal">
-  <area shape="rect" class="area" coords="638,567,934,631" alt="GNN" title="GNN" data-toggle="modal" data-target="#GnnModal">
-  <area shape="rect" class="area" coords="638,631,934,692" alt="Spacy" title="Spacy" data-toggle="modal" data-target="#SpacyModal">
-  <area shape="rect" class="area" coords="638,692,934,757" alt="Software Development" title="Software Development 1" data-toggle="modal" data-target="#Sd1Modal">
-  <area shape="rect" class="area" coords="638,757,934,836" alt="Software Development" title="Software Development 2" data-toggle="modal" data-target="#Sd2Modal">
+  <area shape="rect" class="area" coords="638,64,934,124" alt="Stream-lit" title="Stream-lit" data-toggle="modal" data-target="#Stream-litModal">
+  <area shape="rect" class="area" coords="638,124,934,186" alt="Interview Coding Questions" title="Interview Coding Questions - 1" data-toggle="modal" data-target="#InterviewCodingQuestions_1Modal">
+  <area shape="rect" class="area" coords="638,189,934,250" alt="Interview Coding Questions" title="Interview Coding Questions - 2" data-toggle="modal" data-target="#InterviewCodingQuestions_2Modal">
+  <area shape="rect" class="area" coords="638,250,934,313" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
+  <area shape="rect" class="area" coords="638,313,934,375" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
+  <area shape="rect" class="area" coords="638,375,934,439" alt="SQL1" title="SQL1" data-toggle="modal" data-target="#Sql1Modal">
+  <area shape="rect" class="area" coords="638,439,934,503" alt="SQL2" title="SQL2" data-toggle="modal" data-target="#Sql2Modal">
+  <area shape="rect" class="area" coords="638,503,934,567" alt="Tableau" title="Tableau" data-toggle="modal" data-target="#TableauModal">
+  <area shape="rect" class="area" coords="638,567,934,631" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
+  <area shape="rect" class="area" coords="638,631,934,692" alt="CV Workshop" title="CV Workshop" data-toggle="modal" data-target="#CVWorkshopModal">
+  <area shape="rect" class="area" coords="638,692,934,757" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
+  <area shape="rect" class="area" coords="638,757,934,836" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
+  <area shape="rect" class="area" coords="638,822,934,915" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
 </map> 
 </div>
+
+<div class="container">
+<div class="modal fade modal-margin" id="Stream-litModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Stream-lit</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>We introduce you to Stream-lit, a quick open-source python framework for building web apps for your data science / ML projects.</p>
+        <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px">--><br><br>
+        <h6>Timings</h6>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Stream-litModal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="InterviewCodingQuestions_1Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Interview Coding Questions 1</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>How to tackle some commonly encountered Interview Coding Questions interspersed with concrete examples, tips and suggestions.</p>
+        <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <h6>Timings</h6>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#InterviewCodingQuestions_1Modal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="InterviewCodingQuestions_2Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Interview Coding Questions 2</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>This workshop dives further into the common Interview Coding Questions , building upon the previous session.</p>
+        <center><!--<h6>Instructor: Cristobal Donoso-Oliva</h6>
+        <img src="/assets/images/people/CristobalDonoso.jpg" alt="Cristobal" style="height:200px;margin-right:15px;">--><br><br>
+        <h6>Timings</h6>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#InterviewCodingQuestions_2Modal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="GithubModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">GitHub</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>This workshop gets you working with Git and GitHub, and shows you how to collaborate with 3 different workflow models: Direct, Branch based, and Fork based. The latter two workflows introduce pull requests to preserve the integrity of the main repository.</p>
+        <center><h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <h6>Timings</h6>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#GithubModal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="PINNsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">PINNs</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p> An introduction to Physics-Informed Neural Networks. As the name sugguests, these Deep Networks are informed by any given law in Physics (a nonlinear partial differential equation) to address supervised learning tasks .</p>
+        <center><h6>Instructor: Dr. Pavlos Protopapas</h6>
+        <img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;"><br><br>
+        <h6>Timings</h6>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#PINNsModal').appendTo('body');
+</script>
 
 <div class="container">
 <div class="modal fade modal-margin" id="Sql1Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -76,9 +214,9 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px"><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcucu6pqD8qHtLZLS_yyVbZBcqr2ntDjDZY'">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
@@ -103,9 +241,9 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZwrf-2qqjMiH9b8Kqr1fKhU_y2W3AVlCV1b'">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
@@ -116,274 +254,163 @@ Here is the current schedule for all our workshops.
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="TbModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="TableauModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Tensorboard</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Tableau</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Visualization of deep learning models' training using Tensorboard visualization library. This workshop provides an in-depth guide starting from basics concepts to more advanced features and techniques.</p>
-        <center><h6>Instructor: Cristobal Donoso-Oliva</h6>
-        <img src="/assets/images/people/CristobalDonoso.jpg" alt="Cristobal" style="height:200px;margin-right:15px;"><br><br>
+        <p>Tableau is a popular visulisation and data analysis tool that helps you create interactive plots and presentations. This workshop will serve as a launching pad to get you started with your very own dashboards.</p>
+        <center><!--<h6>Instructor: Kshitij Parwani</h6>
+        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcof-uorTwtHdZo1S-gO24CC4enY0MoFrWB'">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
 </div>
 </div>
 <script>
-     $('#TbModal').appendTo('body');
+     $('#TableauModal').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="GithubModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="ThreeDCNNsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">GitHub</h5>
+        <h5 class="modal-title" id="exampleModalLabel">3D CNNs</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>This workshop gets you working with Git and GitHub, and shows you how to collaborate with 3 different workflow models: Direct, Branch based, and Fork based. The latter two workflows introduce pull requests to preserve the integrity of the main repository.</p>
-        <center><h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <p>Three Dimensional Convolutional Neural Networks can go beyond 2D images and incorporate volumetric information (like CT scans) or even temportal information (such as event detection in Videos). Features can be extracted from both spatial and temporal dimensions using 3D convolutions.</p>
+        <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZ0ufumgqjMsGNW-nD3Pe_I4oxP4KQmly1YP'">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
 </div>
 </div>
 <script>
-     $('#GithubModal').appendTo('body');
+     $('#ThreeDCNNsModal').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="ReactModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="CVWorkshopModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">React</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>In this workshop we focus on showcases machine learning models into a frontend app. We will go over integrating models for audio to text, text to audio, and Image classification into a frontend app. We will so work with plots in React and how to manage states(data) in the frontend. By the end of the workshop we would build a Neural Style Transfer App that looks like <a href="https://github.com/dlops-io/app-building-crashcourse/blob/main/app-building-crashcourse.png">this</a>.</p>
-        <center><h6>Instructor: Shivas Jayaram</h6>
-        <img src="/assets/images/people/ShivasJayaram.jpg" alt="Shivas" style="height:200px;margin-right:15px;"><br><br>
-        <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYpcuygqTsuEtf8ZIS-8W4pH_IsXceOijaD'">Register</button></center>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-     $('#ReactModal').appendTo('body');
-</script>
-
-<div class="container">
-<div class="modal fade modal-margin" id="JaxModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">JAX</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>JAX is a numpy replacement that provides automatic auto-differentiation of your code, without needing to use pytorch or tensorflow APIs. This is an advanced workshop going into differentiable programming and dynamic graphs.</p>
-        <center><h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
-        <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZUscOChrDsuHNc4TpYCE-vMcwBgXIyWyFBa'">Register</button></center>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-     $('#JaxModal').appendTo('body');
-</script>
-
-<div class="container">
-<div class="modal fade modal-margin" id="Dsa1Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Data Structures & Algorithms 1</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>This is the "interview" workshop. Using binary search and binary trees as examples, we analyse the complexity of algorithms and access methods on data structures.</p>
-        <center><h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
-        <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZwud-yrrTItG9Ya47iPYhUvWQAM5cUHI4XY'">Register</button></center>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-     $('#Dsa1Modal').appendTo('body');
-</script>
-
-<div class="container">
-<div class="modal fade modal-margin" id="Dsa2Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Data Structures & Algorithms 2</h5>
+        <h5 class="modal-title" id="exampleModalLabel">CV Workshop</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
-        <center><h6>Instructor: Kshitij Parwani</h6>
-        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <center><!--<h6>Instructor: Yashraj Wani</h6>
+        <img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (11:00 AM - 1:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZUrdeGuqTwqGdPewp-J1LK9C_1Abw__WzG9'">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
 </div>
 </div>
 <script>
-     $('#Dsa2Modal').appendTo('body');
+     $('#CVWorkshopModal').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="GnnModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="DoubleDescentModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Graph Neural Networks</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Double Desecent</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Graph Neural Networks are all the rage today, enabling the learning of structured models in fields a different as protein structure and social networks. This workshop provides a simple introduction.</p>
+        <p>To be updated soon.</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:30 - 8:30 PM IST <br>
-        (9:00 - 11:00 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYocuuvqjkvE9NL1UYNxmmL8-m-2hWL1RSp '">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
 </div>
 </div>
 <script>
-     $('#GnnModal').appendTo('body');
+     $('#DoubleDescentModal').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="SpacyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="CNNTransformerModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Spacy</h5>
+        <h5 class="modal-title" id="exampleModalLabel">CNN-Transformer</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Spacy is extensively used in industry for NLP tasks. This workshop will introduce you to training models using spacy for common NLP tasks.</p>
-        <center><h6>Instructor: Yashraj Wani</h6>
-        <img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"><br><br>
+        <p>To be updated soon.</p>
+        <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
-        <p>6:30 - 8:30 PM IST <br>
-        (9:00 - 11:00 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZYqdOqsrDgpHdXZP1y6Ppa0T-75Cf44dZdG'">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
 </div>
 </div>
 <script>
-     $('#SpacyModal').appendTo('body');
+     $('#CNNTransformerModal').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="Sd1Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="ContinualLearningModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Software Development 1</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Continual Learning</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>We use the example of backpropagation in a Neural Network library to understand two key aspects of software development: <br>
-        <b>(a)</b> the construction of a python library and <br>
-        <b>(b)</b> refactoring code. <br>
-        We will start with code written in a notebook and refactor it to a reusable python library.</p>
+        <p>Text here</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:30 - 8:30 PM IST <br>
-        (9:00 - 11:00 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcvde6pqjsjH90GLItUbbwL6XmFVu3NJbzT '">Register</button></center>
+        <p>6:00 - 8:00 PM IST <br>
+        (8:30 - 10:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
   </div>
 </div>
 </div>
 <script>
-     $('#Sd1Modal').appendTo('body');
-</script>
-
-<div class="container">
-<div class="modal fade modal-margin" id="Sd2Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Software Development 2</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p>In this second workshop in the software development series, we continue writing our Neural Network library. We refactor our notebook into files, bring in documentation and testing, and use these to further re-factor our code and introduce new features such as layers and multiple dimensions.</p>
-        <center><h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
-        <h6>Timings</h6>
-        <p>6:30 - 8:30 PM IST <br>
-        (9:00 - 11:00 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZwocOirpjkiHtRPP9j2ETg9O8pXzmpz3IGI'">Register</button></center>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-     $('#Sd2Modal').appendTo('body');
+     $('#ContinualLearningModal').appendTo('body');
 </script>
