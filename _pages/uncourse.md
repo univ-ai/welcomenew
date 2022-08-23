@@ -34,7 +34,7 @@ sequence: 1
     }
 </style>    
 
-Uncourse is a series of workshops that we conduct for our students for them to learn skills that are not covered in the sessions, but are important to learn in order to excel in the field of data science and AI.
+Uncourse is a series of workshops that we conduct for our students, for them to learn skills that are not covered in the sessions, but are important to learn in order to excel in the field of data science and AI.
 
 Welcome to the second cycle of the series!
 
@@ -183,7 +183,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p> An introduction to Physics-Informed Neural Networks. As the name sugguests, these Deep Networks are informed by any given law in Physics (a nonlinear partial differential equation) to address supervised learning tasks .</p>
+        <p> An introduction to Physics-Informed Neural Networks. As the title suggests, these Deep Networks are informed by any given law in Physics (a nonlinear partial differential equation) to address supervised learning tasks .</p>
         <center><h6>Instructor: Dr. Pavlos Protopapas</h6>
         <img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -264,7 +264,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>Tableau is a popular visulisation and data analysis tool that helps you create interactive plots and presentations. This workshop will serve as a launching pad to get you started with your very own dashboards.</p>
+        <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. This workshop will serve as a launching pad to get you started with your very own dashboards.</p>
         <center><!--<h6>Instructor: Kshitij Parwani</h6>
         <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -291,7 +291,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>Three Dimensional Convolutional Neural Networks can go beyond 2D images and incorporate volumetric information (like CT scans) or even temportal information (such as event detection in Videos). Features can be extracted from both spatial and temporal dimensions using 3D convolutions.</p>
+        <p>Three Dimensional Convolutional Neural Networks can go beyond 2D images and incorporate volumetric information (like CT scans) or even temporal information (such as event detection in Videos). Features can be extracted from both spatial and temporal dimensions using 3D convolutions.</p>
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -339,7 +339,7 @@ Here is the current schedule for all our workshops.
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Double Desecent</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Double Descent</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
