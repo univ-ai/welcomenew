@@ -1,6 +1,6 @@
 ---
 title: "DS-1"
-permalink: /courses/ds1/
+permalink: /catalog/cohort3/ds1/
 cycle: c3
 kind: workshop
 excerpt: Introduction to Data Science
@@ -72,9 +72,89 @@ header:
   }
 
 </style>
+<!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Arya Mohan</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
+          <li>Previously, she was a data analyst at Schneider Electric.</li>
+          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Arya').appendTo('body');
+</script>
 
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="Kuldeep" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Dr. Kuldeep Prasad</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KuldeepPrasad.png" alt="Kuldeep" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
+<li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
+<li>Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.</li>
+<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Kuldeep').appendTo('body');
+</script>
 
-<!-- TA Modal 1-->
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="Sakthisree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Sakthisree Venkatesan</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/Sakthisree.jpeg" alt="Sakthisree" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Sakthisree is a Machine Learning Lead in a leading German-based wholesale company.</li>
+<li>Her current goal is to establish autonomous systems that are able to comprehend the world for its multi-modal richness and dimensionality through casual inference, which she is pursuing through independent research.</li>
+<li>She is also very active in the non-profit space where she leads courses, workshops and panels in the area of Tech Equity + Society, specifically catering to principles of Intersectionality and Social Justice in the Global South.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Sakthisree').appendTo('body');
+</script>
+
+<!-- TA Modal 4-->
 <div class="container">
 <div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -99,88 +179,6 @@ header:
 </div>
 <script>
      $('#Chaitanya').appendTo('body');
-</script>
-
-<!-- TA Modal 2-->
-<div class="container">
-<div class="modal fade modal-margin" id="Yashraj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
-<li>He is excited about smart devices which use AI to better assist its users.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-     $('#Yashraj').appendTo('body');
-</script>
-
-<!-- TA Modal 3-->
-<div class="container">
-<div class="modal fade modal-margin" id="Viraj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Viraj Kadam</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/VirajKadam.jpeg" alt="Viraj" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-  <li>Learning ML and AI at Univ.AI and through MOOCs.</li>
-  <li>Bachelors in Physics from Fergusson College, Pune.</li>
-  <li>Interested in Applications of AI for Earth Observation and Climate Data.</li> 
-  <li>Other interests include Running, Football, Hiking, and Gardening.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-     $('#Viraj').appendTo('body');
-</script>
-
-
-<!-- TA Modal 4-->
-<div class="container">
-<div class="modal fade modal-margin" id="Yash" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Yash is interested in the applications of AI in decoding the human brain.</li>
-<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
-<li>In his free time, he likes listening to music and playing football.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-     $('#Yash').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -212,28 +210,27 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
-
   <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Chaitanya"/>
+      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Yashraj"/>
+      <img src="/assets/images/people/Sakthisree.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Sakthisree"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Viraj"/>
+      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Chaitanya"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Yash"/>
+      <img src="/assets/images/people/KuldeepPrasad.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kuldeep"/>
     </div>
   </div>
 
@@ -248,7 +245,7 @@ We have very carefully designed the coursework to give you, the student, a whole
 Each week shall include:
 
 - 2 Sessions
-- 2 Labs
+- 1 Lab
 - Office hours
 
 ### Session - What to expect
@@ -275,34 +272,34 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
-![](/assets/ds1-c4.assets/Content.png)
+![](/assets/ds1-c3.assets/Content.png)
 
 ## The Class
 
 #### Welcome Session - Preparing for this class
 
-There will be a Welcome Session scheduled on **28 Aug 2022**. The details will be updated soon.
+There will be a Welcome Session scheduled on **02 May 2022** at ```8:30 PM IST [11:00 AM ET]``` for all registered students.
 
-<!--at ```8:30 PM IST [11:00 AM ET]``` for all registered students.-->
+Please check your mail for more information.
 
 #### Class Schedule
 
-![](/assets/ds1-c4.assets/Schedule.png)
+![](/assets/ds1-c3.assets/Schedule.png)
 
 
 **Lecture Sessions:**
 
-- Wednesday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
-- Saturday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
+- Wednesday Series: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM ET]```
+- Saturday Series: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM ET]```
 
 **Lab Sessions:**
 
-- Thursday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
-- Sunday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
+- Thursday Series: ```9:00 PM - 10:30 PM IST [12:00 Noon - 1:30 PM ET]```
+- Sunday Series: ```9:00 PM - 10:30 PM IST [12:00 Noon - 1:30 PM ET]```
 
 **Office hours:**
 
-- Mondays: ```7:30 PM - 8:30 PM IST [10:00 AM - 11:00 AM ET]```
+- Tuesdays: ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM ET]```
 
 
 ## Course Pre-Requisites
@@ -322,7 +319,7 @@ You are expected to have programming experience and basic machine learning conce
 
 You can also use, [MLPrep](https://github.com/univai-mlcfb-c1) and [PyPrep](https://github.com/univai-pyprep-c1) provided by Univ.AI to learn the topics mentioned above. 
 
-In addition to this, you can use the book - [Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf) to refresh the basic mathematical concepts and [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) to refresh machine learning concepts.
+In addition to this, you can use the book - [Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR Seventh Printing.pdf) to refresh the basic mathematical concepts and [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) to refresh machine learning concepts.
 
 ## Diversity & Inclusion
 
@@ -367,11 +364,6 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts 
-
-- [Cohort 1](/catalog/cohort1/ds1/)
-- [Cohort 2](/catalog/cohort2/ds1/)
-- [Cohort 3](/catalog/cohort3/ds1/)
 
 
 
