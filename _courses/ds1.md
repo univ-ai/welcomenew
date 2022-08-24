@@ -155,7 +155,6 @@ header:
      $('#Viraj').appendTo('body');
 </script>
 
-
 <!-- TA Modal 4-->
 <div class="container">
 <div class="modal fade modal-margin" id="Yash" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
