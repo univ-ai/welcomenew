@@ -321,7 +321,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-There will be an information Session scheduled. Details will be updated soon.
+There will be a **Welcome Session** scheduled on 28th August 2022 at 8:00 PM IST [10:30 AM EST]. 
 
 ![](/assets/ai1-c5.assets/Schedule.png)
 
