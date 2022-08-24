@@ -37,12 +37,10 @@ There will be a final project during week 5 which will be graded. Students will 
 
 ## GRADING BREAKDOWN 
 
-- Quiz/Exercises: 25%
-- Participation: 10%
-  - Ed Forum: 5%
-  - Lectures: 5%
-- Homework: 35%
-- Project: 20% 
+- Quiz/Exercises: 35%
+- Participation: 5%
+- Homework: 30%
+- Project: 30% 
 
 
 
