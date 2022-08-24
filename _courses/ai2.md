@@ -265,7 +265,6 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 
 ### Teaching Assistants
 
-
 Coming Soon!
 
 <!--
@@ -349,9 +348,6 @@ directed towards giving a brief overview of the homework problem. We will discus
 ![](/assets/ai2-c4.assets/Content.png)
 
 ## The Class
-
-
-### Welcome Session - Preparing for this class 
 
 Coming Soon!
 
