@@ -6,8 +6,8 @@ kind: workshop
 excerpt: Decision Trees and Ensemble Methods
 sequence: 5
 header:
-  overlay_image: /assets/images/header/HeaderDesign4.jpeg
-  teaser: /assets/images/header/HeaderDesign4.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign4.jpeg
+  teaser: /assets/images/header/greyHeaderDesign4.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"

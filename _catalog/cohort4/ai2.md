@@ -1,13 +1,13 @@
 ---
 title: "AI-2"
-permalink: /courses/ai2/
+permalink: /catalog/cohort4/ai2/
 cycle: c4
 kind: course
 excerpt: Convolutional Neural Networks and Autoencoders
 sequence: 3
 header:
-  overlay_image: /assets/images/header/HeaderDesign2.jpeg
-  teaser: /assets/images/header/HeaderDesign2.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign2.jpeg
+  teaser: /assets/images/header/greyHeaderDesign2.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
@@ -253,6 +253,14 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 ## The Team
 
+### Dr. Ignacio Becker
+
+![](/assets/images/people/IgnacioBecker.png)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+
 ### Dr. Raghu Meka
 
 <img src="/assets/images/people/RaghuMeka.png" style="zoom:70%;" />
@@ -265,10 +273,6 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 
 ### Teaching Assistants
 
-
-Coming Soon!
-
-<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
@@ -304,7 +308,7 @@ Coming Soon!
   </div>
 
 </div>
--->
+
 <br>
 
 
@@ -353,9 +357,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ### Welcome Session - Preparing for this class 
 
-Coming Soon!
-
-<!--There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. 
+There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. 
 
 
 ### High level course schedule 
@@ -377,7 +379,7 @@ Coming Soon!
 
 **Office hours**: 
 
-- Mondays: ```8:00 PM - 9:00 PM [ 10:30 AM - 11:30 AM EST ]```-->
+- Mondays: ```8:00 PM - 9:00 PM [ 10:30 AM - 11:30 AM EST ]```
 
 
 ### Course Pre-Requisites 
@@ -459,10 +461,4 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts
-
-- [Cohort 1](/catalog/cohort1/ai2/)
-- [Cohort 2](/catalog/cohort2/ai2/)
-- [Cohort 3](/catalog/cohort3/ai2/)
-- [Cohort 4](/catalog/cohort4/ai2/)
 

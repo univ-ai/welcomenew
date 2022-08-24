@@ -219,6 +219,9 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 <br>
 ### Teaching Assistants
 
+Coming Soon!
+
+<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2;">
@@ -246,6 +249,8 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
     </div>
   </div>
 </div>
+
+-->
 
 <br>
 ## The Coursework
@@ -292,6 +297,10 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
+Coming Soon!
+
+<!--
+
 ![](/assets/ai3-c3.assets/Schedule.png)
 
 
@@ -311,7 +320,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 - Monday: ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```
 
-Please check your mail for more information regarding the platform and the course.
+-->
 
 ### Course Pre-Requisites 
 
@@ -387,4 +396,5 @@ We wish you best of luck for your AI journey.
 
 - [Cohort 1](/catalog/cohort1/ai3/)
 - [Cohort 2](/catalog/cohort2/ai3/)
+- [Cohort 3](/catalog/cohort3/ai3/)
 

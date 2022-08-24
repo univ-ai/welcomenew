@@ -1,18 +1,17 @@
 ---
-title: "AI-3"
-permalink: /catalog/cohort2/ai3/
+title: "AI-4"
+permalink: /catalog/cohort2/ai4/
 cycle: c2
 kind: course
-excerpt: Language Models
-sequence: 6
+excerpt: Reinforcement Learning and Generative Adversarial Networks
+sequence: 7
 header:
-  overlay_image: /assets/images/header/greyHeaderDesign5.jpeg
-  teaser: /assets/images/header/greyHeaderDesign5.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign6.jpeg
+  teaser: /assets/images/header/greyHeaderDesign6.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
-
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -59,10 +58,12 @@ header:
     border-radius: 50%; 
     } 
   }
+  }
 </style>
 
 <!-- TA Modal Section -->
 <style>
+  
   .modal-margin {
     margin: 0 auto;
   }
@@ -72,24 +73,23 @@ header:
   }
 
 </style>
-
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Arya Mohan</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
+        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
-          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
-          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
-          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
+          <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
+          <li>Previously, she was a data analyst at Schneider Electric.</li>
+          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
         </ul>
       </div>
     </div>
@@ -97,10 +97,61 @@ header:
 </div>
 </div>
 <script>
-     $('#VishnuModal').appendTo('body');
+     $('#Arya').appendTo('body');
 </script>
 
 <!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="Varshini" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Varshini Reddy</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/VarshiniReddy.png" alt="Varshini" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Varshini is an Artificial Intelligence Researcher and Masters Student at Harvard University.</li>
+<li>Previously, she was a Research Associate at the Indian Institute of Science.</li>
+<li>She is passionate about working at the interface of AI and social impact.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Varshini').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="Kshitij" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Kshitij Parwani</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/KshitijParwani.png" alt="Kshitij" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Kshitij is currently a student at IIT Varanasi and a Teaching Fellow at Univ.AI. </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Kshitij').appendTo('body');
+</script>
+
 <div class="container">
 <div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -126,42 +177,22 @@ header:
      $('#YashrajModal').appendTo('body');
 </script>
 
-<!-- TA Modal 3-->
-<div class="container">
-<div class="modal fade modal-margin" id="NiegilModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Niegil Francis</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/NiegilFrancis.jpeg" alt="Niegil" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Niegil is an Electronics and Communications Engineer from Bangalore, India, and he is currently working as a Data Scientist at Bolt, and a Research Assistant at StellarDnn, Harvard (IACS).</li>
-<li>His main area of research is in the convergence of Robotics and AI, and he has a growing interest in Data Science for smarter business strategies.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-     $('#NiegilModal').appendTo('body');
-</script>
-
 <!-------------------------------------------------------------------------------------------------------------------------->
 
->*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
+>Look for the bare necessities, <br>
+>The simple bare necessities, <br>
+>Forget about your worries and your strife, <br>
+>I mean the bare necessities, <br>
+>Old Mother Nature's recipes, <br>
+>That brings the bare necessities of life!
 
-Welcome to AI-3. 
-The objective of this module is to provide fundamental understandings of the latest language models built using deep learning architectures.
+Welcome to AI4. 
 
-You will start with the traditional language models, learn about word embeddings, attention and then move on to transformer models.
+The objective of this module is to provide fundamental understanding of the concepts behind Reinforcement Learning, Generative Models and how to apply them to real world problems. This course follows the Univ.AI model of balancing between concept, theory, and implementation.
 
-At the end of this module, you will be able to build efficient language models, and tell how well they are performing. 
+The course covers an introduction to the field of Reinforcement Learning covering the basic concepts, dynamic programming, Q-learning and Policy Graident Methods. The course will also give an overview of network building blocks, followed by an review of Generative Adversarial Networks and provide a understanding of state of the art models in the field. 
+
+At the end of this module, you will be able to efficiently work with reinforcement learning problems and build effective generative adversarial networks.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
@@ -177,38 +208,54 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
+### Dr. Rahul Dave 
+
+![](/assets/images/people/RahulDave.jpeg)
+
+Dr. Rahul Dave is a former Data Science faculty at Harvard University. He was on the original team for Harvard’s famous Data Science course, cs109, and has taught machine learning, statistics, and AI courses, both at Harvard and at multiple conferences and workshops. 
+
+You can [read more about him here](https://univ.ai/team/rahul-dave-2). 
+
+
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
     </div>
   </div>
 
-
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
+      <img src="/assets/images/people/VarshiniReddy.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Varshini"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/NiegilFrancis.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#NiegilModal"/>
+      <img src="/assets/images/people/KshitijParwani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kshitij"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
     </div>
   </div>
 </div>
+<br>
+
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
 Each week shall include:
 
-- 2 Sessions
-- 2 Labs
-- Office hours
+-  2 Sessions
+-  2 Labs
+-  Office hours
 
 ### Session - What to expect
 
@@ -220,50 +267,50 @@ A session will have the following pedagogy layout which will be repeated three t
 
 - Approx. 15 minutes of live online instruction followed by approx 15 minutes of Q/A + Quiz + Exercises. 
 - Sessions will help students develop the intuition for the core concepts, 
- provide the necessary mathematical background, and provide guidance on technical details. 
+  provide the necessary mathematical background, and provide guidance on technical details. 
 - Sessions will be accompanied by relevant examples to clarify key concepts and techniques.
 
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
-
-
 
 ### Lab - What to expect
 
 ![](/assets/images/Lab.png)
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
-- Each lab begins by revisiting the Quizzes and Exercises done in the previous lecture session. 
-- After discussing exercises, we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
-and homeworks are welcome.
+
+- Each lab begins by revisiting the 
+  Quizzes and Exercises done in the previous lecture session. 
+- After discussing exercises,
+  we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
+  and homeworks are welcome.
+
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
-directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
+  directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-
-![](/assets/ai3-c2.assets/Content.png)
-
+![](/assets/ai4-c2.assets/Content.png)
 
 ## The Class
 
-![](/assets/ai3-c2.assets/Schedule.png)
+### High level course schedule 
+
+![](/assets/ai4-c2.assets/Schedule.png)
 
 
 **Lecture Sessions**: 
 
-- Wednesday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Thursday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```  
 
-- Saturday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
 
 **Lab Sessions**: 
 
-- Thursday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Friday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 AM EST ]``` 
 
-- Sunday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Sunday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```
 
 **Office hours**: 
 
-- Monday: ```7:00 PM - 8:00 PM IST [9:30 AM - 10:30 AM EST]```
-
-Please check your mail for more information regarding the platform and the course.
+- Mondays: ```6:30 PM - 7:30 PM [ 9:00 AM - 10:00 AM EST ]``` 
 
 ### Course Pre-Requisites 
 
@@ -277,19 +324,13 @@ All exercises in this course will be done in jupyter notebooks.
 
 > Note: Prior knowledge of high level machine learning libraries such as keras is necessary for this module
 
-### Textbooks
-
-You are advised to follow the following two e-books for reference during the course: 
-
-1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/),  Dan Jurafsky and James H. Martin
-
-2. [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), Jacob Eisenstein
 
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
 This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
+
 
 ## Diversity & Inclusion
 
@@ -322,20 +363,18 @@ All exercises and homeworks in this course will be done in jupyter notebooks. Th
 
 Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
-
 ## Parting note
 
-As you will learn in this course, language models are not just about writing efficient algorithms.
+As you will learn in this course, data science is not just about writing efficient algorithms.
 
 It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
 
 Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
 
-We wish you best of luck for your AI journey.
+We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts
 
-- [Cohort 1](/catalog/cohort1/ai3/)
+
 

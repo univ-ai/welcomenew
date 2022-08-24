@@ -6,8 +6,8 @@ kind: workshop
 excerpt: Introduction to Data Science
 sequence: 4
 header:
-  overlay_image: /assets/images/header/HeaderDesign3.jpeg
-  teaser: /assets/images/header/HeaderDesign3.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign3.jpeg
+  teaser: /assets/images/header/greyHeaderDesign3.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"

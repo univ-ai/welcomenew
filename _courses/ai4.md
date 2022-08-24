@@ -219,6 +219,9 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
 
 ### Teaching Assistants
 
+Coming Soon!
+
+<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
@@ -245,6 +248,9 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
     </div>
   </div>
 </div>
+
+-->
+
 <br>
 
 ## The Coursework
@@ -291,6 +297,9 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 
 ## The Class
 
+Coming Soon!
+
+<!--
 ### High level course schedule 
 
 ![](/assets/ai4-c2.assets/Schedule.png)
@@ -310,7 +319,7 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 
 **Office hours**: 
 
-- Mondays: ```6:30 PM - 7:30 PM [ 9:00 AM - 10:00 AM EST ]``` 
+- Mondays: ```6:30 PM - 7:30 PM [ 9:00 AM - 10:00 AM EST ]``` -->
 
 ### Course Pre-Requisites 
 
@@ -378,5 +387,5 @@ We wish you best of luck for your data science journey.
 ## Links to previous cohorts
 
 - [Cohort 1](/catalog/cohort1/ai4/)
-
+- [Cohort 2](/catalog/cohort2/ai4/)
 
