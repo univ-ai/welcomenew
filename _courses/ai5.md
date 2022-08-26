@@ -1,7 +1,7 @@
 ---
 title: "AI-5"
 permalink: /courses/ai5/
-cycle: c1
+cycle: c2
 kind: course
 excerpt: Productionizing AI (MLOps)
 sequence: 8
@@ -12,6 +12,178 @@ header:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+  .modal {
+    background: transparent;
+  }
+  .ta-img {
+    zoom:55%; 
+    border: 1px solid black; 
+    border-radius: 2em; 
+    margin-right: 1em; 
+    height:225px;
+  }
+  .circular--portrait { 
+    width: 5.7rem; 
+    height: 5.7rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  .circular--portrait-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 50%;
+    padding: 0.5rem;
+  }
+  .img-border:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular--portrait { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+</style>
+
+<!-- TA Modal Section -->
+<style>
+  .modal-margin {
+    margin: 0 auto;
+  }
+
+  .modal {
+    background: transparent;
+  }
+
+</style>
+
+<!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
+          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
+          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#VishnuModal').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="ArazModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Araz Sharma</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/ArazSharma.jpeg" alt="Araz" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Araz is working as a Machine Learning Engineer at Leena AI & is part of the StellarDNN Research Lab under Professor Pavlos.</li>
+<li>He’s a passionate participant & winner of several National and International Hackathons and loves to innovate on the fly!</li>
+<li>You would often find him lost in his novels, or musing and writing articles & poetry in his free time!</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#ArazModal').appendTo('body');
+</script>
+
+<!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="PadmajaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Padmaja Bhagawat</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/PadmajaBhagawat.jpeg" alt="Padmaja" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Padmaja works a data scientist at Glance. Previously she has worked at VMware as a Software developer.</li>
+          <li>She has experience building ML models for large scale data.</li>
+          <li>She has built a couple of ML based open source SaaS application for use cases like Churn analysis, Visual Question Answering, etc.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script>
+     $('#PadmajaModal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
+<li>She is a deep learning enthusiast and a final year undergrad at JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
+<li>Currently, she is also working on building a SportsTech startup.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+     $('#AnshikaModal').appendTo('body');
+</script>
+<!-------------------------------------------------------------------------------------------------------------------------->
+
 >Your journey in Deep Learning has lead you here. 
 >You are now an expert at building everything from computer vision to language to generative to reinforcement models. 
 >Those awesome models you trained now sit in notebook files right? 
@@ -33,22 +205,20 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 
 ### Dr. Pavlos Protopapas
 
-<img src="/assets/images/people/PavlosProtopapas.jpeg" style="width:300px;" />
+<!-- <img src="/assets/images/people/PavlosProtopapas.jpeg" style="width:300px;" /> -->
 
-- Scientific Director of the Institute for
-  Applied Computational Science (IACS).
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
+
+- Scientific Director of the Institute for Applied Computational Science (IACS).
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2020-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2021-CS109B/)) and Advanced Practical Data Science ([AC295](https://harvard-iacs.github.io/2020F-AC295/)).
-- He is a leader in
-  astrostatistics and he is excited about
-  the new telescopes coming online in
-  the next few years. 
+- He is a leader in Astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can <a href="https://www.univ.ai/team/pavlos-protopapas-2" target="_blank">read more about him here</a>.
 
 
 ### Shivas Jayaram
 
-<img src="/assets/images/people/ShivasJayaram.jpg" style="width:300px;" />
+<img src="/assets/images/people/ShivasJayaram.jpg" style="width:220px;" />
 
 * Researcher @Harvard IACS and Deep Learning Practitioner
 * Masters in Data Science from Harvard University
@@ -58,6 +228,36 @@ You can <a href="https://www.univ.ai/team/pavlos-protopapas-2" target="_blank">r
 
 You can <a href="https://www.linkedin.com/in/shivasj/" target="_blank">read more about him here</a>.
 
+### Teaching Assistants
+
+*Click on avatars of the TAs to know more about them.*
+<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+    </div>
+  </div>
+  
+  <div class="img-border" style="grid-column: 3/4;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
+  </div>
+
+
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/ArazSharma.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#ArazModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/PadmajaBhagawat.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#PadmajaModal"/>
+    </div>
+  </div>
+</div>
+
 
 ## The Coursework
 
@@ -66,15 +266,14 @@ We have very carefully designed the coursework to give you, the student, a whole
 
 Each week shall include:
 
--  2 Sessions
--  2 Labs
+-  1 Session
 -  Office hours
 
 ### Session - What to expect
 
 ![](/assets/images/Session.png)
 
-Before the session beginss, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
 A session will have the following pedagogy layout which will be repeated three times:
 
@@ -85,25 +284,98 @@ A session will have the following pedagogy layout which will be repeated three t
 
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
-### Lab - What to expect
-
-![](/assets/images/Lab.png)
-
-A lab is a one hour session that is divided into 3 major parts. 
-
-- Each lab begins by revisiting the 
-  Quizzes and Exercises done in the previous lecture session. 
-- After discussing exercises,
-  we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
-  and homeworks are welcome.
-
-- The last part of the labs deals predominantly with the upcoming homeworks. It is 
-  directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
-
 
 ### Topics
 
-<table style="width:800px;"><tr><th>Module</th><th></th><th>Concepts</th></tr><tr><td colspan=3><strong>Project Outline</strong></td></tr><tr><td></td><td>Introduction to Projects</td><td><ul><li>Problem Definition</li><li>Proposed Solutions</li><li>Project Scope</li></ul></td></tr><tr><td colspan=3><strong>Deep Learning</strong></td></tr><tr><td></td><td>Data</td><td><ul><li>Data Pipelines</li><li>Tensorflow Data</li><li>Tensorflow Records</li><li>Dask</li><li>Cloud Storage Buckets</li></ul></td></tr><tr><td></td><td>Models</td><td><ul><li>Computer Vision: Classification</li><li>Computer Vision: Segmentation</li><li>NLP & Language Models</li><li>Transfer Learning and SOTA Models</li><li>Distillation and Compression</li></ul></td></tr><tr><td colspan=3><strong>Development</strong></td></tr><tr><td></td><td>Design</td><td><ul><li>Virtual Environments, Virtual Boxes, and Containers</li><li>Containerization  & Docker</li><li>App Design</li></ul></td></tr><tr><td></td><td>Develop</td><td><ul><li>Setup and Code organization</li><li>APIs and Model serving</li><li>App frontend</li></ul></td></tr><tr><td colspan=3><strong>Operations</strong></td></tr><tr><td></td><td>Deployment, Scaling, & Automation</td><td><ul><li>Google Cloud Platform (GCP)</li><li>Kubernetes</li><li>Ansible</li></ul></td></tr></table>
+<table style="width:800px;">
+  <tr>
+    <th>Module</th>
+    <th></th>
+    <th>Concepts</th>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Project Outline</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Introduction to Projects</td>
+    <td>
+      <ul>
+        <li>Problem Definition</li>
+        <li>Proposed Solutions</li>
+        <li>Project Scope</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Deep Learning</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Data</td>
+    <td>
+      <ul>
+        <li>Data Pipelines</li>
+        <li>Tensorflow Data</li>
+        <li>Tensorflow Records</li>
+        <li>Dask</li>
+        <li>Cloud Storage Buckets</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Models</td>
+    <td>
+      <ul>
+        <li>Computer Vision: Classification</li>
+        <li>Computer Vision: Segmentation</li>
+        <li>NLP & Language Models</li>
+        <li>Transfer Learning and SOTA Models</li>
+        <li>Distillation and Compression</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Development</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Design</td>
+    <td>
+      <ul>
+        <li>Virtual Environments, Virtual Boxes, and Containers</li>
+        <li>Containerization  & Docker</li>
+        <li>App Design</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Develop</td>
+    <td>
+      <ul>
+        <li>Setup and Code organization</li>
+        <li>APIs and Model serving</li>
+        <li>App frontend</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Operations</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Deployment, Scaling, & Automation</td>
+    <td>
+      <ul>
+        <li>Google Cloud Platform (GCP)</li>
+        <li>Kubernetes</li>
+        <li>Ansible</li>
+      </ul>
+    </td>
+  </tr>
+  </table>
 <br><br>
 
 ### Projects
@@ -122,59 +394,100 @@ During the entire course you will work in teams and implement a project. The var
 
 <br>
 Here are some of the projects:
+
+
+<table style="width:600px;">
+  <tr>
+    <th colspan=2>Mushroom Identification (In class demo)</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding:20px; width:50%;">
+      <ul>
+        <li>Pavlos likes to go the forest for mushroom picking</li>
+        <li>Some mushrooms can be poisonous</li>
+        <li>Help build an app to identify mushroom type and if poisonous or not</li>
+      </ul>
+    </td>
+    <td>
+      <img src='/assets/ai5-c1.assets/mushroomapp.png' style="width:300px;">
+    </td>
+  </tr>
+</table>
 <br><br>
-<table style="width:600px;"><tr><th colspan=2>Mushroom Identification (In class demo)</th></tr><tr><td style="vertical-align: top; padding:20px; width:50%;"><ul><li>Pavlos likes to go the forest for mushroom picking</li><li>Some mushrooms can be poisonous</li><li>Help build an app to identify mushroom type and if poisonous or not</li><ul></td><td><img src='/assets/ai5-c1.assets/mushroomapp.png' style="width:300px;"></td></tr></table><br><br><table style="width:600px;"><tr> <th colspan=2>Austin Pets Alive (APA)</th></tr><tr><td style="vertical-align: top; padding:20px; width:50%;"><ul><li>APA is an association of pet owners</li><li>They would like to help future dog owners find a dog who is a perfect fit for them</li><li>Help build an app that can help owners find the right pet</li><ul></td><td><img src='/assets/ai5-c1.assets/petsapp.png' style="width:300px;"></td></tr></table><br><br><table style="width:600px;"><tr> <th colspan=2>Visual Question Answering</th></tr><tr><td style="vertical-align: top; padding:20px; width:50%;"><ul><li>The VQA dataset contains open-ended questions about images</li><ul></td><td><img src='/assets/ai5-c1.assets/vqaapp.png' style="width:300px;"></td></tr></table>
+<table style="width:600px;">
+  <tr> 
+    <th colspan=2>Austin Pets Alive (APA)</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding:20px; width:50%;">
+      <ul>
+        <li>APA is an association of pet owners</li>
+        <li>They would like to help future dog owners find a dog who is a perfect fit for them</li>
+        <li>Help build an app that can help owners find the right pet</li>
+      </ul>
+    </td>
+    <td>
+      <img src='/assets/ai5-c1.assets/petsapp.png' style="width:300px;">
+    </td>
+  </tr>
+</table>
 <br><br>
+<table style="width:600px;">
+  <tr> 
+    <th colspan=2>Visual Question Answering</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding:20px; width:50%;">
+      <ul>
+        <li>The VQA dataset contains open-ended questions about images</li>
+      </ul>
+    </td>
+    <td>
+      <img src='/assets/ai5-c1.assets/vqaapp.png' style="width:300px;">
+    </td>
+  </tr>
+</table>
+<br><br>
+
 Please find a more detailed summary of all <a href="https://docs.google.com/document/d/1tC1k8XX1RjxxH7Ojay1lqSBTx-oYtMM67oOMyNsA4bU/edit?usp=sharing" target="_blank">projects here</a>.
 
 
 
 ## The Class
 
-### Welcome Session - Preparing for this class 
+![](/assets/ai5-c3.assets/Schedule.png)
 
-There will be a **Welcome Session** scheduled on ```Monday, 9th August 2021``` at ``` 7:30 PM``` IST for all registered students. 
-Please check your mail for more information.
-
-
-### High level course schedule 
-
-![](/assets/ai5-c1.assets/schedule.png)
-
-
-*NOTE*: Below timings are in IST
 
 **Lecture Sessions**: 
 
-- Tuesday Series: ```7:30 PM - 9:00 PM IST [ 10:00 AM - 11:30 AM EST ]```  
+- Saturday Series: ```8:30 PM - 10:30 PM IST [ 11:00 AM - 01:00 PM EST ]```  
 
-- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 AM EST ]```
-
-**Lab Sessions**: 
-
-- Wednesday Series: ```7:30 PM - 9:00 PM IST [ 10:00 AM - 11:30 AM ] ``` 
-
-- Sunday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 AM EST ]```
 
 **Office hours**: 
 
-- Mondays: ```7:30 PM - 8:30 PM [ 10:00 AM - 11:00 AM EST ]```
+- Tuesday : ```9:00 PM - 10:00 PM [ 11:30 AM - 12:30 PM EST ]```
+
+Please check your mail for more information regarding the platform and the course.
+<br>
+<br>
 
 ### Course Pre-Requisites 
-
+<br>
 Your are expected to know the following:  
 * Good working knowledge of python  
 * Good understanding on the `Tensorflow` Deep Learning framework  
 * Basic shell commands  
-
+<br>
 
 #### Install Docker 
 Install [`Docker Desktop`](https://www.docker.com/products/docker-desktop) for your operating system. 
+<br>
 
 #### Install VSCode  
 Follow the [instructions](https://code.visualstudio.com/download) for your operating system.  
 If you already have a preferred text editor, skip this step.  
 
+<br>
 
 ## Diversity & Inclusion
 
@@ -191,11 +504,14 @@ Reference:
 
 [1] K. Stathoulopoulos and J. C. Mateos-Garcia, “Gender Diversity in AI Research,” SSRN Electronic Journal, 2019 [Online]. Available: [http://dx.doi.org/10.2139/ssrn.3428240](https://dx.doi.org/10.2139/ssrn.3428240).
 
+<br>
+
 ## Logistics - What you need to begin?
 
 We assume you have a [Univ.AI](https://course.univ.ai) account, created when you signed up at [course.univ.ai](https://courses.univ.ai). 
 If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
+<br>
 
 ### Education software we use
 
@@ -229,7 +545,7 @@ ul {
   margin-top: 0;
   margin-bottom: 0;
 }
-</style>unicate your findings
+</style>
 
 
 ## Links to previous cohorts 
