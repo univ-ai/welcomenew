@@ -100,7 +100,95 @@ A lab is a one hour session that is divided into 3 major parts.
 
 ### Topics
 
-<table style="width:800px;"><tr><th>Module</th><th></th><th>Concepts</th></tr><tr><td colspan=3><strong>Project Outline</strong></td></tr><tr><td></td><td>Introduction to Projects</td><td><ul><li>Problem Definition</li><li>Proposed Solutions</li><li>Project Scope</li></ul></td></tr><tr><td colspan=3><strong>Deep Learning</strong></td></tr><tr><td></td><td>Data</td><td><ul><li>Data Pipelines</li><li>Tensorflow Data</li><li>Tensorflow Records</li><li>Dask</li><li>Cloud Storage Buckets</li></ul></td></tr><tr><td></td><td>Models</td><td><ul><li>Computer Vision: Classification</li><li>Computer Vision: Segmentation</li><li>NLP & Language Models</li><li>Transfer Learning and SOTA Models</li><li>Distillation and Compression</li></ul></td></tr><tr><td colspan=3><strong>Development</strong></td></tr><tr><td></td><td>Design</td><td><ul><li>Virtual Environments, Virtual Boxes, and Containers</li><li>Containerization  & Docker</li><li>App Design</li></ul></td></tr><tr><td></td><td>Develop</td><td><ul><li>Setup and Code organization</li><li>APIs and Model serving</li><li>App frontend</li></ul></td></tr><tr><td colspan=3><strong>Operations</strong></td></tr><tr><td></td><td>Deployment, Scaling, & Automation</td><td><ul><li>Google Cloud Platform (GCP)</li><li>Kubernetes</li><li>Ansible</li></ul></td></tr></table>
+<table style="width:800px;">
+  <tr>
+    <th>Module</th>
+    <th></th>
+    <th>Concepts</th>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Project Outline</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Introduction to Projects</td>
+    <td>
+      <ul>
+        <li>Problem Definition</li>
+        <li>Proposed Solutions</li>
+        <li>Project Scope</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Deep Learning</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Data</td>
+    <td>
+      <ul>
+        <li>Data Pipelines</li>
+        <li>Tensorflow Data</li>
+        <li>Tensorflow Records</li>
+        <li>Dask</li>
+        <li>Cloud Storage Buckets</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Models</td>
+    <td>
+      <ul>
+        <li>Computer Vision: Classification</li>
+        <li>Computer Vision: Segmentation</li>
+        <li>NLP & Language Models</li>
+        <li>Transfer Learning and SOTA Models</li>
+        <li>Distillation and Compression</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Development</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Design</td>
+    <td>
+      <ul>
+        <li>Virtual Environments, Virtual Boxes, and Containers</li>
+        <li>Containerization  & Docker</li>
+        <li>App Design</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Develop</td>
+    <td>
+      <ul>
+        <li>Setup and Code organization</li>
+        <li>APIs and Model serving</li>
+        <li>App frontend</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3><strong>Operations</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Deployment, Scaling, & Automation</td>
+    <td>
+      <ul>
+        <li>Google Cloud Platform (GCP)</li>
+        <li>Kubernetes</li>
+        <li>Ansible</li>
+      </ul>
+    </td>
+  </tr>
+  </table>
 <br><br>
 
 ### Projects
@@ -117,65 +205,59 @@ During the entire course you will work in teams and implement a project. The var
     * Dataset size 5 Gigabytes or larger
     * Data should include images and text
 
-<br>
-Here are some of the projects:
-<br>
-<br>
 <table style="width:600px;">
-<tr>
-    <th colspan="2">Mushroom Identification (In class demo)</th>
-</tr>
-<tr>
-<td style="vertical-align: top; padding:20px; width:50%;">
-<ul>
-<li>Pavlos likes to go the forest for mushroom picking</li>
-<li>Some mushrooms can be poisonous</li>
-<li>Help build an app to identify mushroom type and if poisonous or not</li>
-<ul>
-</td>
-<td>
-<img src='/assets/ai5-c1.assets/mushroomapp.png' style="width:300px;">
-</td>
-</tr>
+  <tr>
+    <th colspan=2>Mushroom Identification (In class demo)</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding:20px; width:50%;">
+      <ul>
+        <li>Pavlos likes to go the forest for mushroom picking</li>
+        <li>Some mushrooms can be poisonous</li>
+        <li>Help build an app to identify mushroom type and if poisonous or not</li>
+      </ul>
+    </td>
+    <td>
+      <img src='/assets/ai5-c1.assets/mushroomapp.png' style="width:300px;">
+    </td>
+  </tr>
 </table>
-<br>
-<br>
-
+<br><br>
 <table style="width:600px;">
-<tr>
-    <th colspan="2">Austin Pets Alive (APA)</th>
-</tr>
-<tr>
-<td style="vertical-align: top; padding:20px; width:50%;">
-<ul>
-<li>APA is an association of pet owners</li>
-<li>They would like to help future dog owners find a dog who is a perfect fit for them</li>
-<li>Help build an app that can help owners find the right pet</li>
-<ul>
-</td>
-<td>
-<img src='/assets/ai5-c1.assets/petsapp.png' style="width:300px;">
-</td>
-</tr>
+  <tr> 
+    <th colspan=2>Austin Pets Alive (APA)</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding:20px; width:50%;">
+      <ul>
+        <li>APA is an association of pet owners</li>
+        <li>They would like to help future dog owners find a dog who is a perfect fit for them</li>
+        <li>Help build an app that can help owners find the right pet</li>
+      </ul>
+    </td>
+    <td>
+      <img src='/assets/ai5-c1.assets/petsapp.png' style="width:300px;">
+    </td>
+  </tr>
+</table>
+<br><br>
+<table style="width:600px;">
+  <tr> 
+    <th colspan=2>Visual Question Answering</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; padding:20px; width:50%;">
+      <ul>
+        <li>The VQA dataset contains open-ended questions about images</li>
+      </ul>
+    </td>
+    <td>
+      <img src='/assets/ai5-c1.assets/vqaapp.png' style="width:300px;">
+    </td>
+  </tr>
 </table>
 <br><br>
 
-<table style="width:600px;">
-<tr>
-    <th colspan="2">Visual Question Answering</th>
-</tr>
-<tr>
-<td style="vertical-align: top; padding:20px; width:50%;">
-<ul>
-<li>The VQA dataset contains open-ended questions about images</li>
-<ul>
-</td>
-<td>
-<img src='/assets/ai5-c1.assets/vqaapp.png' style="width:300px;">
-</td>
-</tr>
-</table>
-<br><br>
 Please find a more detailed summary of all <a href="https://docs.google.com/document/d/1tC1k8XX1RjxxH7Ojay1lqSBTx-oYtMM67oOMyNsA4bU/edit?usp=sharing" target="_blank">projects here</a>.
 
 

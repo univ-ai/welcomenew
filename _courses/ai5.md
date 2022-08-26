@@ -1,7 +1,7 @@
 ---
 title: "AI-5"
 permalink: /courses/ai5/
-cycle: c2
+cycle: c3
 kind: course
 excerpt: Productionizing AI (MLOps)
 sequence: 8
@@ -88,8 +88,8 @@ header:
         <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
           <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
-          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
-          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
+          <li>He is a Computer Vision enthusiast and has recently completed his undergraduation from JECRC University, Jaipur.</li>
+          <li>Currently, he is also working as a research assistant in the StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
         </ul>
       </div>
     </div>
@@ -169,7 +169,7 @@ header:
 <center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
-<li>She is a deep learning enthusiast and a final year undergrad at JECRC University, Jaipur.</li>
+<li>She is a deep learning enthusiast and a recent undergraduate from JECRC University, Jaipur.</li>
 <li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
 <li>Currently, she is also working on building a SportsTech startup.</li>
 </ul>
@@ -195,9 +195,7 @@ Welcome to AI5.
 
 This course aims to review existing Deep Learning flow while applying it to a real-world problem. Then we will build and deploy an application that uses the deep learning model to understand how to productionize models.  This course follows the Univ.AI model of balancing between concept, theory, and implementation.
 
-Split into three parts; the course starts with the review of Deep Learning concepts for data and modeling and how to apply them to different tasks, including vision and language tasks. The next part will be Development, where you use the models you trained in part 1 and incorporate them into real-world applications. Finally, you will Deploy the application in Google Cloud Platform (GCP). The three parts will cover in detail topics such as Transfer learning, Containerization using Docker, and Scaling deployments using Kubernetes.
-
-At the end of this module, you will build efficient deep learning models and design, build and deploy applications that scale.
+At the end of this course, you will build efficient models and design, build and deploy applications that scale.
 
 This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
 
@@ -220,9 +218,9 @@ You can <a href="https://www.univ.ai/team/pavlos-protopapas-2" target="_blank">r
 
 <img src="/assets/images/people/ShivasJayaram.jpg" style="width:220px;" />
 
+* Co-Founder and CTO of Deep Learning startup 
 * Researcher @Harvard IACS and Deep Learning Practitioner
 * Masters in Data Science from Harvard University
-* Previously, co founder and CTO of a Deep Learning startup 
 * Prior to that helped build up a data science team at a manufacturing company
 * Over 15 years of Solution Architecture and Development experience
 
@@ -287,170 +285,7 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Topics
 
-<table style="width:800px;">
-  <tr>
-    <th>Module</th>
-    <th></th>
-    <th>Concepts</th>
-  </tr>
-  <tr>
-    <td colspan=3><strong>Project Outline</strong></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Introduction to Projects</td>
-    <td>
-      <ul>
-        <li>Problem Definition</li>
-        <li>Proposed Solutions</li>
-        <li>Project Scope</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=3><strong>Deep Learning</strong></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Data</td>
-    <td>
-      <ul>
-        <li>Data Pipelines</li>
-        <li>Tensorflow Data</li>
-        <li>Tensorflow Records</li>
-        <li>Dask</li>
-        <li>Cloud Storage Buckets</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Models</td>
-    <td>
-      <ul>
-        <li>Computer Vision: Classification</li>
-        <li>Computer Vision: Segmentation</li>
-        <li>NLP & Language Models</li>
-        <li>Transfer Learning and SOTA Models</li>
-        <li>Distillation and Compression</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=3><strong>Development</strong></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Design</td>
-    <td>
-      <ul>
-        <li>Virtual Environments, Virtual Boxes, and Containers</li>
-        <li>Containerization  & Docker</li>
-        <li>App Design</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Develop</td>
-    <td>
-      <ul>
-        <li>Setup and Code organization</li>
-        <li>APIs and Model serving</li>
-        <li>App frontend</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=3><strong>Operations</strong></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Deployment, Scaling, & Automation</td>
-    <td>
-      <ul>
-        <li>Google Cloud Platform (GCP)</li>
-        <li>Kubernetes</li>
-        <li>Ansible</li>
-      </ul>
-    </td>
-  </tr>
-  </table>
-<br><br>
-
-### Projects
-
-During the entire course you will work in teams and implement a project. The various topics in the class are designed to help you build milestones in an incremental fashion and build towards the end goal. The final outcome with your project will be  a fully working AI App.
-
-* Project groups need to be formed by the first week of class
-* Group size : 4
-* Select a project from the list given or bring your own
-* Criteria for projects are:
-    * Deep learning task implemented should include both computer vision and language models
-    * The end product should be a deployable app that uses the models in the backend in some form
-* If you plan to bring your own project idea, the following additional criteria must be met:
-    * Dataset size 5 Gigabytes or larger
-    * Data should include images and text
-
-<br>
-Here are some of the projects:
-
-
-<table style="width:600px;">
-  <tr>
-    <th colspan=2>Mushroom Identification (In class demo)</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding:20px; width:50%;">
-      <ul>
-        <li>Pavlos likes to go the forest for mushroom picking</li>
-        <li>Some mushrooms can be poisonous</li>
-        <li>Help build an app to identify mushroom type and if poisonous or not</li>
-      </ul>
-    </td>
-    <td>
-      <img src='/assets/ai5-c1.assets/mushroomapp.png' style="width:300px;">
-    </td>
-  </tr>
-</table>
-<br><br>
-<table style="width:600px;">
-  <tr> 
-    <th colspan=2>Austin Pets Alive (APA)</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding:20px; width:50%;">
-      <ul>
-        <li>APA is an association of pet owners</li>
-        <li>They would like to help future dog owners find a dog who is a perfect fit for them</li>
-        <li>Help build an app that can help owners find the right pet</li>
-      </ul>
-    </td>
-    <td>
-      <img src='/assets/ai5-c1.assets/petsapp.png' style="width:300px;">
-    </td>
-  </tr>
-</table>
-<br><br>
-<table style="width:600px;">
-  <tr> 
-    <th colspan=2>Visual Question Answering</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding:20px; width:50%;">
-      <ul>
-        <li>The VQA dataset contains open-ended questions about images</li>
-      </ul>
-    </td>
-    <td>
-      <img src='/assets/ai5-c1.assets/vqaapp.png' style="width:300px;">
-    </td>
-  </tr>
-</table>
-<br><br>
-
-Please find a more detailed summary of all <a href="https://docs.google.com/document/d/1tC1k8XX1RjxxH7Ojay1lqSBTx-oYtMM67oOMyNsA4bU/edit?usp=sharing" target="_blank">projects here</a>.
-
+![](/assets/ai5-c3.assets/Content.png)
 
 
 ## The Class
@@ -486,7 +321,6 @@ Install [`Docker Desktop`](https://www.docker.com/products/docker-desktop) for y
 #### Install VSCode  
 Follow the [instructions](https://code.visualstudio.com/download) for your operating system.  
 If you already have a preferred text editor, skip this step.  
-
 <br>
 
 ## Diversity & Inclusion
@@ -516,8 +350,12 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 ### Education software we use
 
 - Our lectures and labs are carried out via [Zoom](/support/zoom/) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
+- Quizzes will be conducted on the digital learning platform [Ed](/support/edstem/).
 - All exercises and homeworks in this course will be done/submitted in Google Colab or GitHub code repos.
+
+All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
+
+Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
 
 <style>
 table {
