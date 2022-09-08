@@ -54,15 +54,15 @@ Here is the current schedule for all our workshops.
   <area shape="rect" class="area" coords="638,250,934,313" alt="SQL2" title="The SQL Series : Part 2" data-toggle="modal" data-target="#Sql2Modal">
   <area shape="rect" class="area" coords="638,313,934,375" alt="SQL3" title="The SQL Series : Part 3" data-toggle="modal" data-target="#Sql3Modal">
   <area shape="rect" class="area" coords="638,375,934,439" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
-  <area shape="rect" class="area" coords="638,439,934,503" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2">
+  <area shape="rect" class="area" coords="638,439,934,503" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2Modal">
   <area shape="rect" class="area" coords="638,503,934,567" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
   <area shape="rect" class="area" coords="638,567,934,631" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
   <area shape="rect" class="area" coords="638,631,934,692" alt="CV Workshop" title="CV Workshop" data-toggle="modal" data-target="#CVWorkshopModal">
   <area shape="rect" class="area" coords="638,692,934,757" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,757,934,836" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
-  <area shape="rect" class="area" coords="638,836,934,915" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
-   <area shape="rect" class="area" coords="638,915,934,994" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
-    <area shape="rect" class="area" coords="638,994,934,1073" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
+  <area shape="rect" class="area" coords="638,757,934,822" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
+  <area shape="rect" class="area" coords="638,822,934,887" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
+   <area shape="rect" class="area" coords="638,887,934,952" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
+    <area shape="rect" class="area" coords="638,952,934,1017" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
 </map> 
 </div>
 
@@ -104,7 +104,8 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>How to tackle some commonly encountered Interview Coding Questions interspersed with concrete examples, tips and suggestions.</p>
+        <p>How to tackle some commonly encountered Data Stucture realted Interview Questions interspersed with concrete examples, tips and suggestions.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -132,6 +133,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>This workshop discusses Database related common Interview Coding Questions , building upon the previous session.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -164,7 +166,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZMof-qsqTguGdMtyHfe1-pENvDjZEAvvWdg'">Register</button></center>
       </div>
     </div>
   </div>
@@ -186,6 +188,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p> An introduction to Physics-Informed Neural Networks. As the title suggests, these Deep Networks are informed by any given law in Physics (a nonlinear partial differential equation) to address supervised learning tasks .</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Pavlos Protopapas</h6>
         <img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -213,6 +216,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>This is Part 1 of a three part series on SQL. An [un]course within an [un]course, a nested [un]course if you will! <br> We introduce you to relational databases, and sqlite in particular. The basics of SQL querying are covered, and contrasted with Pandas, thus establishing a common data access model for tabular data.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px"><br><br>
         <h6>Timings</h6>
@@ -240,6 +244,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>Part 2 of the 3 part SQL series, this workshop dives into the "relational" part of databases. We cover indexes, joins, and subqueries, and offer some tips on when to use relational databases, and when to use NoSQL databases.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -267,6 +272,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>The final part of our 3 part SQL mini [un]course. We "join" all our "relational" learning and address all your "quries" hands-on!.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -294,6 +300,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. Part 1 of this workshop will serve as a launching pad to get you started with your very own dashboards.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Kshitij Parwani</h6>
         <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -321,6 +328,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>Building on Tableau : Part 1, Part 2 is designed to get your interactive dashboards presentation ready!.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Kshitij Parwani</h6>
         <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -348,6 +356,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>Three Dimensional Convolutional Neural Networks can go beyond 2D images and incorporate volumetric information (like CT scans) or even temporal information (such as event detection in Videos). Features can be extracted from both spatial and temporal dimensions using 3D convolutions.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -375,6 +384,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Siddharth Das</h6>
         <img src="/assets/images/people/SiddharthDas.jpg" alt="Sid" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -402,6 +412,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -429,6 +440,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -455,7 +467,8 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>Text here</p>
+        <p>To be updated soon.</p>
+        <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
