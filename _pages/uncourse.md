@@ -49,12 +49,12 @@ Here is the current schedule for all our workshops.
 
 <map name="workmap">
   <area shape="rect" class="area" coords="638,64,934,124" alt="Stream-lit" title="Stream-lit" data-toggle="modal" data-target="#Stream-litModal">
-  <area shape="rect" class="area" coords="638,124,934,186" alt="Interview Coding Questions" title="Interview Coding Questions - 1" data-toggle="modal" data-target="#InterviewCodingQuestions_1Modal">
-  <area shape="rect" class="area" coords="638,189,934,250" alt="Interview Coding Questions" title="Interview Coding Questions - 2" data-toggle="modal" data-target="#InterviewCodingQuestions_2Modal">
-  <area shape="rect" class="area" coords="638,250,934,313" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
+  <area shape="rect" class="area" coords="638,124,934,186" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
+  <area shape="rect" class="area" coords="638,189,934,250" alt="SQL1" title="Database and SQL" data-toggle="modal" data-target="#Sql1Modal">
+  <area shape="rect" class="area" coords="638,250,934,313" alt="SQL2" title="More SQL" data-toggle="modal" data-target="#Sql2Modal">
   <area shape="rect" class="area" coords="638,313,934,375" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,375,934,439" alt="SQL1" title="SQL1" data-toggle="modal" data-target="#Sql1Modal">
-  <area shape="rect" class="area" coords="638,439,934,503" alt="SQL2" title="SQL2" data-toggle="modal" data-target="#Sql2Modal">
+  <area shape="rect" class="area" coords="638,375,934,439" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
+  <area shape="rect" class="area" coords="638,439,934,503" alt="DBInterview" title="Data Base Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
   <area shape="rect" class="area" coords="638,503,934,567" alt="Tableau" title="Tableau" data-toggle="modal" data-target="#TableauModal">
   <area shape="rect" class="area" coords="638,567,934,631" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
   <area shape="rect" class="area" coords="638,631,934,692" alt="CV Workshop" title="CV Workshop" data-toggle="modal" data-target="#CVWorkshopModal">
@@ -76,8 +76,8 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>We introduce you to Stream-lit, a quick open-source python framework for building web apps for your data science / ML projects.</p>
-        <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px">--><br><br>
+        <center><h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px"><br><br>
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
@@ -92,11 +92,11 @@ Here is the current schedule for all our workshops.
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="InterviewCodingQuestions_1Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="DSInterviewModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Interview Coding Questions 1</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Data Structures Interview Questions</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
@@ -115,23 +115,23 @@ Here is the current schedule for all our workshops.
 </div>
 </div>
 <script>
-     $('#InterviewCodingQuestions_1Modal').appendTo('body');
+     $('#DSInterviewModal').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="InterviewCodingQuestions_2Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="DBInterviewModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Interview Coding Questions 2</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Database Interview Questions </h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
         <p>This workshop dives further into the common Interview Coding Questions , building upon the previous session.</p>
-        <center><!--<h6>Instructor: Cristobal Donoso-Oliva</h6>
-        <img src="/assets/images/people/CristobalDonoso.jpg" alt="Cristobal" style="height:200px;margin-right:15px;">--><br><br>
+        <center><h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
@@ -142,7 +142,7 @@ Here is the current schedule for all our workshops.
 </div>
 </div>
 <script>
-     $('#InterviewCodingQuestions_2Modal').appendTo('body');
+     $('#DBInterviewModal').appendTo('body');
 </script>
 
 <div class="container">
