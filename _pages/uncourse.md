@@ -50,19 +50,19 @@ Here is the current schedule for all our workshops.
 <map name="workmap">
   <area shape="rect" class="area" coords="638,64,934,124" alt="Stream-lit" title="Stream-lit" data-toggle="modal" data-target="#Stream-litModal">
   <area shape="rect" class="area" coords="638,124,934,186" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
-  <area shape="rect" class="area" coords="638,189,934,250" alt="SQL1" title="The SQL Series : Part 1" data-toggle="modal" data-target="#Sql1Modal">
-  <area shape="rect" class="area" coords="638,250,934,313" alt="SQL2" title="The SQL Series : Part 2" data-toggle="modal" data-target="#Sql2Modal">
-  <area shape="rect" class="area" coords="638,313,934,375" alt="SQL3" title="The SQL Series : Part 3" data-toggle="modal" data-target="#Sql3Modal">
-  <area shape="rect" class="area" coords="638,375,934,439" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
-  <area shape="rect" class="area" coords="638,439,934,503" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2Modal">
-  <area shape="rect" class="area" coords="638,503,934,567" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
-  <area shape="rect" class="area" coords="638,567,934,631" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
-  <area shape="rect" class="area" coords="638,631,934,692" alt="CV Workshop" title="CV Workshop" data-toggle="modal" data-target="#CVWorkshopModal">
-  <area shape="rect" class="area" coords="638,692,934,757" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,757,934,822" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
-  <area shape="rect" class="area" coords="638,822,934,887" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
-   <area shape="rect" class="area" coords="638,887,934,952" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
-    <area shape="rect" class="area" coords="638,952,934,1017" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
+  <area shape="rect" class="area" coords="638,186,934,248" alt="SQL1" title="The SQL Series : Part 1" data-toggle="modal" data-target="#Sql1Modal">
+  <area shape="rect" class="area" coords="638,248,934,310" alt="SQL2" title="The SQL Series : Part 2" data-toggle="modal" data-target="#Sql2Modal">
+  <area shape="rect" class="area" coords="638,310,934,372" alt="SQL3" title="The SQL Series : Part 3" data-toggle="modal" data-target="#Sql3Modal">
+  <area shape="rect" class="area" coords="638,372,934,434" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
+  <area shape="rect" class="area" coords="638,434,934,496" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2Modal">
+  <area shape="rect" class="area" coords="638,496,934,558" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
+  <area shape="rect" class="area" coords="638,558,934,620" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
+  <area shape="rect" class="area" coords="638,620,934,682" alt="CV Workshop" title="CV Workshop" data-toggle="modal" data-target="#CVWorkshopModal">
+  <area shape="rect" class="area" coords="638,682,934,744" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
+  <area shape="rect" class="area" coords="638,744,934,806" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
+  <area shape="rect" class="area" coords="638,806,934,868" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
+   <area shape="rect" class="area" coords="638,868,934,930" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
+    <area shape="rect" class="area" coords="638,930,934,992" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
 </map> 
 </div>
 
@@ -215,7 +215,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>This is Part 1 of a three part series on SQL. An [un]course within an [un]course, a nested [un]course if you will! <br> We introduce you to relational databases, and sqlite in particular. The basics of SQL querying are covered, and contrasted with Pandas, thus establishing a common data access model for tabular data.</p>
+        <p>This is Part 1 of a three part series on SQL. An [un]course within an [un]course, a nested [un]course if you will! </p> <p> We introduce you to relational databases, and sqlite in particular. The basics of SQL querying are covered, and contrasted with Pandas, thus establishing a common data access model for tabular data.</p>
         <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px"><br><br>
@@ -243,7 +243,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>Part 2 of the 3 part SQL series, this workshop dives into the "relational" part of databases. We cover indexes, joins, and subqueries, and offer some tips on when to use relational databases, and when to use NoSQL databases.</p>
+        <p>Part 2 of the 3 part SQL series, this workshop dives into the "relational" part of databases. </p> <p> We cover indexes, joins, and subqueries, and offer some tips on when to use relational databases, and when to use NoSQL databases.</p>
         <p>Registeration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
@@ -299,7 +299,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. Part 1 of this workshop will serve as a launching pad to get you started with your very own dashboards.</p>
+        <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. </p> <p> Part 1 of this workshop will serve as a launching pad to get you started with your very own dashboards.</p>
         <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Kshitij Parwani</h6>
         <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
