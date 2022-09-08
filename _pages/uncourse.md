@@ -43,24 +43,26 @@ Here is the current schedule for all our workshops.
 *(Click on the topic cell of the workshop table to know more)*
 <div class="container">
 
-<img src="/assets/uncourse.assets/schedule.png" alt="Workplace" usemap="#workmap" width="958" height="917">
+<img src="/assets/uncourse.assets/schedule.png" alt="Workplace" usemap="#workmap" width="958" height="1028">
 
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="800" height="400"> -->
 
 <map name="workmap">
   <area shape="rect" class="area" coords="638,64,934,124" alt="Stream-lit" title="Stream-lit" data-toggle="modal" data-target="#Stream-litModal">
   <area shape="rect" class="area" coords="638,124,934,186" alt="Github" title="Github" data-toggle="modal" data-target="#GithubModal">
-  <area shape="rect" class="area" coords="638,189,934,250" alt="SQL1" title="Database and SQL" data-toggle="modal" data-target="#Sql1Modal">
-  <area shape="rect" class="area" coords="638,250,934,313" alt="SQL2" title="More SQL" data-toggle="modal" data-target="#Sql2Modal">
-  <area shape="rect" class="area" coords="638,313,934,375" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,375,934,439" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
-  <area shape="rect" class="area" coords="638,439,934,503" alt="DBInterview" title="Data Base Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
-  <area shape="rect" class="area" coords="638,503,934,567" alt="Tableau" title="Tableau" data-toggle="modal" data-target="#TableauModal">
-  <area shape="rect" class="area" coords="638,567,934,631" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
+  <area shape="rect" class="area" coords="638,189,934,250" alt="SQL1" title="The SQL Series : Part 1" data-toggle="modal" data-target="#Sql1Modal">
+  <area shape="rect" class="area" coords="638,250,934,313" alt="SQL2" title="The SQL Series : Part 2" data-toggle="modal" data-target="#Sql2Modal">
+  <area shape="rect" class="area" coords="638,313,934,375" alt="SQL3" title="The SQL Series : Part 3" data-toggle="modal" data-target="#Sql3Modal">
+  <area shape="rect" class="area" coords="638,375,934,439" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
+  <area shape="rect" class="area" coords="638,439,934,503" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2">
+  <area shape="rect" class="area" coords="638,503,934,567" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
+  <area shape="rect" class="area" coords="638,567,934,631" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
   <area shape="rect" class="area" coords="638,631,934,692" alt="CV Workshop" title="CV Workshop" data-toggle="modal" data-target="#CVWorkshopModal">
-  <area shape="rect" class="area" coords="638,692,934,757" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
-  <area shape="rect" class="area" coords="638,757,934,836" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
-  <area shape="rect" class="area" coords="638,822,934,915" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
+  <area shape="rect" class="area" coords="638,692,934,757" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
+  <area shape="rect" class="area" coords="638,757,934,836" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
+  <area shape="rect" class="area" coords="638,836,934,915" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">
+   <area shape="rect" class="area" coords="638,915,934,994" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
+    <area shape="rect" class="area" coords="638,994,934,1073" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
 </map> 
 </div>
 
@@ -81,7 +83,7 @@ Here is the current schedule for all our workshops.
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZUtc-yurz4vEtPfxi0GpgCoIvQZGjwdDOPO'">Register</button></center>
       </div>
     </div>
   </div>
@@ -129,7 +131,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>This workshop dives further into the common Interview Coding Questions , building upon the previous session.</p>
+        <p>This workshop discusses Database related common Interview Coding Questions , building upon the previous session.</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -204,13 +206,13 @@ Here is the current schedule for all our workshops.
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">SQL 1</h5>
+        <h5 class="modal-title" id="exampleModalLabel">The SQL Series : Part 1</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>We introduce you to relational databases, and sqlite in particular. The basics of SQL querying are covered, and contrasted with Pandas, thus establishing a common data access model for tabular data.</p>
+        <p>This is Part 1 of a three part series on SQL. An [un]course within an [un]course, a nested [un]course if you will! <br> We introduce you to relational databases, and sqlite in particular. The basics of SQL querying are covered, and contrasted with Pandas, thus establishing a common data access model for tabular data.</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px"><br><br>
         <h6>Timings</h6>
@@ -231,13 +233,13 @@ Here is the current schedule for all our workshops.
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">SQL 2</h5>
+        <h5 class="modal-title" id="exampleModalLabel">The SQL Series : Part 2</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Building on SQL 1, this workshop dives into the "relational" part of databases. We cover indexes, joins, and subqueries, and offer some tips on when to use relational databases, and when to use NoSQL databases.</p>
+        <p>Part 2 of the 3 part SQL series, this workshop dives into the "relational" part of databases. We cover indexes, joins, and subqueries, and offer some tips on when to use relational databases, and when to use NoSQL databases.</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -254,19 +256,19 @@ Here is the current schedule for all our workshops.
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="TableauModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Sql3Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Tableau</h5>
+        <h5 class="modal-title" id="exampleModalLabel">The SQL Series : Part 3</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. This workshop will serve as a launching pad to get you started with your very own dashboards.</p>
-        <center><!--<h6>Instructor: Kshitij Parwani</h6>
-        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <p>The final part of our 3 part SQL mini [un]course. We "join" all our "relational" learning and address all your "quries" hands-on!.</p>
+        <center><h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
@@ -277,7 +279,61 @@ Here is the current schedule for all our workshops.
 </div>
 </div>
 <script>
-     $('#TableauModal').appendTo('body');
+     $('#Sql3Modal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="Tableau1Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Tableau : Part 1</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. Part 1 of this workshop will serve as a launching pad to get you started with your very own dashboards.</p>
+        <center><!--<h6>Instructor: Kshitij Parwani</h6>
+        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <h6>Timings</h6>
+        <p>8:00 PM - 10:00 PM IST <br>
+        (10:30 AM - 12:30 PM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Tableau1Modal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="Tableau2Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Tableau : Part 2</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Building on Tableau : Part 1, Part 2 is designed to get your interactive dashboards presentation ready!.</p>
+        <center><!--<h6>Instructor: Kshitij Parwani</h6>
+        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <h6>Timings</h6>
+        <p>8:00 PM - 10:00 PM IST <br>
+        (10:30 AM - 12:30 PM EST)</p> <br>
+        <button class="register-button" onclick="location.href=''">Register</button></center>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Tableau2Modal').appendTo('body');
 </script>
 
 <div class="container">
@@ -319,8 +375,8 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
-        <center><!--<h6>Instructor: Yashraj Wani</h6>
-        <img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;">--><br><br>
+        <center><h6>Instructor: Siddharth Das</h6>
+        <img src="/assets/images/people/SiddharthDas.jpg" alt="Sid" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
