@@ -414,14 +414,13 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>To be updated soon.</p>
-        <p>Registeration link below will be made active shortly!</p>
+        <p>This CV workshop with our very own CEO brings you a window into his experience and industry insight!</p>
         <center><h6>Instructor: Siddharth Das</h6>
         <img src="/assets/images/people/SiddharthDas.jpg" alt="Sid" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>6:00 - 8:00 PM IST <br>
         (8:30 - 10:30 AM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcqd-ugqzMtGtzy-aX5aCBGmzfY4cDiDJ48'">Register</button></center>
       </div>
     </div>
   </div>
