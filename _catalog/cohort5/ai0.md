@@ -1,7 +1,7 @@
 ---
 title: "AI-0" 
-permalink: /courses/ai0/
-cycle: c6
+permalink: /catalog/cohort5/ai0/
+cycle: c5
 kind: course
 excerpt: The Basics of Data Science
 sequence: 1
@@ -75,34 +75,6 @@ header:
 
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
-<li>She is a deep learning enthusiast and a recent undergraduate from JECRC University, Jaipur.</li>
-<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<script>
-     $('#AnshikaModal').appendTo('body');
-</script>
-
-<!-- TA Modal 2--> 
-<div class="container">
 <div class="modal fade modal-margin" id="ChaitanyaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
@@ -128,8 +100,90 @@ header:
      $('#ChaitanyaModal').appendTo('body');
 </script>
 
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="HemaniModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Hemani Shah</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/HemaniShah.png" alt="Hemani" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Hemani is a Machine Learning Enthusiast, currently a final year undergrad at Gujarat Technological University.</li>
+<li>She previously volunteered for a Non-Profit organization called TEDxGoldenBridge.</li>
+<li>She can be found reading novels in her free time.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#HemaniModal').appendTo('body');
+</script>
 
 <!-- TA Modal 3-->
+<div class="container">
+<div class="modal fade modal-margin" id="VirajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Viraj Kadam</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/VirajKadam.jpeg" alt="Viraj" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+  <li>Learning ML and AI at Univ.AI and through MOOCs.</li>
+  <li>Bachelors in Physics from Fergusson College, Pune.</li>
+  <li>Interested in Applications of AI for Earth Observation and Climate Data.</li> 
+  <li>Other interests include Running, Football, Hiking, and Gardening.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#VirajModal').appendTo('body');
+</script>
+
+<!-- TA Modal 4-->
+<div class="container">
+<div class="modal fade modal-margin" id="AbjasreeModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Abjasree S</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/Abjasree.jpeg" alt="Abjasree" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Currently, Direct Entry diploma in Data Science student at IIT Madras.</li>
+<li>Completed Masters in Physics from Indian Institute of Science Education and Research (IISER), Tirupati.</li>
+<li>Looks forward to learning how to use AI and its application in various physics problems and other research fields, especially image processing.</li>
+<li>In her free time, she can be found watching anime or drawing anime characters.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#AbjasreeModal').appendTo('body');
+</script>
+
+<!-- TA Modal 5-->
 <div class="container">
 <div class="modal fade modal-margin" id="KarthigaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -176,15 +230,15 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Kuldeep Prasad
+### Shivas Jayaram
 
-<img src="/assets/images/people/KuldeepPrasad.jpeg" style="width:200px;" />
+<img src="/assets/images/people/ShivasJayaram.jpg" style="width:200px;" />
 
-- Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.
-- His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.
-- Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.
-
-Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here.
+- Researcher @Harvard IACS and Deep Learning Practitioner.
+- Masters in Data Science from Harvard University.
+- Previously, co founder and CTO of a Deep Learning startup.
+- Prior to that helped build up a data science team at a manufacturing company.
+- Over 15 years of Solution Architecture and Development experience.
 
 ### Dr. Pavlos Protopapas 
 
@@ -194,26 +248,48 @@ Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here.
 - Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
-You can read more about him [here](https://www.univ.ai/team/pavlos-protopapas-2).
+You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
+### Dr. Rahul Dave 
+
+![](/assets/images/people/RahulDave.jpeg)
+
+
+- Dr. Rahul Dave is a former Data Science faculty at Harvard University.
+- He was on the original team for Harvard’s famous Data Science course, cs109, and has taught machine learning, statistics, and AI courses, both at Harvard and at multiple conferences and workshops. 
+
+You can [read more about him here](https://univ.ai/team/rahul-dave-2). 
 
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
-    <div class="img-border" style="grid-column: 1/2;">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
-    </div>
-  </div>
-  
-  <div class="img-border" style="grid-column: 3/4">
+  <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" style="margin-top:3px;" align="left" data-toggle="modal" data-target="#ChaitanyaModal"/>
     </div>
   </div>
 
+
+  <div class="img-border" style="grid-column: 3/4">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" style="margin-top:-15px; transform: scale(1.2);" align="left" data-toggle="modal" data-target="#HemaniModal"/>
+    </div>
+  </div>
+
   <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" style="margin-top:15px; margin-right:-10px; transform: scale(1.4);" data-toggle="modal" data-target="#VirajModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/Abjasree.jpeg" class="circular--portrait-img" align="left" style="margin-top:1px; margin-right:-10px;" data-toggle="modal" data-target="#AbjasreeModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 9/10">
     <div class="circular--portrait">
       <img src="/assets/images/people/KarthigaD.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#KarthigaModal"/>
     </div>
@@ -241,22 +317,22 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Course syllabus
 
-![](/assets/ai0-c6.assets/Content.png)
+![](/assets/ai0-c5.assets/Content.png)
 
 ## The Class
 
-![](/assets/ai0-c6.assets/Schedule.png)
+![](/assets/ai0-c5.assets/Schedule.png)
 
 **Lecture Sessions**: 
 
-- Wednesday: ```7:00 PM - 9:00 PM IST [9:30 AM - 11:30 AM EST]```
-  
-- Saturday: ```6:00 PM - 8:00 PM IST [8:30 AM - 10:30 AM EST]```
+- Saturday: ```5:30 PM - 7:30 PM IST [8:00 AM - 10:00 AM EST]```
+
+- Sunday: ```5:30 PM - 7:30 PM IST [8:00 AM - 10:00 AM EST]```
 
 
 **Office hours**: 
 
-- Monday: ```7:00 PM - 8:00 PM IST [9:30 AM - 10:30 AM EST]```
+- Wednesday: ```7:00 PM - 8:00 PM IST [9:30 AM - 10:30 AM EST]```
 
 Please check your mail for more information.
 
@@ -312,7 +388,6 @@ We wish you well for the start of your data science journey.
 - [Cohort 2](/catalog/cohort2/pyds/)
 - [Cohort 3](/catalog/cohort3/pyds/)
 - [Cohort 4](/catalog/cohort4/ai0/)
-- [Cohort 5](/catalog/cohort5/ai0/)
 
 
 
