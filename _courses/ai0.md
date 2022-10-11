@@ -224,8 +224,6 @@ You can read more about him [here](https://www.univ.ai/team/pavlos-protopapas-2)
 ## The Coursework
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
-We will hold two weekend sessions per week for a total of five weeks. 
-
 ### What to expect
 
 ![](/assets/images/Session.png)
