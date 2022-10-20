@@ -136,7 +136,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>This workshop discusses Database related common Interview Coding Questions , building upon the previous session.</p>
-        <p>Registeration link below will be made active shortly!</p>
+        <p>Registration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -223,8 +223,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>8:30 - 10:30 PM IST <br>
+        (11:00 AM - 01:00 PM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://my.univ.ai/community/sql-series'">Register</button></center>
       </div>
     </div>
@@ -251,8 +251,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>6:30 - 8:30 PM IST <br>
+        (9:00 - 11:00 AM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://my.univ.ai/community/sql-series'">Register</button></center>
       </div>
     </div>
@@ -279,8 +279,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>6:30 - 8:30 PM IST <br>
+        (9:00 - 11:00 AM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://my.univ.ai/community/sql-series'">Register</button></center>
       </div>
     </div>
@@ -307,8 +307,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>8:30 - 10:30 PM IST <br>
+        (11:00 AM - 01:00 PM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://my.univ.ai/community/sql-series'">Register</button></center>
       </div>
     </div>
@@ -331,13 +331,12 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>Tableau is a popular visualization and data analysis tool that helps you create interactive plots and presentations. </p> <p> Part 1 of this workshop will serve as a launching pad to get you started with your very own dashboards.</p>
-        <p>Registeration link below will be made active shortly!</p>
-        <center><!--<h6>Instructor: Kshitij Parwani</h6>
-        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <center><h6>Instructor: Hiba Talat</h6>
+        <img src="/assets/images/people/HibaTalat.png" alt="Hiba" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:00 PM - 10:00 PM IST <br>
         (10:30 AM - 12:30 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://my.univ.ai/community/tableau-1-uncourse'">Register</button></center>
       </div>
     </div>
   </div>
@@ -358,14 +357,14 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>Building on Tableau : Part 1, Part 2 is designed to get your interactive dashboards presentation ready!.</p>
-        <p>Registeration link below will be made active shortly!</p>
-        <center><!--<h6>Instructor: Kshitij Parwani</h6>
-        <img src="/assets/images/people/KshitijParwani.png" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <p>Building on Tableau : Part 1, Part 2 is designed to get your interactive dashboards presentation ready!</p>
+        <p>Registration link below will be made active shortly!</p>
+        <center><center><h6>Instructor: Hiba Talat</h6>
+        <img src="/assets/images/people/HibaTalat.png" alt="Hiba" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:00 PM - 10:00 PM IST <br>
         (10:30 AM - 12:30 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://my.univ.ai/community/tableau-2-uncourse'">Register</button></center>
       </div>
     </div>
   </div>
@@ -387,7 +386,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>Three Dimensional Convolutional Neural Networks can go beyond 2D images and incorporate volumetric information (like CT scans) or even temporal information (such as event detection in Videos). Features can be extracted from both spatial and temporal dimensions using 3D convolutions.</p>
-        <p>Registeration link below will be made active shortly!</p>
+        <p>Registration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
@@ -442,7 +441,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
-        <p>Registeration link below will be made active shortly!</p>
+        <p>Registration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
@@ -498,7 +497,7 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>To be updated soon.</p>
-        <p>Registeration link below will be made active shortly!</p>
+        <p>Registration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
