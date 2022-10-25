@@ -157,7 +157,7 @@ header:
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-> *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
+>*Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
 
 
 Welcome to the AI-2, a follow-up to our introductory course AI-1.
@@ -204,13 +204,13 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 
   <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Hemani"/>
     </div>
   </div>
   
   <div class="img-border" style="grid-column: 5/6;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AkshayRanjith.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Akshay"/>
+      <img src="/assets/images/people/AkshayRanjith.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Akshay"/>
     </div>
   </div>
 </div>
