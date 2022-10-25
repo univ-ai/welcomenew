@@ -210,7 +210,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#LakshayModal"/>
+      <img src="/assets/images/people/LakshayChawla.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#LakshayModal"/>
     </div>
   </div>
   
