@@ -1,7 +1,7 @@
 ---
 title: "AI-3"
 permalink: /courses/ai3/
-cycle: c2
+cycle: c4
 kind: course
 excerpt: Language Models
 sequence: 6
@@ -75,49 +75,21 @@ header:
 
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="VishnuModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Vishnu M</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <center><img src="/assets/images/people/VishnuM.png" alt="Vishnu" style="height:200px;margin-right:15px;"></center>
-        <ul style="list-style:circle; padding-left: 2em;">
-          <li>Vishnu is the Program Coordinator for academic operations at Univ.AI.</li>
-          <li>He is a Computer Vision enthusiast and a final year CSE undergrad at JECRC University, Jaipur.</li>
-          <li>Currently, he is also working as a research assistant in StellarDNN lab at Harvard, where he is working on the intersection of Deep Learning and Astronomy.</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-     $('#VishnuModal').appendTo('body');
-</script>
-
-<!-- TA Modal 2-->
-<div class="container">
-<div class="modal fade modal-margin" id="KuldeepModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Kuldeep Prasad</h5>
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/KuldeepPrasad.jpeg" alt="Kuldeep" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Dr. Kuldeep Prasad works as a Research Scientist at the National Institute of Standards and Technology.</li>
-<li>His research interests include application of Machine Learning for modeling the spread of forest fires as well as understanding the effects of climate change.</li>
-<li>Dr. Prasad wants to accelerate the application of Artificial Intelligence to solve some of the world’s biggest challenges as well as using AI for social good.</li>
-<li>Read more about him <a href="https://www.nist.gov/people/kuldeep-prasad">here</a>.</li>
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravellingEventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
 </ul>
 </div>
 </div>
@@ -125,7 +97,34 @@ header:
 </div>
 </div>
 <script>
-     $('#KuldeepModal').appendTo('body');
+     $('#Lakshay').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
+<div class="container">
+<div class="modal fade modal-margin" id="YashModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yash is interested in the applications of AI in decoding the human brain.</li>
+<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
+<li>In his free time, he likes listening to music and playing football.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#YashModal').appendTo('body');
 </script>
 
 <!-- TA Modal 3-->
@@ -140,48 +139,46 @@ header:
         </button>
       </div>
       <div class="modal-body">
-        <center><img src="/assets/images/people/AamirAnsari.png" alt="Aamir" style="height:200px;margin-right:15px;"></center>
+        <center><img src="/assets/images/people/AamirAnsari.jpeg" alt="Aamir" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
-          <li>Aamir is currently completing his data science journey with Univ.AI.</li>
-          <li>He recently presented his paper on Tree based convolutional neural networks at ICIDSSD22, Jamia Hamdard University.</li>
-          <li>His future goals include using data science techniques in analysing player performances in the sport of football.</li>
+          <li>Aamir is currently a data scientist at Roadzen Technologies.</li>
+          <li>He is doing work in vision, audio and natural language modelling.</li>
+          <li>He is enthusiastic about football and the use cases of data science in it</li>
         </ul>
       </div>
     </div>
   </div>
 </div>
 </div>
-
 <script>
      $('#AamirModal').appendTo('body');
 </script>
 
+<!-- TA Modal 4-->
 <div class="container">
-<div class="modal fade modal-margin" id="AnshikaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="VirajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
+<h5 class="modal-title" id="exampleModalLabel">Viraj Kadam</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/AnshikaGupta.png" alt="Anshika" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/VirajKadam.jpeg" alt="Viraj" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
-<li>She is a deep learning enthusiast and a final year undergrad at JECRC University, Jaipur.</li>
-<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
-<li>Currently, she is also working on building a SportsTech startup.</li>
+<li>Viraj has a bachelors degree in Physics from Fergusson College, Pune.</li>
+<li>He is interested in Applications of AI for Earth Observation and Climate Data.</li>
+<li>Other interests include Running, Football, Hiking, and Gardening.</li>
 </ul>
 </div>
 </div>
 </div>
 </div>
 </div>
-
 <script>
-     $('#AnshikaModal').appendTo('body');
+     $('#VirajModal').appendTo('body');
 </script>
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -198,6 +195,14 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
+### Dr. Ignacio Becker
+
+![](/assets/images/people/IgnacioBecker.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+
 ### Dr. Pavlos Protopapas 
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
@@ -208,49 +213,38 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Dr. Ignacio Becker
-
-![](/assets/images/people/IgnacioBecker.jpeg)
-
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
-<br>
 ### Teaching Assistants
 
-Coming Soon!
 
-<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AnshikaModal"/>
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#LakshayModal"/>
     </div>
   </div>
   
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#YashModal"/>
     </div>
   </div>
 
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/KuldeepPrasad.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#KuldeepModal"/>
+      <img src="/assets/images/people/AamirAnsari.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#AamirModal"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AamirAnsari.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
+      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#VirajModal"/>
     </div>
   </div>
 </div>
 
--->
+
 
 <br>
 ## The Coursework
@@ -297,30 +291,25 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Coming Soon!
-
-<!--
-
-![](/assets/ai3-c3.assets/Schedule.png)
+![](/assets/ai3-c4.assets/Schedule.png)
 
 
 **Lecture Sessions**: 
 
-- Wednesday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Tuesday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
 
-- Saturday: ```6:00 PM - 7:30 PM IST [8:30 AM - 10:00 AM EST]```
+- Saturday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
 
 **Lab Sessions**: 
 
-- Thursday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Monday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
 
-- Sunday: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM EST]```
+- Thursday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
 
 **Office hours**: 
 
-- Monday: ```9:00 PM - 10:00 PM IST [11:30 AM - 12:30 PM EST]```
+- Sunday: ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 Noon EST]```
 
--->
 
 ### Course Pre-Requisites 
 
