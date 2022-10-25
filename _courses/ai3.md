@@ -75,7 +75,7 @@ header:
 
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="LakshayModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -85,7 +85,7 @@ header:
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.jpeg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
 <li>Eventual goals include unravellingEventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
