@@ -203,16 +203,6 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-### Dr. Pavlos Protopapas 
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
-
-- Scientific Director of the Institute for Applied Computational Science (IACS).
-- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
-
-You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
-
 ### Teaching Assistants
 
 
@@ -226,7 +216,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
   
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#YashModal"/>
+      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashModal"/>
     </div>
   </div>
 
