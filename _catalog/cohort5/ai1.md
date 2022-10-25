@@ -1,13 +1,13 @@
 ---
-title: "AI-2"
-permalink: /courses/ai2/
+title: "AI-1" 
+permalink: /catalog/cohort5/ai1/
 cycle: c5
 kind: course
-excerpt: Convolutional Neural Networks and Autoencoders
-sequence: 3
+excerpt: ML/AI Basics
+sequence: 2
 header:
-  overlay_image: /assets/images/header/HeaderDesign2.jpeg
-  teaser: /assets/images/header/HeaderDesign2.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign7.jpeg
+  teaser: /assets/images/header/greyHeaderDesign7.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
@@ -15,6 +15,7 @@ header:
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
@@ -59,12 +60,11 @@ header:
     border-radius: 50%; 
     } 
   }
-  }
 </style>
+
 
 <!-- TA Modal Section -->
 <style>
-  
   .modal-margin {
     margin: 0 auto;
   }
@@ -72,10 +72,36 @@ header:
   .modal {
     background: transparent;
   }
-
 </style>
 
 <!-- TA Modal 1--> 
+<div class="container">
+<div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Arya Mohan</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
+          <li>Previously, she was a data analyst at Schneider Electric.</li>
+          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#Arya').appendTo('body');
+</script>
+
+<!-- TA Modal 2-->
 <div class="container">
 <div class="modal fade modal-margin" id="Shibani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -102,7 +128,7 @@ header:
      $('#Shibani').appendTo('body');
 </script>
 
-<!-- TA Modal 2-->
+<!-- TA Modal 3-->
 <div class="container">
 <div class="modal fade modal-margin" id="Hemani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -129,22 +155,23 @@ header:
      $('#Hemani').appendTo('body');
 </script>
 
-<!-- TA Modal 3-->
-<div class="modal fade modal-margin" id="Akshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<!-- TA Modal 4-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Akshay Ranjith</h5>
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/AkshayRanjith.jpeg" alt="Akshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Akshay is the founder of an E-commerce Brand Purifit. The brand is part of the Amazon Launchpad programme for the Indian Brands.</li>
-<li>He is excited about using AI to create useful tools for his company.</li>
-<li>In his free time, he enjoys reading biographies and behavioural economics.</li>
+<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
 </ul>
 </div>
 </div>
@@ -152,21 +179,50 @@ header:
 </div>
 </div>
 <script>
-     $('#Akshay').appendTo('body');
+     $('#Lakshay').appendTo('body');
+</script>
+
+<!-- TA Modal 5-->
+<div class="container">
+<div class="modal fade modal-margin" id="Abjasree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Abjasree S</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/Abjasree.jpeg" alt="Abjasree" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Currently, Direct Entry diploma in Data Science student at IIT Madras.</li>
+<li>Completed Masters in Physics from Indian Institute of Science Education and Research (IISER), Tirupati.</li>
+<li>Looks forward to learning how to use AI and its application in various physics problems and other research fields, especially image processing.</li>
+<li>In her free time, she can be found watching anime or drawing anime characters.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Abjasree').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-> *Long ago in a distant land, I, Multi-Layer Perceptron, the shapeshifting master of darkness, unleashed an unspeakable evil. But, a foolish samurai warrior wielding a convolutional sword stepped forth to oppose me. Before the final blow was struck, I tore open a portal in time and flung him into the future where my evil is law. Now, the fool seeks to return to the past and undo the future that is MLP.*
+>*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
 
+Welcome to AI-1. 
+The objective of this module is to provide fundamental understandings of machine learning models 
+and get you working with the basic concepts of ML and AI. 
 
-Welcome to the AI-2, a follow-up to our introductory course AI-1.
+You will start with the basic regression models (KNN, Linear, Multi, Poly), classification models (kNN, Logistic) and then move on to more advanced concepts like Bagging and Boosting. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
 
-In this course, you will continue your data science journey to learn more about convolutional neural networks and how they're being used for machine learning. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well. 
+At the end of this module, you will be able to run basic and advanced machine learning models, and tell how well they are performing. 
 
-The objective of this module is to provide you, the student, with a deeper intuition and understanding of neural networks including network architecture choices, activation functions, feed-forward, convolutional neural networks and auto-encoders. 
-
-At the end of this course, you will be able to run a variety of advanced machine learning models, and learn to apply them to practical image recognition problems. This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
+This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
 ## The Team
 
@@ -180,40 +236,46 @@ At the end of this course, you will be able to run a variety of advanced machine
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Dr. Raghu Meka
-
-<img src="/assets/images/people/RaghuMeka.png" style="zoom:70%;" />
-
-- Associate Professor of Computer Science at UCLA with a PhD from UT Austin.
-- He was a postdoctoral fellow at the Institute for Advanced Study, (at Princeton University). 
-- Before joining UCLA Raghu was a researcher at the Microsoft Research.
-
-You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
-
 ### Teaching Assistants
 
-
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
+      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
       <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
     </div>
+  
   </div>
   
-  <div class="img-border" style="grid-column: 5/6;">
+  <div class="img-border" style="grid-column: 7/8;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AkshayRanjith.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Akshay"/>
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Lakshay"/>
     </div>
   </div>
+
+
+  <div class="img-border" style="grid-column: 9/10">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/Abjasree.jpeg" class="circular--portrait-img" align="left" style="margin-top:1px; margin-right:-10px;" data-toggle="modal" data-target="#Abjasree"/>
+    </div>
+  </div>
+
 </div>
+
+<br>
 
 ## The Coursework
 
@@ -229,7 +291,7 @@ Each week shall include:
 
 ![](/assets/images/Session.png)
 
-Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+The course includes two 1.5 hour sessions per week. Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
 A session will have the following pedagogy layout which will be repeated three times:
 
@@ -243,82 +305,61 @@ After the session, students are expected to complete a short post-class quiz bas
 
 ### Lab - What to expect
 
-<img src="/assets/images/Lab.png" alt="Lab" class="center">
+![](/assets/images/Lab.png)
 
+A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
 
-A lab is a TA driven one hour session that is divided into 3 major parts. 
-- Each lab begins by revisiting the Quizzes and Exercises done in the previous lecture session. 
+- Each lab begins by revisiting the quizzes and exercises done in the previous lecture session. 
+
 - After discussing exercises, we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
 and homeworks are welcome.
+
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai2-c4.assets/Content.png)
+![](/assets/ai1-c5.assets/Content.png)
 
 ## The Class
 
-Coming Soon!
+There will be a **Welcome Session** scheduled on 28th August 2022 at 8:00 PM IST [10:30 AM EST]. 
 
-<!--There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. 
+![](/assets/ai1-c5.assets/Schedule.png)
 
+**Lecture Sessions:**
 
-### High level course schedule 
+- Tuesday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
+- Saturday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
 
-![](/assets/ai2-c4.assets/Schedule.png)
+**Lab Sessions:**
 
+- Thursday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 PM EST]```
+- Monday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 PM EST]```
 
-**Lecture Sessions**: 
+**Office hours:**
 
-- Tuesday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```  
-
-- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
-
-**Lab Sessions**: 
-
-- Wednesday Series: ```7:00 PM - 8:30 PM IST [ 10:30 AM - 12:00 PM EST ] ``` 
-
-- Sunday Series: ```5:30 PM - 7:00 PM IST [ 8:00 AM - 9:30 AM EST ]```
-
-**Office hours**: 
-
-- Mondays: ```8:00 PM - 9:00 PM [ 10:30 AM - 11:30 AM EST ]```-->
-
+- Fridays : ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 PM EST]```
 
 ### Course Pre-Requisites 
 
-You are expected to have programming experience at the level of Harvard’s [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science?source=aw&awc=6798_1597231309_7e3ec7ec847f629b7c399ad1816e752d&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=101248_adgoal+GmbH+-+Content), statistics knowledge at the level of Harvard’s [Stat 110](https://projects.iq.harvard.edu/stat110/home) or above and basic machine learning concepts such as model fitting, test-validation, regularization, etc. 
+Your are expected to have a working knowledge of python, along with these three libraries:
 
-- Programming Experience:
+- Numpy
+- Pandas
+- Matplotlib
 
-    - Experience with Python: functions, variable scope, classes, modules, NumPy, SciPy, Matplotlib
+All exercises in this course will be done in jupyter notebooks. 
 
-    - Basic data structures
+> Note: No prior knowledge of machine learning libraries is necessary for this module
 
-    - File I/O
+In addition to this, you are expected to know the material covered in our [AI0](/courses/ai0/) course. 
 
-- Statistics Experience:
+Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
-    - Basics of probability, conditional probability, Bayes’ theorem
+This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
 
-    - Univariate distributions, normal, binomial, Poisson distributions
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
 
-    - Multivariate normal distribution
-
-    - Central Limit Theorem
-
-- Machine Learning Experience:
-
-    - Basic understanding of supervised and unsupervised learning
-
-    - Regression and Classification 
-
-    - Loss functions 
-
-    - Overfitting and Regularization 
-
-    - Model Selection
-
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai2-c3.assets/courseprep/).
+Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 
@@ -363,10 +404,32 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts
 
-- [Cohort 1](/catalog/cohort1/ai2/)
-- [Cohort 2](/catalog/cohort2/ai2/)
-- [Cohort 3](/catalog/cohort3/ai2/)
-- [Cohort 4](/catalog/cohort4/ai2/)
+<style>
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border-top: 0px solid black;
+  border-bottom: 0px solid black;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+tr:nth-child(even){background-color: #ffffff;}
+tr:nth-child(odd){background-color: #ffffff;}
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #848484;
+  color: white;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+</style>
 
