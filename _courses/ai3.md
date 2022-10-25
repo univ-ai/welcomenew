@@ -223,7 +223,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AamirAnsari.jpeg" class="circular--portrait-img" align="left" style="margin-top:-12px;" data-toggle="modal" data-target="#AamirModal"/>
+      <img src="/assets/images/people/AamirAnsari.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
     </div>
   </div>
 
