@@ -3,7 +3,7 @@ title: "AI-2"
 permalink: /courses/ai2/
 cycle: c5
 kind: course
-excerpt: Convolutional Neural Networks and Autoencoders
+excerpt: Neural Networks
 sequence: 3
 header:
   overlay_image: /assets/images/header/HeaderDesign2.jpeg
@@ -130,6 +130,7 @@ header:
 </script>
 
 <!-- TA Modal 3-->
+<div class="container">
 <div class="modal fade modal-margin" id="Akshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
