@@ -97,7 +97,7 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#LakshayModal').appendTo('body');
 </script>
 
 <!-- TA Modal 2-->
