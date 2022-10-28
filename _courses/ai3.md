@@ -88,7 +88,7 @@ header:
 <center><img src="/assets/images/people/LakshayChawla.jpeg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
 <li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
-<li>Eventual goals include unravellingEventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
 <li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
 </ul>
 </div>
