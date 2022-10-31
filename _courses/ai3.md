@@ -276,7 +276,7 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
-![](/assets/ai3-c3.assets/Content.png)
+![](/assets/ai3-c4.assets/Content.png)
 
 
 ## The Class
