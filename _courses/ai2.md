@@ -260,29 +260,29 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 Coming Soon!
 
-<!--There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. 
+<!--There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. -->
 
 
 ### High level course schedule 
 
-![](/assets/ai2-c4.assets/Schedule.png)
+![](/assets/ai2-c5.assets/Schedule.png)
 
 
 **Lecture Sessions**: 
 
-- Tuesday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```  
+- Tuesday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST ]```  
 
-- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
+- Saturday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST ]```  
 
 **Lab Sessions**: 
 
-- Wednesday Series: ```7:00 PM - 8:30 PM IST [ 10:30 AM - 12:00 PM EST ] ``` 
+- Thursday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST ]```  
 
-- Sunday Series: ```5:30 PM - 7:00 PM IST [ 8:00 AM - 9:30 AM EST ]```
+- Monday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST ]```  
 
 **Office hours**: 
 
-- Mondays: ```8:00 PM - 9:00 PM [ 10:30 AM - 11:30 AM EST ]```-->
+- Sundays: ```7:00 PM - 8:00 PM IST [ 9:30 AM - 10:30 AM EST ]```  
 
 
 ### Course Pre-Requisites 
