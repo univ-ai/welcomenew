@@ -195,8 +195,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Pavlos Protopapas</h6>
         <img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>7:00 - 9:00 PM IST <br>
+        (9:30 - 11:30 AM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
@@ -417,8 +417,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Siddharth Das</h6>
         <img src="/assets/images/people/SiddharthDas.jpg" alt="Sid" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>7:00 - 9:00 PM IST <br>
+        (9:30 - 11:30 AM EST)</p> <br>
         <button class="register-button" onclick="location.href='https://us02web.zoom.us/meeting/register/tZcqd-ugqzMtGtzy-aX5aCBGmzfY4cDiDJ48'">Register</button></center>
       </div>
     </div>
@@ -445,8 +445,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>7:00 - 9:00 PM IST <br>
+        (9:30 - 11:30 AM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
@@ -473,8 +473,8 @@ Here is the current schedule for all our workshops.
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>7:00 - 9:00 PM IST <br>
+        (9:30 - 11:30 AM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
@@ -501,8 +501,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>7:00 - 9:00 PM IST <br>
+        (9:30 - 11:30 AM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
