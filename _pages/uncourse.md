@@ -58,7 +58,7 @@ Here is the current schedule for all our workshops.
   <area shape="rect" class="area" coords="638,496,934,558" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
   <area shape="rect" class="area" coords="638,558,934,620" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2Modal">
   <area shape="rect" class="area" coords="638,620,934,682" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,682,934,744" alt="DSInterview" title="TBD" data-toggle="modal" data-target="#DSInterviewModal">
+  <area shape="rect" class="area" coords="638,682,934,744" alt="MLOps" title="MLOps: Organizing your Data Science Code like a Software Developer" data-toggle="modal" data-target="#MLOpsModal">
   <area shape="rect" class="area" coords="638,744,934,806" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
   <area shape="rect" class="area" coords="638,806,934,868" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
   <area shape="rect" class="area" coords="638,868,934,930" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
@@ -97,23 +97,23 @@ Here is the current schedule for all our workshops.
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="DSInterviewModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="MLOpswModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">TBD</h5>
+        <h5 class="modal-title" id="exampleModalLabel">MLOps: Organizing your Data Science Code like a Software Developer</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>Coming soon!</p>
+        <p>You will learn how to progressively organize your ML and Data Science Code for ease of experimentation, communication, reproducibility, and inference.</p>
         <p>Registeration link below will be made active shortly!</p>
-        <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
+        <center><h6>Instructor: Dr. Rahul Dave</h6>
+        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>8:30 - 10:30 PM IST <br>
+        (10:00 AM - 12:00 PM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
@@ -121,7 +121,7 @@ Here is the current schedule for all our workshops.
 </div>
 </div>
 <script>
-     $('#DSInterviewModal').appendTo('body');
+     $('#MLOpsModal').appendTo('body');
 </script>
 
 <div class="container">
