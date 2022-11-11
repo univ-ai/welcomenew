@@ -58,7 +58,7 @@ Here is the current schedule for all our workshops.
   <area shape="rect" class="area" coords="638,496,934,558" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
   <area shape="rect" class="area" coords="638,558,934,620" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2Modal">
   <area shape="rect" class="area" coords="638,620,934,682" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,682,934,744" alt="DSInterview" title="Data Structure Interview Questions" data-toggle="modal" data-target="#DSInterviewModal">
+  <area shape="rect" class="area" coords="638,682,934,744" alt="DSInterview" title="TBD" data-toggle="modal" data-target="#DSInterviewModal">
   <area shape="rect" class="area" coords="638,744,934,806" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
   <area shape="rect" class="area" coords="638,806,934,868" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
   <area shape="rect" class="area" coords="638,868,934,930" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
