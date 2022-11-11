@@ -107,7 +107,7 @@ Here is the current schedule for all our workshops.
         </button>
       </div>
       <div class="modal-body">
-        <p>How to tackle some commonly encountered Data Stucture realted Interview Questions interspersed with concrete examples, tips and suggestions.</p>
+        <p>Coming soon!</p>
         <p>Registeration link below will be made active shortly!</p>
         <center><!--<h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;">--><br><br>
@@ -195,8 +195,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Pavlos Protopapas</h6>
         <img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>7:00 - 9:00 PM IST <br>
-        (9:30 - 11:30 AM EST)</p> <br>
+        <p>9:30 - 11:30 PM IST <br>
+        (11:00 AM - 1:30 PM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
