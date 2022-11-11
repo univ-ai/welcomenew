@@ -97,7 +97,7 @@ Here is the current schedule for all our workshops.
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="MLOpswModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="MLOpsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
