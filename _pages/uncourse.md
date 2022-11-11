@@ -101,7 +101,7 @@ Here is the current schedule for all our workshops.
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Data Structures Interview Questions</h5>
+        <h5 class="modal-title" id="exampleModalLabel">TBD</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
