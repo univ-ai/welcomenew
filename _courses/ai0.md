@@ -157,6 +157,33 @@ that uses deep learning and artificial intelligence techniques to better assist 
      $('#KarthigaModal').appendTo('body');
 </script>
 
+<div class="container">
+<div class="modal fade modal-margin" id="NawangModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog ">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Nawang Thinley Bhutia</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">X</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <center><img src="/assets/images/people/NawangBhutia.jpg" alt="Nawang" style="height:200px;margin-right:15px;"></center>
+        <ul style="list-style:circle; padding-left: 2em;">
+          <li>Nawang has recently completed his B.E in Information Science & Engineering from Acharya Institutes, Bangalore.</li>
+          <li>An avid learner who wants to learn more and explore the beautiful world of AI and it's application in fields such as HealthCare, Video Games and Sports such as Football.</li>
+          <li>In his free time, he can be found supporting and analyzing games played by FC Barcelona.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+     $('#NawangModal').appendTo('body');
+</script>
+
+
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 Welcome to AI-0: The Basics of Data Science.
@@ -209,13 +236,19 @@ You can read more about him [here](https://www.univ.ai/team/pavlos-protopapas-2)
   
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" style="margin-top:3px;" align="left" data-toggle="modal" data-target="#ChaitanyaModal"/>
+      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ChaitanyaModal"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
       <img src="/assets/images/people/KarthigaD.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px; margin-right:-10px;" data-toggle="modal" data-target="#KarthigaModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/NawangBhutia.jpg" class="circular--portrait-img" align="left" style="margin-top:-30px; margin-left:-1px; zoom:100%;" data-toggle="modal" data-target="#NawangModal"/>
     </div>
   </div>
 
