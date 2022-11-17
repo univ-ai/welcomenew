@@ -108,13 +108,13 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p>You will learn how to progressively organize your ML and Data Science Code for ease of experimentation, communication, reproducibility, and inference.</p>
-        <p>Registeration link below will be made active shortly!</p>
+        
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (10:00 AM - 12:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://my.univ.ai/community/mlops-uncourse'">Register</button></center>
       </div>
     </div>
   </div>
@@ -191,13 +191,13 @@ Here is the current schedule for all our workshops.
       </div>
       <div class="modal-body">
         <p> An introduction to Physics-Informed Neural Networks. As the title suggests, these Deep Networks are informed by any given law in Physics (a nonlinear partial differential equation) to address supervised learning tasks .</p>
-        <p>Registeration link below will be made active shortly!</p>
+        
         <center><h6>Instructor: Dr. Pavlos Protopapas</h6>
         <img src="/assets/images/people/PavlosProtopapas.jpeg" alt="Pavlos" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>9:30 - 11:30 PM IST <br>
         (11:00 AM - 1:30 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href='https://my.univ.ai/community/pinns-uncourse'">Register</button></center>
       </div>
     </div>
   </div>
