@@ -43,7 +43,7 @@ Here is the current schedule for all our workshops.
 *(Click on the topic cell of the workshop table to know more)*
 <div class="container">
 
-<img src="/assets/uncourse.assets/schedule.png" alt="Workplace" usemap="#workmap" width="958" height="1028">
+<img src="/assets/uncourse.assets/schedule.jpg" alt="Workplace" usemap="#workmap" width="958" height="952">
 
 <!-- <img src="index.assets/stellardnn.png" alt="Workplace" usemap="#workmap" width="800" height="400"> -->
 
@@ -57,12 +57,12 @@ Here is the current schedule for all our workshops.
   <area shape="rect" class="area" coords="638,434,934,496" alt="SQL4" title="The SQL Series : Part 4" data-toggle="modal" data-target="#Sql4Modal">
   <area shape="rect" class="area" coords="638,496,934,558" alt="Tableau1" title="Tableau : Part 1" data-toggle="modal" data-target="#Tableau1Modal">
   <area shape="rect" class="area" coords="638,558,934,620" alt="Tablueau2" title="Tableau : Part 2" data-toggle="modal" data-target="#Tableau2Modal">
-  <area shape="rect" class="area" coords="638,620,934,682" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
-  <area shape="rect" class="area" coords="638,682,934,744" alt="MLOps" title="MLOps: Organizing your Data Science Code like a Software Developer" data-toggle="modal" data-target="#MLOpsModal">
+  <area shape="rect" class="area" coords="638,682,934,744" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
+  <area shape="rect" class="area" coords="638,620,934,682" alt="MLOps" title="MLOps: Organizing your Data Science Code like a Software Developer" data-toggle="modal" data-target="#MLOpsModal">
   <area shape="rect" class="area" coords="638,744,934,806" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
   <area shape="rect" class="area" coords="638,806,934,868" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
-  <area shape="rect" class="area" coords="638,868,934,930" alt="CNN Transformer" title="CNN Transformer" data-toggle="modal" data-target="#CNNTransformerModal">
-  <area shape="rect" class="area" coords="638,930,934,992" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
+  <area shape="rect" class="area" coords="638,868,934,930" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
+  <!--<area shape="rect" class="area" coords="638,930,934,992" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">-->
     
   <!--<area shape="rect" class="area" coords="___,___,___,___" alt="3DCNNs" title="3D CNNs" data-toggle="modal" data-target="#ThreeDCNNsModal">-->
 
@@ -137,11 +137,11 @@ Here is the current schedule for all our workshops.
       <div class="modal-body">
         <p>This workshop discusses Database related common Interview Coding Questions , building upon the previous session.</p>
         <p>Registration link below will be made active shortly!</p>
-        <center><h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <center><h6>Instructor: Mr. Shubham Londhe</h6>
+        <img src="/assets/images/people/ShubhamLondhe.jpeg" alt="Shubham" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>6:00 - 8:00 PM IST <br>
-        (8:30 - 10:30 AM EST)</p> <br>
+        <p>8:30 - 10:30 PM IST <br>
+        (10:00 AM - 12:00 PM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
@@ -304,8 +304,8 @@ Here is the current schedule for all our workshops.
       <div class="modal-body">
         <p>The final part of our 4 part SQL mini [un]course. We "join" all our "relational" learning and address all your "queries" hands-on!</p>
         <p>Registeration link below will be made active shortly!</p>
-        <center><h6>Instructor: Dr. Rahul Dave</h6>
-        <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
+        <center><h6>Instructor: Mr. Shubham Londhe</h6>
+        <img src="/assets/images/people/ShubhamLondhe.jpeg" alt="Shubham" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (11:00 AM - 01:00 PM EST)</p> <br>
@@ -445,8 +445,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>7:00 - 9:00 PM IST <br>
-        (9:30 - 11:30 AM EST)</p> <br>
+        <p>8:30 - 10:30 PM IST <br>
+        (10:00 AM - 12:00 PM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
@@ -501,8 +501,8 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>7:00 - 9:00 PM IST <br>
-        (9:30 - 11:30 AM EST)</p> <br>
+        <p>8:30 - 10:30 PM IST <br>
+        (10:00 AM - 12:00 PM EST)</p> <br>
         <button class="register-button" onclick="location.href=''">Register</button></center>
       </div>
     </div>
