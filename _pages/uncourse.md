@@ -139,9 +139,9 @@ Here is the current schedule for all our workshops.
         <center><h6>Instructor: Mr. Shubham Londhe</h6>
         <img src="/assets/images/people/ShubhamLondhe.jpeg" alt="Shubham" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
-        <p>8:30 - 10:30 PM IST <br>
-        (10:00 AM - 12:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <p>8:00 - 10:00 PM IST <br>
+        (9:30 - 11:30 AM EST)</p> <br>
+        <button class="register-button" onclick="location.href='https://my.univ.ai/community/db-in-uncourse'">Register</button></center>
       </div>
     </div>
   </div>
