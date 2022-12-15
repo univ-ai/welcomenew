@@ -36,9 +36,9 @@ sequence: 1
 
 Uncourse is a series of workshops that we conduct for our students, for them to learn skills that are not covered in the sessions, but are important to learn in order to excel in the field of data science and AI.
 
-Welcome to the second cycle of the series!
+This was to the second cycle of the series.
 
-Here is the current schedule for all our workshops.
+Here is the lastest schedule for all our workshops. Uncourse will be back in January 2023! Happy Holidays to all.
 
 *(Click on the topic cell of the workshop table to know more)*
 <div class="container">
