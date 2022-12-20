@@ -60,7 +60,7 @@ Here is the lastest schedule for all our workshops. Uncourse will be back in Jan
   <area shape="rect" class="area" coords="638,682,934,744" alt="PINNs" title="PINNs" data-toggle="modal" data-target="#PINNsModal">
   <area shape="rect" class="area" coords="638,620,934,682" alt="MLOps" title="MLOps: Organizing your Data Science Code like a Software Developer" data-toggle="modal" data-target="#MLOpsModal">
   <area shape="rect" class="area" coords="638,744,934,806" alt="DBInterview" title="Database Interview Questions" data-toggle="modal" data-target="#DBInterviewModal">
-  <area shape="rect" class="area" coords="638,806,934,868" alt="Double Descent" title="Double Descent" data-toggle="modal" data-target="#DoubleDescentModal">
+  <area shape="rect" class="area" coords="638,806,934,868" alt="Double Descent" title="Happy Holidays" data-toggle="modal" data-target="#DoubleDescentModal">
   <area shape="rect" class="area" coords="638,868,934,930" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">
   <!--<area shape="rect" class="area" coords="638,930,934,992" alt="Continual Learning" title="Continual Learning" data-toggle="modal" data-target="#ContinualLearningModal">-->
     
@@ -432,20 +432,21 @@ Here is the lastest schedule for all our workshops. Uncourse will be back in Jan
   <div class="modal-dialog ">
     <div class="modal-content" >
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Double Descent</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Happy Holidays</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">X</span>
         </button>
       </div>
       <div class="modal-body">
-        <p>To be updated soon.</p>
+        <p>See you in January,2023! </p>
+        <!--<p>To be updated soon.</p>
         <p>Registration link below will be made active shortly!</p>
         <center><h6>Instructor: Dr. Rahul Dave</h6>
         <img src="/assets/images/people/RahulDave.jpeg" alt="Rahul" style="height:200px;margin-right:15px;"><br><br>
         <h6>Timings</h6>
         <p>8:30 - 10:30 PM IST <br>
         (10:00 AM - 12:00 PM EST)</p> <br>
-        <button class="register-button" onclick="location.href=''">Register</button></center>
+        <button class="register-button" onclick="location.href=''">Register</button></center>-->
       </div>
     </div>
   </div>
