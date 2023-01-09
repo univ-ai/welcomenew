@@ -3,7 +3,7 @@ title: "AI-4"
 permalink: /courses/ai4/
 cycle: c2
 kind: course
-excerpt: Reinforcement Learning and Generative Adversarial Networks
+excerpt: Generative Adversarial Networks and Reinforcement Learning
 sequence: 7
 header:
   overlay_image: /assets/images/header/HeaderDesign6.jpeg
@@ -129,19 +129,21 @@ header:
 
 <!-- TA Modal 3-->
 <div class="container">
-<div class="modal fade modal-margin" id="Kshitij" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Anshika" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Kshitij Parwani</h5>
+<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/KshitijParwani.png" alt="Kshitij" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/AnshikaGupta.png" alt="Kshitij" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Kshitij is currently a student at IIT Varanasi and a Teaching Fellow at Univ.AI. </li>
+<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
+<li>She is a deep learning enthusiast and a recent undergraduate from JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
 </ul>
 </div>
 </div>
@@ -149,24 +151,24 @@ header:
 </div>
 </div>
 <script>
-     $('#Kshitij').appendTo('body');
+     $('#Anshika').appendTo('body');
 </script>
 
 <div class="container">
-<div class="modal fade modal-margin" id="YashrajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Raghav" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
+<h5 class="modal-title" id="exampleModalLabel">Raghav Saini</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/RaghavSaini.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
-<li>He is excited about smart devices which use AI to better assist its users.</li>
+<li>Raghav is currently pursuing undergrad at IIITD (B.Tech Computer Science and Biosciences).</li>
+<li>Conducting research at MIDAS Labs in collaboration with Adobe researchs.</li>
 </ul>
 </div>
 </div>
@@ -174,7 +176,7 @@ header:
 </div>
 </div>
 <script>
-     $('#YashrajModal').appendTo('body');
+     $('#Raghav').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -208,20 +210,9 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-### Dr. Rahul Dave 
-
-![](/assets/images/people/RahulDave.jpeg)
-
-Dr. Rahul Dave is a former Data Science faculty at Harvard University. He was on the original team for Harvard’s famous Data Science course, cs109, and has taught machine learning, statistics, and AI courses, both at Harvard and at multiple conferences and workshops. 
-
-You can [read more about him here](https://univ.ai/team/rahul-dave-2). 
-
-
 ### Teaching Assistants
 
-Coming Soon!
 
-<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
@@ -238,18 +229,18 @@ Coming Soon!
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/KshitijParwani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Kshitij"/>
+      <img src="/assets/images/people/KshitijParwani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Anshika"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashrajModal"/>
+      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Raghav"/>
     </div>
   </div>
 </div>
 
--->
+\
 
 <br>
 
@@ -297,29 +288,24 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 
 ## The Class
 
-Coming Soon!
 
-<!--
 ### High level course schedule 
-
-![](/assets/ai4-c2.assets/Schedule.png)
-
 
 **Lecture Sessions**: 
 
-- Thursday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```  
+- Tuesday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```  
 
-- Saturday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 PM EST ]```
+- Saturday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
 
 **Lab Sessions**: 
 
-- Friday Series: ```8:00 PM - 9:30 PM IST [ 10:30 AM - 12:00 AM EST ]``` 
+- Thursday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
 
-- Sunday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 AM EST ]```
+- Monday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
 
 **Office hours**: 
 
-- Mondays: ```6:30 PM - 7:30 PM [ 9:00 AM - 10:00 AM EST ]``` -->
+- Fridays: ```7:30 PM - 8:30 PM [ 9:00 AM - 10:00 AM EST ]``` -->
 
 ### Course Pre-Requisites 
 
