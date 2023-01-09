@@ -229,18 +229,18 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/KshitijParwani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Anshika"/>
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Anshika"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Raghav"/>
+      <img src="/assets/images/people/RaghavSaini.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Raghav"/>
     </div>
   </div>
 </div>
 
-\
+
 
 <br>
 
@@ -288,6 +288,7 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 
 ## The Class
 
+![](/assets/ai4-c3.assets/Schedule.png)
 
 ### High level course schedule 
 
