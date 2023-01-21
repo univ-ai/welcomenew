@@ -284,7 +284,7 @@ A lab is a TA driven one hour session that is divided into 3 major parts.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
   directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
-![](/assets/ai4-c2.assets/Content.png)
+![](/assets/ai4-c3.assets/Content.png)
 
 ## The Class
 
