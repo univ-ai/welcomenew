@@ -251,17 +251,17 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 
 **Lecture Sessions:**
 
-- Wednesday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
-- Saturday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
+- Wednesday Series: ```7:00 PM – 8:30 PM IST [8:30 AM – 10:00 AM ET]```
+- Sunday Series: ```7:00 PM – 8:30 PM IST [8:30 AM – 10:00 AM ET]```
 
 **Lab Sessions:**
 
-- Thursday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
-- Sunday Series: ```7:00 PM - 8:30 PM IST [9:30 AM - 11:00 AM ET]```
+- Friday Series: ```6:00 PM – 7:30 PM IST [7:30 AM – 9:00 AM ET]```
+- Tuesday Series: ```6:00 PM – 7:30 PM IST [7:30 AM – 9:00 AM ET]```
 
 **Office hours:**
 
-- Mondays: ```7:30 PM - 8:30 PM IST [10:00 AM - 11:00 AM ET]```
+- Saturdays: ```6:30 PM – 7:30 PM IST [8:00 AM – 9:00 AM ET]```
 
 
 ## Course Pre-Requisites
