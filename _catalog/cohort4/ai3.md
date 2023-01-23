@@ -1,13 +1,13 @@
 ---
 title: "AI-3"
-permalink: /courses/ai3/
+permalink: /catalog/cohort4/ai3/
 cycle: c4
 kind: course
 excerpt: Language Models
 sequence: 6
 header:
-  overlay_image: /assets/images/header/HeaderDesign5.jpeg
-  teaser: /assets/images/header/HeaderDesign5.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign5.jpeg
+  teaser: /assets/images/header/greyHeaderDesign5.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
@@ -205,8 +205,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ### Teaching Assistants
 
-Coming Soon!
-<!--
+
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2;">
@@ -235,7 +234,7 @@ Coming Soon!
   </div>
 </div>
 
--->
+
 
 <br>
 ## The Coursework
@@ -282,10 +281,6 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
-Coming Soon!
-
-<!--
-
 ![](/assets/ai3-c4.assets/Schedule.png)
 
 
@@ -305,7 +300,6 @@ Coming Soon!
 
 - Sunday: ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 Noon EST]```
 
--->
 
 ### Course Pre-Requisites 
 
@@ -377,10 +371,4 @@ We wish you best of luck for your AI journey.
 
 ![](/assets/images/end.jpeg)
 
-## Links to previous cohorts
-
-- [Cohort 1](/catalog/cohort1/ai3/)
-- [Cohort 2](/catalog/cohort2/ai3/)
-- [Cohort 3](/catalog/cohort3/ai3/)
-- [Cohort 4](/catalog/cohort4/ai3/)
 

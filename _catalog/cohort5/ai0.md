@@ -3,7 +3,7 @@ title: "AI-0"
 permalink: /catalog/cohort5/ai0/
 cycle: c5
 kind: course
-excerpt: The Basics of Data Science
+excerpt: Python for Data Science
 sequence: 1
 header:
   overlay_image: /assets/images/header/AI0Header.jpeg
@@ -213,7 +213,7 @@ that uses deep learning and artificial intelligence techniques to better assist 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
-Welcome to AI-0: The Basics of Data Science.
+Welcome to Python for Data Science.
 
 The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 

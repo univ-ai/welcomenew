@@ -193,7 +193,9 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
 
 ### Teaching Assistants
 
+Coming Soon!
 
+<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(6, 1fr);">
 
@@ -215,6 +217,7 @@ You can [read more about him here](https://samueli.ucla.edu/people/raghu-meka/).
     </div>
   </div>
 </div>
+-->
 
 ## The Coursework
 
@@ -260,8 +263,7 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 Coming Soon!
 
-<!--There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. -->
-
+<!--There will be a **Welcome Session** scheduled on 19th June 2022 at 8:00 PM IST [10:30 AM EST]. 
 
 ### High level course schedule 
 
@@ -284,6 +286,7 @@ Coming Soon!
 
 - Sundays: ```7:00 PM - 8:00 PM IST [ 9:30 AM - 10:30 AM EST ]```  
 
+-->
 
 ### Course Pre-Requisites 
 

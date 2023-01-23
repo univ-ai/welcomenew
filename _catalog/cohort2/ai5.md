@@ -1,18 +1,18 @@
 ---
 title: "AI-5"
-permalink: /courses/ai5/
-cycle: c3
+permalink: /catalog/cohort2/ai5/
+cycle: c2
 kind: course
 excerpt: Productionizing AI (MLOps)
 sequence: 8
 header:
-  overlay_image: /assets/images/header/HeaderDesign7.jpeg
-  teaser: /assets/images/header/HeaderDesign7.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign7.jpeg
+  teaser: /assets/images/header/greyHeaderDesign7.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
-
+<!-- MIXED COHORT 2 and SOME FROM COHORT 3 -->
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -227,9 +227,6 @@ You can <a href="https://www.linkedin.com/in/shivasj/" target="_blank">read more
 
 ### Teaching Assistants
 
-Coming Soon!
-<!--
-
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2">
@@ -258,7 +255,6 @@ Coming Soon!
   </div>
 </div>
 
--->
 
 ## The Coursework
 
@@ -286,13 +282,12 @@ A session will have the following pedagogy layout which will be repeated three t
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
 
+### Topics
+
 ![](/assets/ai5-c3.assets/Content.png)
 
 
 ## The Class
-
-Coming Soon!
-<!--
 
 ![](/assets/ai5-c3.assets/Schedule.png)
 
@@ -306,7 +301,9 @@ Coming Soon!
 
 - Tuesday : ```9:00 PM - 10:00 PM [ 11:30 AM - 12:30 PM EST ]```
 
--->
+Please check your mail for more information regarding the platform and the course.
+<br>
+<br>
 
 ### Course Pre-Requisites 
 <br>
@@ -387,9 +384,3 @@ ul {
 }
 </style>
 
-
-## Links to previous cohorts 
-
-- [Cohort 1](/catalog/cohort1/ai5/)
-- [Cohort 2](/catalog/cohort2/ai5/)
-- [Cohort 3](/catalog/cohort3/ai5/)

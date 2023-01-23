@@ -238,6 +238,8 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 ### Teaching Assistants
 
+Coming Soon!
+<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
@@ -274,6 +276,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
   </div>
 
 </div>
+-->
 
 <br>
 
@@ -321,6 +324,9 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ## The Class
 
+Coming Soon!
+
+<!--
 There will be a **Welcome Session** scheduled on 28th August 2022 at 8:00 PM IST [10:30 AM EST]. 
 
 ![](/assets/ai1-c5.assets/Schedule.png)
@@ -338,6 +344,7 @@ There will be a **Welcome Session** scheduled on 28th August 2022 at 8:00 PM IST
 **Office hours:**
 
 - Fridays : ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 PM EST]```
+-->
 
 ### Course Pre-Requisites 
 
@@ -441,4 +448,5 @@ ul {
 - [Cohort 2](/catalog/cohort2/ai1/)
 - [Cohort 3](/catalog/cohort3/ai1/)
 - [Cohort 4](/catalog/cohort4/ai1/)
+- [Cohort 5](/catalog/cohort5/ai1/)
 

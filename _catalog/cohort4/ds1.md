@@ -1,13 +1,13 @@
 ---
 title: "DS-1"
-permalink: /courses/ds1/
-cycle: c3
+permalink: /catalog/cohort4/ds1/
+cycle: c4
 kind: workshop
 excerpt: Introduction to Data Science
 sequence: 4
 header:
-  overlay_image: /assets/images/header/HeaderDesign3.jpeg
-  teaser: /assets/images/header/HeaderDesign3.jpeg
+  overlay_image: /assets/images/header/greyHeaderDesign3.jpeg
+  teaser: /assets/images/header/greyHeaderDesign3.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
@@ -76,21 +76,21 @@ header:
 
 <!-- TA Modal 1-->
 <div class="container">
-<div class="modal fade modal-margin" id="Shibani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Chaitanya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<h5 class="modal-title" id="exampleModalLabel">Sai Chaitanya</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/ShibaniBudhraja.png" alt="Shibani" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/SaiChaitanya.png" alt="Chaitanya" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>A Psychologist and amateur  musician exploring the world of Data Science.</li>
-<li>Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.</li>
-<li>Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.</li>
+<li>Chaitanya is currently a final year Ocean Engineering and Naval Architecture student at IIT Madras.</li>
+<li>He is excited about AI and it's applications in Agriculture and Healthcare.</li>
+<li>In his free time, he can be found gardening or star-gazing.</li>
 </ul>
 </div>
 </div>
@@ -98,26 +98,25 @@ header:
 </div>
 </div>
 <script>
-     $('#Shibani').appendTo('body');
+     $('#Chaitanya').appendTo('body');
 </script>
 
 <!-- TA Modal 2-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Yashraj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Yashraj Wani</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/YashrajWani.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Yashraj is currently a third year student at DY Patil College Of Engineering, Pune.</li>
+<li>He is excited about smart devices which use AI to better assist its users.</li>
 </ul>
 </div>
 </div>
@@ -125,26 +124,27 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#Yashraj').appendTo('body');
 </script>
 
 <!-- TA Modal 3-->
 <div class="container">
-<div class="modal fade modal-margin" id="Mansi" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Viraj" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Mansi Palekar</h5>
+<h5 class="modal-title" id="exampleModalLabel">Viraj Kadam</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/MansiPalekar.png" alt="Mansi" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/VirajKadam.jpeg" alt="Viraj" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-  <li>Mansi recently graduated with flying colors from Somaiya Institute, Mumbai with a Master's in Mathematics and ready to take on the world!</li>
-  <li>She's always on the lookout for new challenges and opportunities to apply AI in recommendation systems and virtual assistants, making her a real tech-savvy brainiac.</li>
-  <li>When she's not busy solving mathematical equations or playing with AI, you can find her jamming out to music or getting her hands dirty in the garden!</li> 
+  <li>Learning ML and AI at Univ.AI and through MOOCs.</li>
+  <li>Bachelors in Physics from Fergusson College, Pune.</li>
+  <li>Interested in Applications of AI for Earth Observation and Climate Data.</li> 
+  <li>Other interests include Running, Football, Hiking, and Gardening.</li>
 </ul>
 </div>
 </div>
@@ -152,9 +152,35 @@ header:
 </div>
 </div>
 <script>
-     $('#Mansi').appendTo('body');
+     $('#Viraj').appendTo('body');
 </script>
 
+<!-- TA Modal 4-->
+<div class="container">
+<div class="modal fade modal-margin" id="Yash" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Yash is interested in the applications of AI in decoding the human brain.</li>
+<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
+<li>In his free time, he likes listening to music and playing football.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Yash').appendTo('body');
+</script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -184,28 +210,35 @@ This page introduces you to the team, the basic instructions, the schedule, and 
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
 
   <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
+      <img src="/assets/images/people/SaiChaitanya.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Chaitanya"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Lakshay"/>
+      <img src="/assets/images/people/YashrajWani.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Yashraj"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/MansiPalekar.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Mansi"/>
+      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Viraj"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Yash"/>
     </div>
   </div>
 
 </div>
 <br>
+
 
 
 ## The Coursework
@@ -241,13 +274,20 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
-![](/assets/ds1-c5.assets/Content.png)
+![](/assets/ds1-c4.assets/Content.png)
 
 ## The Class
 
+#### Welcome Session - Preparing for this class
+
+There will be a Welcome Session scheduled on **28 Aug 2022**. The details will be updated soon.
+
+<!--at ```8:30 PM IST [11:00 AM ET]``` for all registered students.-->
+
 #### Class Schedule
 
-![](/assets/ds1-c5.assets/Schedule.png)
+![](/assets/ds1-c4.assets/Schedule.png)
+
 
 **Lecture Sessions:**
 
@@ -325,13 +365,6 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
-
-## Links to previous cohorts 
-
-- [Cohort 1](/catalog/cohort1/ds1/)
-- [Cohort 2](/catalog/cohort2/ds1/)
-- [Cohort 3](/catalog/cohort3/ds1/)
-- [Cohort 4](/catalog/cohort4/ds1/)
 
 
 

@@ -3,7 +3,7 @@ title: "PyDS"
 permalink: /catalog/cohort3/pyds/
 cycle: c3
 kind: course
-excerpt: Intro to Data Science
+excerpt: Python for Data Science
 sequence: 1
 header:
   overlay_image: /assets/images/header/greyHeaderDesign1.png
