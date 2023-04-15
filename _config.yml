@@ -157,6 +157,20 @@ defaults:
         overlay_color: "#000"
         overlay_filter: "0.3"
 
+  # _aiexpress
+  - scope:
+      path: ""
+      type: aiexpress
+    values:
+      sidebar:
+        nav: "coursesnav"
+      layout: single
+      classes: wide
+      share: false
+      related: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.3"
 
 
 category_archive:
