@@ -96,6 +96,9 @@ collections:
   catalog:
     output: true
     permalink: /:collection/:path/
+  aiexpress:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
