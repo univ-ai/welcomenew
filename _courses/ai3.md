@@ -75,7 +75,7 @@ header:
 
 <!-- TA Modal 1--> 
 <div class="container">
-<div class="modal fade modal-margin" id="LakshayModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
@@ -85,9 +85,9 @@ header:
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.jpeg" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
 <li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
 <li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
 </ul>
@@ -187,7 +187,8 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-</br>
+
+<br>
 
 ### Teaching Assistants
 
