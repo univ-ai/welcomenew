@@ -170,6 +170,16 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
+### Dr. Pavlos Protopapas
+
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
+
+- Scientific Director of the Institute for Applied Computational Science (IACS).
+- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
+- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
+
+You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
+
 ### Dr. Ignacio Becker
 
 ![](/assets/images/people/IgnacioBecker.jpeg)
@@ -180,31 +190,35 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ### Teaching Assistants
 
+### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
-  <div class="img-border" style="grid-column: 1/2;">
+<div style="display: grid; grid-template-columns: repeat(6, 1fr);">
+
+  <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#LakshayModal"/>
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Lakshay"/>
     </div>
   </div>
-  
+
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
     </div>
   </div>
+
 
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/MansiPalekar.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#MansiModal"/>
+      <img src="/assets/images/people/MansiPalekar.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Mansi"/>
     </div>
   </div>
 
-
-
+</div>
 <br>
+
+
 ## The Coursework
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
@@ -251,28 +265,23 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 ![](/assets/ai3-c5.assets/AI3 C5 - Schedule.png)
 
-<!--
-Coming Soon!
-
-
-
 
 **Lecture Sessions**: 
 
-- Tuesday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Monday: ```8:00 PM - 09:30 PM IST [10:30 AM - 12:00 PM EST]```
 
-- Saturday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Thursday: ```8:00 PM - 09:30 PM IST [10:30 AM - 12:00 PM EST]```
 
 **Lab Sessions**: 
 
-- Monday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Wednesday: ```8:00 PM - 09:30 PM IST [10:30 AM - 12:00 PM EST]```
 
-- Thursday: ```8:30 PM - 10:00 PM IST [11:00 AM - 12:30 PM EST]```
+- Saturday: ```8:00 PM - 09:30 PM IST [10:30 AM - 12:00 PM EST]```
 
 **Office hours**: 
 
-- Sunday: ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 Noon EST]```
--->
+- Sunday: ```8:00 PM - 9:00 PM IST [10:30 AM - 11:30 AM EST]```
+
 
 ### Course Pre-Requisites 
 
