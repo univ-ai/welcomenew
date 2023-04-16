@@ -97,7 +97,7 @@ header:
 </div>
 </div>
 <script>
-     $('#LakshayModal').appendTo('body');
+     $('#Lakshay').appendTo('body');
 </script>
 
 <!-- TA Modal 2-->
@@ -187,8 +187,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
-### Teaching Assistants
+</br>
 
 ### Teaching Assistants
 
