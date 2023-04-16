@@ -1,7 +1,7 @@
 ---
 title: "AI-3"
 permalink: /courses/ai3/
-cycle: c4
+cycle: c5
 kind: course
 excerpt: Language Models
 sequence: 6
@@ -102,21 +102,21 @@ header:
 
 <!-- TA Modal 2-->
 <div class="container">
-<div class="modal fade modal-margin" id="YashModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Shibani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Yash Surange</h5>
+<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/YashSurange.jpg" alt="Yash" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/ShibaniBudhraja.png" alt="Shibani" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Yash is interested in the applications of AI in decoding the human brain.</li>
-<li>He hopes to be a part of this effort in the future which could impact millions of lives and help us understand the brain.</li>
-<li>In his free time, he likes listening to music and playing football.</li>
+<li>A Psychologist and amateur  musician exploring the world of Data Science.</li>
+<li>Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.</li>
+<li>Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.</li>
 </ul>
 </div>
 </div>
@@ -124,53 +124,26 @@ header:
 </div>
 </div>
 <script>
-     $('#YashModal').appendTo('body');
+     $('#Shibani').appendTo('body');
 </script>
 
 <!-- TA Modal 3-->
 <div class="container">
-<div class="modal fade modal-margin" id="AamirModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog ">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Aamir Ansari</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">X</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <center><img src="/assets/images/people/AamirAnsari.jpeg" alt="Aamir" style="height:200px;margin-right:15px;"></center>
-        <ul style="list-style:circle; padding-left: 2em;">
-          <li>Aamir is currently a data scientist at Roadzen Technologies.</li>
-          <li>He is doing work in vision, audio and natural language modelling.</li>
-          <li>He is enthusiastic about football and the use cases of data science in it</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-     $('#AamirModal').appendTo('body');
-</script>
-
-<!-- TA Modal 4-->
-<div class="container">
-<div class="modal fade modal-margin" id="VirajModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Mansi" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Viraj Kadam</h5>
+<h5 class="modal-title" id="exampleModalLabel">Mansi Palekar</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/VirajKadam.jpeg" alt="Viraj" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/MansiPalekar.png" alt="Mansi" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Viraj has a bachelors degree in Physics from Fergusson College, Pune.</li>
-<li>He is interested in Applications of AI for Earth Observation and Climate Data.</li>
-<li>Other interests include Running, Football, Hiking, and Gardening.</li>
+  <li>Mansi recently graduated with flying colors from Somaiya Institute, Mumbai with a Master's in Mathematics and ready to take on the world!</li>
+  <li>She's always on the lookout for new challenges and opportunities to apply AI in recommendation systems and virtual assistants, making her a real tech-savvy brainiac.</li>
+  <li>When she's not busy solving mathematical equations or playing with AI, you can find her jamming out to music or getting her hands dirty in the garden!</li> 
 </ul>
 </div>
 </div>
@@ -178,8 +151,10 @@ header:
 </div>
 </div>
 <script>
-     $('#VirajModal').appendTo('body');
+     $('#Mansi').appendTo('body');
 </script>
+
+
 <!-------------------------------------------------------------------------------------------------------------------------->
 
 >*Sunny day Sweepin' the clouds away, On my way to where the air is sweet, Can you tell me how to get, How to get to Sesame Street?*
@@ -205,8 +180,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ### Teaching Assistants
 
-Coming Soon!
-<!--
+
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(8, 1fr);">
   <div class="img-border" style="grid-column: 1/2;">
@@ -217,25 +191,18 @@ Coming Soon!
   
   <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/YashSurange.jpg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#YashModal"/>
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#ShibaniModal"/>
     </div>
   </div>
 
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AamirAnsari.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#AamirModal"/>
+      <img src="/assets/images/people/MansiPalekar.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#MansiModal"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 7/8">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/VirajKadam.jpeg" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#VirajModal"/>
-    </div>
-  </div>
-</div>
 
--->
 
 <br>
 ## The Coursework
@@ -277,16 +244,17 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
-![](/assets/ai3-c4.assets/Content.png)
+![](/assets/ai3-c5.assets/AI3 C5 - Content.png)
 
 
 ## The Class
 
-Coming Soon!
+![](/assets/ai3-c5.assets/AI3 C5 - Schedule.png)
 
 <!--
+Coming Soon!
 
-![](/assets/ai3-c4.assets/Schedule.png)
+
 
 
 **Lecture Sessions**: 
@@ -304,7 +272,6 @@ Coming Soon!
 **Office hours**: 
 
 - Sunday: ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 Noon EST]```
-
 -->
 
 ### Course Pre-Requisites 
