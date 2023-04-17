@@ -3,7 +3,7 @@ title: "AI-1 A"
 permalink: /aiexpress/ai1a/
 kind: course
 excerpt: Linear and Logistic Regression
-sequence: 2
+sequence: 1
 header:
   overlay_image: /assets/images/header/HeaderDesign2.jpeg
   teaser: /assets/images/header/HeaderDesign2.jpeg
@@ -183,7 +183,7 @@ header:
 
 >*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
 
-Welcome to AI-1a. 
+Welcome to AI-1 A! 
 The objective of this module is to provide fundamental understandings of machine learning models 
 and get you working with the basic concepts of ML and AI. 
 
@@ -204,6 +204,14 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
+
+### Dr. Ignacio Becker
+
+![](/assets/images/people/IgnacioBecker.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
 ### Teaching Assistants
 
@@ -295,15 +303,9 @@ All exercises in this course will be done in jupyter notebooks.
 
 > Note: No prior knowledge of machine learning libraries is necessary for this module
 
-In addition to this, you are expected to know the material covered in our [AI0](/courses/ai0/) course. 
-
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
 This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
-
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 
@@ -320,18 +322,6 @@ Reference:
 
 [1] K. Stathoulopoulos and J. C. Mateos-Garcia, “Gender Diversity in AI Research,” SSRN Electronic Journal, 2019 [Online]. Available: [http://dx.doi.org/10.2139/ssrn.3428240](https://dx.doi.org/10.2139/ssrn.3428240).
 
-
-## Parting note
-
-As you will learn in this course, data science is not just about writing efficient algorithms.
-
-It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
-
-Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
-
-We wish you best of luck for your data science journey.
-
-![](/assets/images/end.jpeg)
 
 <style>
 table {

@@ -3,7 +3,7 @@ title: "AI-1 B"
 permalink: /aiexpress/ai1b/
 kind: course
 excerpt: Trees
-sequence: 1
+sequence: 2
 header:
   overlay_image: /assets/images/header/HeaderDesign1.jpeg
   teaser: /assets/images/header/HeaderDesign1.jpeg
@@ -180,7 +180,7 @@ header:
 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
-Welcome to AI-1b. 
+Welcome to AI-1 B! 
 The objective of this module is to understand the working and functions of tree models.
 
 You will start with the understanding basic decision trees and how can they be used for both regression and classification. Building on this, you will be introduced to complex tree algorithm such as Bagging, Random forest and Boosting.
@@ -200,6 +200,14 @@ This page introduces you to the team, the basic instructions, the schedule and v
 - He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
+
+### Dr. Ignacio Becker
+
+![](/assets/images/people/IgnacioBecker.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
 ### Teaching Assistants
 
@@ -291,15 +299,9 @@ All exercises in this course will be done in jupyter notebooks.
 
 > Note: No prior knowledge of machine learning libraries is necessary for this module
 
-In addition to this, you are expected to know the material covered in our [AI0](/courses/ai0/) course. 
-
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
 This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
-
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 

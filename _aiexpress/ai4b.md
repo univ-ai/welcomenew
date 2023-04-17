@@ -3,7 +3,7 @@ title: "AI-4 B"
 permalink: /aiexpress/ai4b/
 kind: course
 excerpt: Reinforcement Learning
-sequence: 8
+sequence: 10
 header:
   overlay_image: /assets/images/header/HeaderDesign1.jpeg
   teaser: /assets/images/header/HeaderDesign1.jpeg
@@ -200,6 +200,14 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
+### Dr. Ignacio Becker
+
+![](/assets/images/people/IgnacioBecker.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
@@ -331,31 +339,3 @@ We commit to an experience for all participants that is free from – Harassment
 Reference:
 
 [1] K. Stathoulopoulos and J. C. Mateos-Garcia, “Gender Diversity in AI Research,” SSRN Electronic Journal, 2019 [Online]. Available: http://dx.doi.org/10.2139/ssrn.3428240.
-
-## Logistics - What you need to begin?
-
-We assume you have a [Univ.AI](https://courses.univ.ai) account, created when you signed up at [courses.univ.ai](https://courses.univ.ai). 
-If not, email [programs@univ.ai](mailto:programs@univ.ai).
-
-
-### Education software we use
-
-- Our lectures and labs are carried out via [Zoom](/support/zoom/) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](/support/edstem/).
-- Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
-
-All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
-
-Our module policies around collaboration and grading are listed [here](/assets/policy/). Our expectations of you are also laid out in that document.
-
-## Parting note
-
-As you will learn in this course, data science is not just about writing efficient algorithms.
-
-It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
-
-Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
-
-We wish you best of luck for your data science journey.
-
-![](/assets/images/end.jpeg)
