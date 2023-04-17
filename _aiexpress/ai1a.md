@@ -1,12 +1,12 @@
 ---
 title: "AI-1 A" 
-permalink: /courses/ai1a/
+permalink: /aiexpress/ai1a/
 kind: course
 excerpt: Linear and Logistic Regression
-sequence: 1
+sequence: 2
 header:
-  overlay_image: /assets/images/header/AI0Header.jpeg
-  teaser: /assets/images/header/HeaderDesign1.jpeg
+  overlay_image: /assets/images/header/HeaderDesign2.jpeg
+  teaser: /assets/images/header/HeaderDesign2.jpeg
 ---
 
 <!-- Bootstrap CSS -->
@@ -174,7 +174,6 @@ header:
 </div>
 </div>
 </div>
-
 <script>
      $('#AnshikaModal').appendTo('body');
 </script>

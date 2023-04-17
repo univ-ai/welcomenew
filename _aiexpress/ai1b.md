@@ -1,11 +1,11 @@
 ---
 title: "AI-1 B" 
-permalink: /courses/ai1b/
+permalink: /aiexpress/ai1b/
 kind: course
 excerpt: Trees
 sequence: 1
 header:
-  overlay_image: /assets/images/header/AI0Header.jpeg
+  overlay_image: /assets/images/header/HeaderDesign1.jpeg
   teaser: /assets/images/header/HeaderDesign1.jpeg
 ---
 
@@ -174,7 +174,6 @@ header:
 </div>
 </div>
 </div>
-
 <script>
      $('#AnshikaModal').appendTo('body');
 </script>

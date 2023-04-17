@@ -136,8 +136,6 @@ defaults:
       path: ""
       type: catalog
     values:
-      sidebar:
-        nav: "coursesnav"
       layout: single
       classes: wide
       share: false
