@@ -2,7 +2,7 @@
 title: "AI-2 B"
 permalink: /aiexpress/ai2b/
 kind: course
-excerpt: Neural Networks and Autoencoders
+excerpt: Convolutional Neural Networks
 sequence: 6
 header:
   overlay_image: /assets/images/header/HeaderDesign6.jpeg
