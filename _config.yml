@@ -136,6 +136,8 @@ defaults:
       path: ""
       type: catalog
     values:
+      sidebar:
+        nav: "coursesnav"
       layout: single
       classes: wide
       share: false
@@ -163,8 +165,6 @@ defaults:
       path: ""
       type: aiexpress
     values:
-      sidebar:
-        nav: "coursesnav"
       layout: single
       classes: wide
       share: false
