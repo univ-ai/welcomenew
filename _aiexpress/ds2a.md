@@ -183,7 +183,13 @@ header:
 
 Welcome to DS-2 A!
 
-In this course,
+In this course, we will teach you about different types of databases, how to design and use them effectively, and how to manage and analyze data using the latest tools and techniques. You'll learn about both traditional and emerging database technologies, and how they are used in a variety of applications.
+
+
+By the end of this module, you will be able to design and implement effective database solutions, perform data analysis and integration, and understand best practices for data management and governance in a variety of real-world applications.
+
+This page introduces you to the team, the basic instructions, the schedule, and various elements of our class.
+
 
 ## The Team
 
@@ -265,7 +271,7 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
-![](/assets/aiexpress/ds1a.assets/Content.png)
+![](/assets/aiexpress/ds2a.assets/Content.png)
 
 <!--
 ## The Class
@@ -291,7 +297,12 @@ A lab is a TA driven 1.5 hour session that is divided into 3 major parts.
 
 ## Course Pre-Requisites
 
-Coming soon...
+You are expected to have basic programming experience.
+
+- Programming Experience:
+  - [Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) - Specific topics: [Introducing Pandas Objects Data](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html), [Indexing and Selection](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html)
+  - [NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) - Specific topics: [Understanding Data Types in Python](https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html), [The Basics of NumPy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html), [Computation on Arrays: Broadcasting](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html), [Comparisons, Masks, and Boolean Logic](https://jakevdp.github.io/PythonDataScienceHandbook/02.06-boolean-arrays-and-masks.html)
+ 
 
 ## Diversity & Inclusion
 
