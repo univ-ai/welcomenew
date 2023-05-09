@@ -178,6 +178,32 @@ header:
      $('#AnshikaModal').appendTo('body');
 </script>
 
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -208,7 +234,7 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
@@ -233,8 +259,16 @@ You can [read more about him here](https://univ.ai/team/rahul-dave-2).
     <div class="circular--portrait">
       <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
     </div>
-  </div> 
+
+  </div>
+    <div class="img-border" style="grid-column: 9/10">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Lakshay"/>
+    </div>
+  </div>
+
 </div>
+
 <br>
 
 ## The Coursework
@@ -267,8 +301,8 @@ After the session, students are expected to complete a short post-class quiz bas
 
 A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
 
-- Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
-- After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
+- Each lab begins by solving parts of a complete problem. This problem is designed to help you further elucidate concepts you learned in lecture.
+- After discussing exercises, we will have a semi-formal Q/A session. This part of the lab is free-for-all, where you can ask any doubts that lingered over from lecture.
 
 ![](/assets/aiexpress/ds2b.assets/Content.png)
 
@@ -301,6 +335,8 @@ You are expected to have basic programming experience and completed the course [
 - Programming Experience:
   - [Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) - Specific topics: [Introducing Pandas Objects Data](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html), [Indexing and Selection](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html)
   - [NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) - Specific topics: [Understanding Data Types in Python](https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html), [The Basics of NumPy Arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html), [Computation on Arrays: Broadcasting](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html), [Comparisons, Masks, and Boolean Logic](https://jakevdp.github.io/PythonDataScienceHandbook/02.06-boolean-arrays-and-masks.html)
+
+ > Note: Prior knowledge of the course content convered in DS-2 A is necessary for this module
  
 
 ## Diversity & Inclusion

@@ -177,6 +177,31 @@ header:
      $('#AnshikaModal').appendTo('body');
 </script>
 
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
 
 >Your journey in Deep Learning has lead you here. 
 >You are now an expert at building everything from computer vision to language to generative to reinforcement models. 
@@ -218,7 +243,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 ### Teaching Assistants
 
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
@@ -243,9 +268,13 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
     <div class="circular--portrait">
       <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
     </div>
-  </div>
 
-  
+  </div>
+    <div class="img-border" style="grid-column: 9/10">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Lakshay"/>
+    </div>
+  </div>
 
 </div>
 
