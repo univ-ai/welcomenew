@@ -56,6 +56,74 @@ header:
     border-radius: 50%; 
     } 
   }
+  .circular-portrait-instructor { 
+    width: 12rem; 
+    height: 12rem; 
+    overflow: hidden; 
+    border-radius: 20%; 
+    display: block;
+    } 
+  .circular-portrait-instructor-img { 
+    width: 100%; 
+    height: auto; 
+    }
+  .img-border-instructor {
+    border-left: 1px solid #787D80;
+    border-top: 1px solid #787D80;
+    border-radius: 20%;
+    padding: 0.5rem;
+    position: relative;
+  }
+  .img-border-instructor:hover {
+    box-shadow: -3px 3px #787D80, -2px 2px #787D80, -1px 1px #787D80;
+  }
+  @media (max-width: 630px) {
+    .circular-portrait-instructor { 
+    width: 2.5rem; 
+    height: 2.5rem; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    } 
+  }
+  .instructor-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+    color: #ffffff;
+    border-radius: 20%; 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+  }
+
+  .instructor-overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+  }
+
+  .instructor-overlay:hover {
+    opacity: 1;
+  }
+
+  .instructor-overlay:hover > * {
+    transform: translateY(0);
+
+  }
+
+ 
+  .instructor
+  .instructor-overlay-title {
+    font-weight: bold;
+  } */
+  
 </style>
 
 
@@ -204,6 +272,61 @@ header:
      $('#Lakshay').appendTo('body');
 </script>
 
+<div class="container">
+<div class="modal fade modal-margin" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Pavlos Protopapas</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true" alt="Pavlos" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Scientific Director of the Institute for Applied Computational Science (IACS).</li>
+<li>Teaches Introduction to Data Science (<a href="https://harvard-iacs.github.io/2019-CS109A/">CS109a</a>), Advanced Topics in Data Science (<a href="https://harvard-iacs.github.io/2020-CS109B/">CS109b</a>) and Advanced Practical Data Science (<a href="https://harvard-iacs.github.io/2021-AC215/">AC215</a>).</li>
+<li>He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years.</li>
+
+You can <a href="https://www.univ.ai/team/pavlos-protopapas-2">read more about him here</a>.
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#PavlosModal').appendTo('body');
+</script>
+
+<div class="container">
+<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Ignacio Becker</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/IgnacioBecker.jpeg" alt="Ignacio" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. </li>
+<li>His main area of research is applied AI to astrophysical problems. </li>
+<li>Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.</li>
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#IgnacioModal').appendTo('body');
+</script>
+
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -221,27 +344,37 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Dr. Pavlos Protopapas
+*Click on avatars of the team to know more about them.*
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
+### Instructors
 
-- Scientific Director of the Institute for Applied Computational Science (IACS).
-- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC215](https://harvard-iacs.github.io/2021-AC215/)).
-- He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years. 
+<div style="display: grid; grid-template-columns: repeat(4, 1fr);">
 
-You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
-
-### Dr. Ignacio Becker
-
-![](/assets/images/people/IgnacioBecker.jpeg)
-
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
+  <div class="img-border-instructor" style="grid-column: 1/2;">
+    <div class="circular-portrait-instructor">
+      <img src="https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true" class="circular-portrait-instructor-img" align="left" style="margin-top:-30px;" data-toggle="modal" data-target="#PavlosModal"/>
+    </div>
+    <div class="instructor-overlay" data-toggle="modal" data-target="#PavlosModal">
+      <p class="instructor-overlay-title">
+        Pavlos Protopapas
+      </p>
+    </div>
+  </div>
+  
+  <div class="img-border-instructor" style="grid-column: 3/4;">
+    <div class="circular-portrait-instructor">
+      <img src="/assets/images/people/IgnacioBecker.jpeg" class="circular-portrait-instructor-img" align="left" data-toggle="modal" data-target="#IgnacioModal"/>
+    </div>
+    <div class="instructor-overlay" data-toggle="modal" data-target="#IgnacioModal">
+      <p class="instructor-overlay-title">
+        Ignacio Becker
+      </p>
+    </div>
+  </div>
+</div>
 
 ### Teaching Assistants
 
-*Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
   <div class="img-border" style="grid-column: 1/2;">
