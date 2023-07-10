@@ -83,8 +83,8 @@ header:
         <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
           <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
-          <li>Previously, she was a data analyst at Schneider Electric.</li>
-          <li>She is currently working as a research fellow at the StellarDNN lab.</li>
+          <li>She is currently working as a research fellow at the StellarDNN lab, IACS.</li>
+          <li>She is an incoming graduate student at Georgia Tech where she will specialize in machine learning.</li>
         </ul>
       </div>
     </div>
