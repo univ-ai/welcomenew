@@ -517,7 +517,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
+      <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Arya"/>
     </div>
   </div>
 
