@@ -529,7 +529,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#AnshikaModal"/>
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#AnshikaModal"/>
     </div>
   </div>
 
