@@ -590,21 +590,31 @@ This page introduces you to the team, the basic instructions, the schedule and v
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 1/2;">
+  <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+      <img src="/assets/images/people/Ibtisam.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Ibtisam"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 1/2;">
+  <div class="img-border" style="grid-column: 5/6;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+      <img src="/assets/images/people/VrishbhanuSingh.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Vrishbhanu"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AdityaDoomra.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Aditya"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AshwiniTayade.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Ashwini"/>
     </div>
   </div>
 
 </div>
-
-
 
 <br>
 
