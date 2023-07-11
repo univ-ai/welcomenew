@@ -582,6 +582,20 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 </div>
 
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
+
+  <div class="img-border" style="grid-column: 1/2;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+    </div>
+  </div>
+
+
+
+</div>
+
 
 
 <br>
