@@ -524,7 +524,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
   <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#VishnuModal"/>
     </div>
   </div>
 
@@ -609,7 +609,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 7/8;">
+  <div class="img-border" style="grid-column: 9/10;">
     <div class="circular--portrait">
       <img src="/assets/images/people/AshwiniTayade.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Ashwini"/>
     </div>
