@@ -372,21 +372,19 @@ header:
 
 <!-- TA Modal 12-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Ibtisam" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Ibtisam Mohammad</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/Ibtisam.png" alt="Ibtisam" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Ibtisam has a Masters in Physics and is currently working on AI based Virtual Try-On at a startup.</li>
 </ul>
 </div>
 </div>
@@ -394,27 +392,28 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#Ibtisam').appendTo('body');
 </script>
 
 
 <!-- TA Modal 13-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Vrishbhanu" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Vrishbhanu Singh</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/VrishbhanuSingh.png" alt="Vrishbhanu" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Vrishbhanu Singh is a professional with a keen interest in Artificial Intelligence, particularly in the field of Reinforcement Learning. </li>
+<li>He holds an undergraduate degree in Economics from Hindu College, Delhi University. </li>
+<li>With his entrepreneurial spirit, he has established a startup in the construction industry and aims to incorporate AI to automate industrial plants.</li>
+<li>In addition to his professional achievements, he is a former national-level cricketer and a talented musician who continues to play the guitar in his leisure time.</li>
 </ul>
 </div>
 </div>
@@ -422,7 +421,7 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#Vrishbhanu').appendTo('body');
 </script>
 
 
@@ -504,12 +503,14 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ### Dr. Ignacio Becker
 
+<center>
+
 ![](/assets/images/people/IgnacioBecker.jpeg)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
+</center>
 
 ### Teaching Assistants
 
@@ -586,31 +587,31 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
   <div class="img-border" style="grid-column: 1/2;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Hemani"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/Ibtisam.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Ibtisam"/>
+      <img src="/assets/images/people/Ibtisam.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Ibtisam"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/VrishbhanuSingh.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Vrishbhanu"/>
+      <img src="/assets/images/people/VrishbhanuSingh.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Vrishbhanu"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AdityaDoomra.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Aditya"/>
+      <img src="/assets/images/people/AdityaDoomra.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Aditya"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/AshwiniTayade.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Ashwini"/>
+      <img src="/assets/images/people/AshwiniTayade.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Ashwini"/>
     </div>
   </div>
 
