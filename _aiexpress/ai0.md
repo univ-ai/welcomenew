@@ -503,15 +503,12 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ### Dr. Ignacio Becker
 
-<center>
-
 ![](/assets/images/people/IgnacioBecker.jpeg)
 
 - Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
 - His main area of research is applied AI to astrophysical problems. 
 - Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
-</center>
 
 ### Teaching Assistants
 
