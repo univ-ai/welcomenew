@@ -558,13 +558,13 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
   <div class="img-border" style="grid-column: 3/4;">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ChaitanyaGVS.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Chaitanya"/>
+      <img src="/assets/images/people/ChaitanyaGVS.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Chaitanya"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/NawangBhutia.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Nawang"/>
+      <img src="/assets/images/people/NawangBhutia.png" class="circular--portrait-img" align="left" style="" data-toggle="modal" data-target="#Nawang"/>
     </div>
   </div>
 
@@ -582,8 +582,6 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 </div>
 
-</div>
-
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
   <div class="img-border" style="grid-column: 1/2;">
@@ -592,7 +590,17 @@ This page introduces you to the team, the basic instructions, the schedule and v
     </div>
   </div>
 
+  <div class="img-border" style="grid-column: 1/2;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+    </div>
+  </div>
 
+  <div class="img-border" style="grid-column: 1/2;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+    </div>
+  </div>
 
 </div>
 
