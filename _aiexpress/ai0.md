@@ -176,6 +176,7 @@ header:
      $('#AnshikaModal').appendTo('body');
 </script>
 
+<!-- TA Modal 5-->
 <div class="container">
 <div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
@@ -189,7 +190,7 @@ header:
 <div class="modal-body">
 <center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
 <li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
 <li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
 </ul>
@@ -202,24 +203,23 @@ header:
      $('#Lakshay').appendTo('body');
 </script>
 
+<!-- TA Modal 6-->
 <div class="container">
-<div class="modal fade modal-margin" id="PavlosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Hetansh" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Pavlos Protopapas</h5>
+<h5 class="modal-title" id="exampleModalLabel">Hetansh Mehta</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true" alt="Pavlos" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/HetanshMehta.png" alt="Hetansh" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Scientific Director of the Institute for Applied Computational Science (IACS).</li>
-<li>Teaches Introduction to Data Science (<a href="https://harvard-iacs.github.io/2019-CS109A/">CS109a</a>), Advanced Topics in Data Science (<a href="https://harvard-iacs.github.io/2020-CS109B/">CS109b</a>) and Advanced Practical Data Science (<a href="https://harvard-iacs.github.io/2021-AC215/">AC215</a>).</li>
-<li>He is a leader in astrostatistics and he is excited about the new telescopes coming online in the next few years.</li>
-
-You can <a href="https://www.univ.ai/team/pavlos-protopapas-2">read more about him here</a>.
+<li>Hetansh Mehta is a Product Data Analyst at CollegeDunia web private limited.</li>
+<li>He is proficient in leveraging Data Science and Analytics techniques to build products that people love to interact with.</li>
+<li>In his free time, he likes to explore art galleries, museums, play chess and watch sports.</li>
 </ul>
 </div>
 </div>
@@ -227,26 +227,26 @@ You can <a href="https://www.univ.ai/team/pavlos-protopapas-2">read more about h
 </div>
 </div>
 <script>
-     $('#PavlosModal').appendTo('body');
+     $('#Hetansh').appendTo('body');
 </script>
 
+<!-- TA Modal 7-->
 <div class="container">
-<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Ignacio Becker</h5>
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/IgnacioBecker.jpeg" alt="Ignacio" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. </li>
-<li>His main area of research is applied AI to astrophysical problems. </li>
-<li>Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.</li>
-
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
 </ul>
 </div>
 </div>
@@ -254,8 +254,234 @@ You can <a href="https://www.univ.ai/team/pavlos-protopapas-2">read more about h
 </div>
 </div>
 <script>
-     $('#IgnacioModal').appendTo('body');
+     $('#Lakshay').appendTo('body');
 </script>
+
+
+<!-- TA Modal 8-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 9-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 10-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 11-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 12-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 13-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 14-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
+<!-- TA Modal 15-->
+<div class="container">
+<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
+<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
+<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#Lakshay').appendTo('body');
+</script>
+
+
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
@@ -305,7 +531,41 @@ This page introduces you to the team, the basic instructions, the schedule and v
     <div class="circular--portrait">
       <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#AnshikaModal"/>
     </div>
-  
+  </div>
+
+  <div class="img-border" style="grid-column: 7/8;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 9/10">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Lakshay"/>
+    </div>
+  </div>
+
+
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
+
+  <div class="img-border" style="grid-column: 1/2;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/HetanshMehta.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hetansh"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 3/4;">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/VishnuM.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#VishnuModal"/>
+    </div>
+  </div>
+
+  <div class="img-border" style="grid-column: 5/6">
+    <div class="circular--portrait">
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#AnshikaModal"/>
+    </div>
   </div>
 
   <div class="img-border" style="grid-column: 7/8;">
@@ -323,6 +583,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
   
 
 </div>
+
 
 
 <br>
