@@ -479,6 +479,33 @@ header:
      $('#Ashwini').appendTo('body');
 </script>
 
+<!-- Instructor Modal 1-->
+<div class="container">
+<div class="modal fade modal-margin" id="IgnacioModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">Ignacio Becker</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">X</span>
+</button>
+</div>
+<div class="modal-body">
+<center><img src="/assets/images/people/IgnacioBecker.jpeg" alt="Ignacio" style="height:200px;margin-right:15px;"></center>
+<ul style="list-style:circle; padding-left: 2em;">
+<li>Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. </li>
+<li>His main area of research is applied AI to astrophysical problems. </li>
+<li>Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.</li>
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+     $('#IgnacioModal').appendTo('body');
+</script>
 
 
 <!-------------------------------------------------------------------------------------------------------------------------->
@@ -502,14 +529,22 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ### Dr. Ignacio Becker
 
-![](/assets/images/people/IgnacioBecker.jpeg)
-
-- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
-- His main area of research is applied AI to astrophysical problems. 
-- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
-
+<div style="display: grid; grid-template-columns: repeat(4, 1fr);"> 
+  <div class="img-border-instructor" style="grid-column: 3/4;">
+    <div class="circular-portrait-instructor">
+      <img src="/assets/images/people/IgnacioBecker.jpeg" class="circular-portrait-instructor-img" align="left" data-toggle="modal" data-target="#IgnacioModal"/>
+    </div>
+    <div class="instructor-overlay" data-toggle="modal" data-target="#IgnacioModal">
+      <p class="instructor-overlay-title">
+        Ignacio Becker
+      </p>
+    </div>
+  </div>
+</div>
 
 ### Teaching Assistants
+
+*Click on avatars of the team members to know more about them.*
 
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
