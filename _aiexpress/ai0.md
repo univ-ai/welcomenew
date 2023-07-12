@@ -454,21 +454,21 @@ header:
 
 <!-- TA Modal 15-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Ashwini" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Ashwini Tayade</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/AshwiniTayade.png" alt="Ashwini" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Ashwini, with a master's degree in Physics, excels as a freelance data scientist, leveraging data science for impactful insights.</li>
+<li>Her passions lie in data privacy policies, healthcare AI, and applying design thinking methodologies.</li>
+<li>During her leisure time, Ashwini finds joy in gaming, reading, and  painting.</li>
 </ul>
 </div>
 </div>
@@ -476,7 +476,7 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#Ashwini').appendTo('body');
 </script>
 
 
