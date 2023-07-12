@@ -80,7 +80,7 @@ header:
         </button>
       </div>
       <div class="modal-body">
-        <center><img src="/assets/images/people/AryaMohan.jpeg" alt="Arya" style="height:200px;margin-right:15px;"></center>
+        <center><img src="/assets/images/people/AryaMohan.png" alt="Arya" style="height:200px;margin-right:15px;"></center>
         <ul style="list-style:circle; padding-left: 2em;">
           <li>Arya is working as a research and teaching fellow with Univ.AI.</li>
           <li>She is currently working as a research fellow at the StellarDNN lab, IACS.</li>
@@ -427,21 +427,20 @@ header:
 
 <!-- TA Modal 14-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Aditya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Aditya Doomra</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/AdityaDoomra.png" alt="Aditya" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a CSE graduate from MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Aditya is a research consultant with a hedge fund, previously he has worked in the data science team at BluSmart, where he worked on building traffic, demand, and supply prediction models. </li>
+<li>He loves everything finance and data; and likes gaming and reading in his free time.</li>
 </ul>
 </div>
 </div>
@@ -449,7 +448,7 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
+     $('#Aditya').appendTo('body');
 </script>
 
 
