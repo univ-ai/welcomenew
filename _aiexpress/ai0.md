@@ -527,7 +527,11 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Dr. Ignacio Becker
+*Click on avatars of the team members to know more about them.*
+
+### Instructor
+
+## Dr. Ignacio Becker
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr);"> 
   <div class="img-border-instructor" style="grid-column: 3/4;">
@@ -535,16 +539,11 @@ This page introduces you to the team, the basic instructions, the schedule and v
       <img src="/assets/images/people/IgnacioBecker.jpeg" class="circular-portrait-instructor-img" align="left" data-toggle="modal" data-target="#IgnacioModal"/>
     </div>
     <div class="instructor-overlay" data-toggle="modal" data-target="#IgnacioModal">
-      <p class="instructor-overlay-title">
-        Ignacio Becker
-      </p>
     </div>
   </div>
 </div>
 
 ### Teaching Assistants
-
-*Click on avatars of the team members to know more about them.*
 
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
