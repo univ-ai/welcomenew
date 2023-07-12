@@ -527,23 +527,19 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-*Click on avatars of the team members to know more about them.*
-
 ### Instructor
 
-## Dr. Ignacio Becker
+#### Dr. Ignacio Becker
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr);"> 
-  <div class="img-border-instructor" style="grid-column: 3/4;">
-    <div class="circular-portrait-instructor">
-      <img src="/assets/images/people/IgnacioBecker.jpeg" class="circular-portrait-instructor-img" align="left" data-toggle="modal" data-target="#IgnacioModal"/>
-    </div>
-    <div class="instructor-overlay" data-toggle="modal" data-target="#IgnacioModal">
-    </div>
-  </div>
-</div>
+![](/assets/images/people/IgnacioBecker.jpeg)
+
+- Astronomer currently pursuing a Ph.D. in Computer Science at Pontificia Universidad Católica in Chile. 
+- His main area of research is applied AI to astrophysical problems. 
+- Nowadays, he focuses on developing models to process the real-time data of the next generation of telescopes.
 
 ### Teaching Assistants
+
+*Click on avatars of the team members to know more about them.*
 
 <div style="display: grid; grid-template-columns: repeat(10, 1fr);">
 
