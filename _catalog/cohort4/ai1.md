@@ -406,6 +406,8 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
+### Course Content
+
 ![](/assets/ai1-c4.assets/content.png)
 
 ## The Class

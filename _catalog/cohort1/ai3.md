@@ -101,6 +101,8 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
+### Course Content
+
 ![](/assets/ai3-c1.assets/content.jpg)
 
 

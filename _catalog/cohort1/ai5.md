@@ -98,7 +98,9 @@ A lab is a one hour session that is divided into 3 major parts.
   directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
-### Topics
+
+### Course Content
+
 
 <table style="width:800px;">
   <tr>

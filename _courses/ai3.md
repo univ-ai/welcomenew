@@ -192,6 +192,9 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 ### Teaching Assistants
 
+Coming soon!
+
+<!--
 *Click on avatars of the TAs to know more about them.*
 <div style="display: grid; grid-template-columns: repeat(6, 1fr);">
 
@@ -216,7 +219,7 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
   </div>
 
 </div>
-<br>
+<br> -->
 
 
 ## The Coursework
@@ -257,6 +260,8 @@ and homeworks are welcome.
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
+
+### Course Content
 
 ![](/assets/ai3-c5.assets/AI3 C5 - Content.png)
 

@@ -285,6 +285,8 @@ A session will have the following pedagogy layout which will be repeated three t
 
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
+### Course Content
+
 
 ![](/assets/ai5-c3.assets/Content.png)
 

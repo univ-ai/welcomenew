@@ -74,6 +74,8 @@ A lab is a TA driven one-hour session that is divided into 3 major parts.
 - Each lab begins by solving parts of a complete problem. This problem is designed to help you with your homework and further elucidate concepts you learned in lecture.
 - After discussing exercises, we will have a semi-formal Q/A session. The first part of this session is limited to homework questions, but the second part is more free-for-all, where you can ask any doubts that lingered over from lecture.
 
+### Course Content
+
 ![](/assets/ds2-c1.assets/content.png)
 
 ## The Class
