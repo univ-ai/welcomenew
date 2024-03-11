@@ -1,6 +1,6 @@
 ---
 title: "AI-5"
-permalink: /courses/ai5/
+permalink: /6abbe6/ai5/
 cycle: c3
 kind: course
 excerpt: Productionizing AI (MLOps)

@@ -1,6 +1,6 @@
 ---
 title: "DS-1"
-permalink: /courses/ds1/
+permalink: /6abbe6/ds1/
 cycle: c3
 kind: workshop
 excerpt: Introduction to Data Science

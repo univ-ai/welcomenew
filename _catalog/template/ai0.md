@@ -1,6 +1,6 @@
 ---
 title: "AI-0" 
-permalink: /courses/ai0/
+permalink: /6abbe6/ai0/
 cycle: c6
 kind: course
 excerpt: The Basics of Data Science

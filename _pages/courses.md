@@ -9,3 +9,4 @@ entries_layout: grid
 classes: wide
 ---
 
+We are no longer offering any courses.

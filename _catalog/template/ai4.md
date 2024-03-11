@@ -1,21 +1,19 @@
 ---
-title: "AI-1" 
-permalink: /courses/ai1/
-cycle: c4
+title: "AI-4"
+permalink: /6abbe6/ai4/
+cycle: c2
 kind: course
-excerpt: ML/AI Basics
-sequence: 2
+excerpt: Generative Adversarial Networks and Reinforcement Learning
+sequence: 7
 header:
-  overlay_image: /assets/images/header/HeaderDesign7.jpeg
-  teaser: /assets/images/header/HeaderDesign7.jpeg
+  overlay_image: /assets/images/header/HeaderDesign6.jpeg
+  teaser: /assets/images/header/HeaderDesign6.jpeg
   actions:
     - label: "Register"
       url: "https://application.univ.ai/applications"
 ---
-
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-<!-- -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
@@ -60,11 +58,12 @@ header:
     border-radius: 50%; 
     } 
   }
+  }
 </style>
-
 
 <!-- TA Modal Section -->
 <style>
+  
   .modal-margin {
     margin: 0 auto;
   }
@@ -72,8 +71,8 @@ header:
   .modal {
     background: transparent;
   }
-</style>
 
+</style>
 <!-- TA Modal 1--> 
 <div class="container">
 <div class="modal fade modal-margin" id="Arya" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -103,21 +102,21 @@ header:
 
 <!-- TA Modal 2-->
 <div class="container">
-<div class="modal fade modal-margin" id="Shibani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Varshini" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Shibani Budhraja</h5>
+<h5 class="modal-title" id="exampleModalLabel">Varshini Reddy</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/ShibaniBudhraja.png" alt="Shibani" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/VarshiniReddy.png" alt="Varshini" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>A Psychologist and amateur  musician exploring the world of Data Science.</li>
-<li>Her current and future goals include working towards mastering Reinforcement Learning along with exploring ethics and biases in AI.</li>
-<li>Her previous occupations have included a few hospital internships under neuropsychologists and psychiatrists , teaching at a  NGO for young girls and thereafter teaching kids with special needs.</li>
+<li>Varshini is an Artificial Intelligence Researcher and Masters Student at Harvard University.</li>
+<li>Previously, she was a Research Associate at the Indian Institute of Science.</li>
+<li>She is passionate about working at the interface of AI and social impact.</li>
 </ul>
 </div>
 </div>
@@ -125,26 +124,26 @@ header:
 </div>
 </div>
 <script>
-     $('#Shibani').appendTo('body');
+     $('#Varshini').appendTo('body');
 </script>
 
 <!-- TA Modal 3-->
 <div class="container">
-<div class="modal fade modal-margin" id="Hemani" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Anshika" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Hemani Shah</h5>
+<h5 class="modal-title" id="exampleModalLabel">Anshika Gupta</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/HemaniShah.png" alt="Hemani" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/AnshikaGupta.png" alt="Kshitij" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Hemani is a Machine Learning Enthusiast, currently a final year undergrad at Gujarat Technological University.</li>
-<li>She previously volunteered for a Non-Profit organization called TEDxGoldenBridge.</li>
-<li>She can be found reading novels in her free time.</li>
+<li>Anshika is the Co-ordinatior of Academic Development at Univ.AI.</li>
+<li>She is a deep learning enthusiast and a recent undergraduate from JECRC University, Jaipur.</li>
+<li>Previously, she was a Research Intern at Neos HealthTech where she worked on developing algorithms for medical image analysis and segmentation.</li>
 </ul>
 </div>
 </div>
@@ -152,26 +151,24 @@ header:
 </div>
 </div>
 <script>
-     $('#Hemani').appendTo('body');
+     $('#Anshika').appendTo('body');
 </script>
 
-<!-- TA Modal 4-->
 <div class="container">
-<div class="modal fade modal-margin" id="Lakshay" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade modal-margin" id="Raghav" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Lakshay Chawla</h5>
+<h5 class="modal-title" id="exampleModalLabel">Raghav Saini</h5>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">X</span>
 </button>
 </div>
 <div class="modal-body">
-<center><img src="/assets/images/people/LakshayChawla.png" alt="Lakshay" style="height:200px;margin-right:15px;"></center>
+<center><img src="/assets/images/people/RaghavSaini.png" alt="Yashraj" style="height:200px;margin-right:15px;"></center>
 <ul style="list-style:circle; padding-left: 2em;">
-<li>Lakshay is a final year CSE undergrad at MAIT, Delhi.</li>
-<li>Eventual goals include unravelling the mysteries of deep space with the help of ever-evolving AI.</li>
-<li>You might find him engrossed in music and never-ending thoughts if not working for the future.</li>
+<li>Raghav is currently pursuing undergrad at IIITD (B.Tech Computer Science and Biosciences).</li>
+<li>Conducting research at MIDAS Labs in collaboration with Adobe researchs.</li>
 </ul>
 </div>
 </div>
@@ -179,54 +176,31 @@ header:
 </div>
 </div>
 <script>
-     $('#Lakshay').appendTo('body');
-</script>
-
-<!-- TA Modal 5-->
-<div class="container">
-<div class="modal fade modal-margin" id="Abjasree" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="exampleModalLabel">Abjasree S</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">X</span>
-</button>
-</div>
-<div class="modal-body">
-<center><img src="/assets/images/people/Abjasree.jpeg" alt="Abjasree" style="height:200px;margin-right:15px;"></center>
-<ul style="list-style:circle; padding-left: 2em;">
-<li>Currently, Direct Entry diploma in Data Science student at IIT Madras.</li>
-<li>Completed Masters in Physics from Indian Institute of Science Education and Research (IISER), Tirupati.</li>
-<li>Looks forward to learning how to use AI and its application in various physics problems and other research fields, especially image processing.</li>
-<li>In her free time, she can be found watching anime or drawing anime characters.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script>
-     $('#Abjasree').appendTo('body');
+     $('#Raghav').appendTo('body');
 </script>
 
 <!-------------------------------------------------------------------------------------------------------------------------->
 
->*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist, a master of all four elements.*
+>Look for the bare necessities, <br>
+>The simple bare necessities, <br>
+>Forget about your worries and your strife, <br>
+>I mean the bare necessities, <br>
+>Old Mother Nature's recipes, <br>
+>That brings the bare necessities of life!
 
-Welcome to AI-1. 
-The objective of this module is to provide fundamental understandings of machine learning models 
-and get you working with the basic concepts of ML and AI. 
+Welcome to AI4. 
 
-You will start with the basic regression models (KNN, Linear, Multi, Poly), classification models (kNN, Logistic) and then move on to more advanced concepts like Bagging and Boosting. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, preventing overfitting, regularization, and model evaluation. 
+The objective of this module is to provide fundamental understanding of the concepts behind Reinforcement Learning, Generative Models and how to apply them to real world problems. This course follows the Univ.AI model of balancing between concept, theory, and implementation.
 
-At the end of this module, you will be able to run basic and advanced machine learning models, and tell how well they are performing. 
+The course covers an introduction to the field of Reinforcement Learning covering the basic concepts, dynamic programming, Q-learning and Policy Graident Methods. The course will also give an overview of network building blocks, followed by an review of Generative Adversarial Networks and provide a understanding of state of the art models in the field. 
+
+At the end of this module, you will be able to efficiently work with reinforcement learning problems and build effective generative adversarial networks.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
 ## The Team
 
-### Dr. Pavlos Protopapas
+### Dr. Pavlos Protopapas 
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
@@ -238,46 +212,35 @@ You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2)
 
 ### Teaching Assistants
 
-Coming Soon!
 
-<!--
 *Click on avatars of the TAs to know more about them.*
-<div style="display: grid; grid-template-columns: repeat(10, 1fr);">
-
-  <div class="img-border" style="grid-column: 1/2;">
+<div style="display: grid; grid-template-columns: repeat(8, 1fr);">
+  <div class="img-border" style="grid-column: 1/2">
     <div class="circular--portrait">
       <img src="/assets/images/people/AryaMohan.jpeg" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Arya"/>
     </div>
   </div>
 
-  <div class="img-border" style="grid-column: 3/4;">
+  <div class="img-border" style="grid-column: 3/4">
     <div class="circular--portrait">
-      <img src="/assets/images/people/ShibaniBudhraja.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Shibani"/>
+      <img src="/assets/images/people/VarshiniReddy.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Varshini"/>
     </div>
   </div>
 
   <div class="img-border" style="grid-column: 5/6">
     <div class="circular--portrait">
-      <img src="/assets/images/people/HemaniShah.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Hemani"/>
+      <img src="/assets/images/people/AnshikaGupta.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Anshika"/>
     </div>
-  
   </div>
-  
-  <div class="img-border" style="grid-column: 7/8;">
+
+  <div class="img-border" style="grid-column: 7/8">
     <div class="circular--portrait">
-      <img src="/assets/images/people/LakshayChawla.png" class="circular--portrait-img" align="left" style="margin-top:-15px;" data-toggle="modal" data-target="#Lakshay"/>
+      <img src="/assets/images/people/RaghavSaini.png" class="circular--portrait-img" align="left" data-toggle="modal" data-target="#Raghav"/>
     </div>
   </div>
-
-
-  <div class="img-border" style="grid-column: 9/10">
-    <div class="circular--portrait">
-      <img src="/assets/images/people/Abjasree.jpeg" class="circular--portrait-img" align="left" style="margin-top:1px; margin-right:-10px;" data-toggle="modal" data-target="#Abjasree"/>
-    </div>
-  </div>
-
 </div>
--->
+
+
 
 <br>
 
@@ -287,67 +250,65 @@ We have very carefully designed the coursework to give you, the student, a whole
 
 Each week shall include:
 
-- 2 Sessions
-- 2 Labs
-- Office hours
+-  2 Sessions
+-  2 Labs
+-  Office hours
 
 ### Session - What to expect
 
 ![](/assets/images/Session.png)
 
-The course includes two 1.5 hour sessions per week. Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
 
 A session will have the following pedagogy layout which will be repeated three times:
 
 - Approx. 15 minutes of live online instruction followed by approx 15 minutes of Q/A + Quiz + Exercises. 
 - Sessions will help students develop the intuition for the core concepts, 
- provide the necessary mathematical background, and provide guidance on technical details. 
+  provide the necessary mathematical background, and provide guidance on technical details. 
 - Sessions will be accompanied by relevant examples to clarify key concepts and techniques.
 
 After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
-
 
 ### Lab - What to expect
 
 ![](/assets/images/Lab.png)
 
-A lab is a TA driven 1.5 hour session that is divided into 3 major parts. 
+A lab is a TA driven one hour session that is divided into 3 major parts. 
 
-- Each lab begins by revisiting the quizzes and exercises done in the previous lecture session. 
-
-- After discussing exercises, we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
-and homeworks are welcome.
+- Each lab begins by revisiting the 
+  Quizzes and Exercises done in the previous lecture session. 
+- After discussing exercises,
+  we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
+  and homeworks are welcome.
 
 - The last part of the labs deals predominantly with the upcoming homeworks. It is 
-directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
+  directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 ### Course Content
 
-![](/assets/ai1-c5.assets/Content.png)
+![](/assets/ai4-c3.assets/Content.png)
 
 ## The Class
 
-Coming Soon!
+![](/assets/ai4-c3.assets/Schedule.png)
 
-<!--
-There will be a **Welcome Session** scheduled on 28th August 2022 at 8:00 PM IST [10:30 AM EST]. 
+### High level course schedule 
 
-![](/assets/ai1-c5.assets/Schedule.png)
+**Lecture Sessions**: 
 
-**Lecture Sessions:**
+- Tuesday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```  
 
-- Tuesday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
-- Saturday Series: ```7:00 PM - 8:30 PM IST [ 9:30 AM - 11:00 AM EST]```
+- Saturday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
 
-**Lab Sessions:**
+**Lab Sessions**: 
 
-- Thursday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 PM EST]```
-- Monday Series: ```8:30 PM - 10:00 PM IST [ 11:00 AM - 12:30 PM EST]```
+- Thursday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
 
-**Office hours:**
+- Monday Series: ```7:30 PM - 9:00 PM IST [ 9:00 AM - 10:30 AM EST ]```
 
-- Fridays : ```8:30 PM - 9:30 PM IST [11:00 AM - 12:00 PM EST]```
--->
+**Office hours**: 
+
+- Fridays: ```7:30 PM - 8:30 PM [ 9:00 AM - 10:00 AM EST ]``` -->
 
 ### Course Pre-Requisites 
 
@@ -355,13 +316,12 @@ Your are expected to have a working knowledge of python, along with these three 
 
 - Numpy
 - Pandas
-- Matplotlib
+- Tensorflow.keras
 
 All exercises in this course will be done in jupyter notebooks. 
 
-> Note: No prior knowledge of machine learning libraries is necessary for this module
+> Note: Prior knowledge of high level machine learning libraries such as keras is necessary for this module
 
-In addition to this, you are expected to know the material covered in our [AI0](/courses/ai0/) course. 
 
 Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
 
@@ -369,7 +329,6 @@ This will help you assess your preparedness for the course, and will also help y
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
 
-Please find a more detailed summary of the pre-requisites for this program [here](/assets/ai1-c3.assets/courseprep/).
 
 ## Diversity & Inclusion
 
@@ -388,7 +347,7 @@ Reference:
 
 ## Logistics - What you need to begin?
 
-We assume you have a [Univ.AI](https://course.univ.ai) account, created when you signed up at [course.univ.ai](https://course.univ.ai). 
+We assume you have a [Univ.AI](https://course.univ.ai) account, created when you signed up at [course.univ.ai](https://courses.univ.ai). 
 If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 
@@ -414,42 +373,8 @@ We wish you best of luck for your data science journey.
 
 ![](/assets/images/end.jpeg)
 
+## Links to previous cohorts
 
-<style>
-table {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-  border-top: 0px solid black;
-  border-bottom: 0px solid black;
-}
-
-td, th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-tr:nth-child(even){background-color: #ffffff;}
-tr:nth-child(odd){background-color: #ffffff;}
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: left;
-  background-color: #848484;
-  color: white;
-}
-ul {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-</style>
-
-
-
-## Links to previous cohorts 
-
-- [Cohort 1](/catalog/cohort1/ai1/)
-- [Cohort 2](/catalog/cohort2/ai1/)
-- [Cohort 3](/catalog/cohort3/ai1/)
-- [Cohort 4](/catalog/cohort4/ai1/)
-- [Cohort 5](/catalog/cohort5/ai1/)
+- [Cohort 1](/catalog/cohort1/ai4/)
+- [Cohort 2](/catalog/cohort2/ai4/)
 

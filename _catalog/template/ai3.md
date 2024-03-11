@@ -1,6 +1,6 @@
 ---
 title: "AI-3"
-permalink: /courses/ai3/
+permalink: /6abbe6/ai3/
 cycle: c5
 kind: course
 excerpt: Language Models

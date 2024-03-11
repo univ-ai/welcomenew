@@ -1,6 +1,6 @@
 ---
 title: "AI-2"
-permalink: /courses/ai2/
+permalink: /6abbe6/ai2/
 cycle: c5
 kind: course
 excerpt: Neural Networks
