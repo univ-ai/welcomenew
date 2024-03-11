@@ -3,8 +3,6 @@ main:
     url: /courses/
   - title: "Support"
     url: /support/
-  - title: "Uncourse"
-    url: /uncourse/
   - title: "Community"
     url: https://community.univ.ai/
   - title: "Main Site"
